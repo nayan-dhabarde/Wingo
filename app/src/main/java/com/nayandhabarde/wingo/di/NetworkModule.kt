@@ -38,6 +38,4 @@ class NetworkModule {
     fun provideGson(): Gson {
         return Gson()
     }
-
-
 }

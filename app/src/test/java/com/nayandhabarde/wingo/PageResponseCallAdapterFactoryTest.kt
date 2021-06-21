@@ -63,7 +63,6 @@ class PageResponseCallAdapterFactoryTest {
         val deferred = service.getPageResponse()
         val output = deferred.await()
         assertThat(output).isEqualTo(expectedResult)
-
     }
 
 }
