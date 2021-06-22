@@ -1,0 +1,6194 @@
+[
+  {
+    "begin_at": "2021-06-30T08:00:00Z",
+    "end_at": "2021-07-02T22:00:00Z",
+    "id": 6253,
+    "league": {
+      "id": 4570,
+      "image_url": "https://cdn.pandascore.co/images/league/image/4570/600px-DreamHack_Open.png",
+      "modified_at": "2021-05-04T14:35:44Z",
+      "name": "DreamHack Open",
+      "slug": "cs-go-dreamhack-open",
+      "url": "https://dreamhack.com/open/"
+    },
+    "league_id": 4570,
+    "live_supported": false,
+    "matches": [
+      {
+        "begin_at": "2021-06-30T08:00:00Z",
+        "detailed_stats": true,
+        "draw": false,
+        "end_at": null,
+        "forfeit": false,
+        "game_advantage": null,
+        "id": 598140,
+        "live": {
+          "opens_at": null,
+          "supported": false,
+          "url": null
+        },
+        "live_embed_url": null,
+        "match_type": "best_of",
+        "modified_at": "2021-06-16T15:52:18Z",
+        "name": "Upper Bracket Round 1 1: TBD vs TBD",
+        "number_of_games": 3,
+        "official_stream_url": null,
+        "original_scheduled_at": "2021-06-30T08:00:00Z",
+        "rescheduled": false,
+        "scheduled_at": "2021-06-30T08:00:00Z",
+        "slug": "2021-06-30-af1b4ca4-4842-4382-a030-5124ebbdc08d",
+        "status": "not_started",
+        "streams": {
+          "english": {
+            "embed_url": null,
+            "raw_url": null
+          },
+          "official": {
+            "embed_url": null,
+            "raw_url": null
+          },
+          "russian": {
+            "embed_url": null,
+            "raw_url": null
+          }
+        },
+        "streams_list": [],
+        "tournament_id": 6253,
+        "winner_id": null
+      },
+      {
+        "begin_at": "2021-06-30T11:15:00Z",
+        "detailed_stats": true,
+        "draw": false,
+        "end_at": null,
+        "forfeit": false,
+        "game_advantage": null,
+        "id": 598141,
+        "live": {
+          "opens_at": null,
+          "supported": false,
+          "url": null
+        },
+        "live_embed_url": null,
+        "match_type": "best_of",
+        "modified_at": "2021-06-16T15:52:09Z",
+        "name": "Upper Bracket Round 1 2: TBD vs TBD",
+        "number_of_games": 3,
+        "official_stream_url": null,
+        "original_scheduled_at": "2021-06-30T11:15:00Z",
+        "rescheduled": false,
+        "scheduled_at": "2021-06-30T11:15:00Z",
+        "slug": "2021-06-30-21574364-6b07-425e-b90b-6ee0ef5cbf9a",
+        "status": "not_started",
+        "streams": {
+          "english": {
+            "embed_url": null,
+            "raw_url": null
+          },
+          "official": {
+            "embed_url": null,
+            "raw_url": null
+          },
+          "russian": {
+            "embed_url": null,
+            "raw_url": null
+          }
+        },
+        "streams_list": [],
+        "tournament_id": 6253,
+        "winner_id": null
+      },
+      {
+        "begin_at": "2021-07-01T08:00:00Z",
+        "detailed_stats": true,
+        "draw": false,
+        "end_at": null,
+        "forfeit": false,
+        "game_advantage": null,
+        "id": 598142,
+        "live": {
+          "opens_at": null,
+          "supported": false,
+          "url": null
+        },
+        "live_embed_url": null,
+        "match_type": "best_of",
+        "modified_at": "2021-06-16T15:52:33Z",
+        "name": "Upper Bracket Final: TBD vs TBD",
+        "number_of_games": 3,
+        "official_stream_url": null,
+        "original_scheduled_at": "2021-07-01T08:00:00Z",
+        "rescheduled": false,
+        "scheduled_at": "2021-07-01T08:00:00Z",
+        "slug": "2021-07-01-fa3a1ffd-b9e6-4348-b6c4-eaf4d66e4264",
+        "status": "not_started",
+        "streams": {
+          "english": {
+            "embed_url": null,
+            "raw_url": null
+          },
+          "official": {
+            "embed_url": null,
+            "raw_url": null
+          },
+          "russian": {
+            "embed_url": null,
+            "raw_url": null
+          }
+        },
+        "streams_list": [],
+        "tournament_id": 6253,
+        "winner_id": null
+      },
+      {
+        "begin_at": "2021-07-01T11:15:00Z",
+        "detailed_stats": true,
+        "draw": false,
+        "end_at": null,
+        "forfeit": false,
+        "game_advantage": null,
+        "id": 598143,
+        "live": {
+          "opens_at": null,
+          "supported": false,
+          "url": null
+        },
+        "live_embed_url": null,
+        "match_type": "best_of",
+        "modified_at": "2021-06-16T15:52:51Z",
+        "name": "Lower Bracket Round 1: TBD vs TBD",
+        "number_of_games": 3,
+        "official_stream_url": null,
+        "original_scheduled_at": "2021-07-01T11:15:00Z",
+        "rescheduled": false,
+        "scheduled_at": "2021-07-01T11:15:00Z",
+        "slug": "2021-07-01-262e01c9-aab8-4230-b38b-98a67dfc34b5",
+        "status": "not_started",
+        "streams": {
+          "english": {
+            "embed_url": null,
+            "raw_url": null
+          },
+          "official": {
+            "embed_url": null,
+            "raw_url": null
+          },
+          "russian": {
+            "embed_url": null,
+            "raw_url": null
+          }
+        },
+        "streams_list": [],
+        "tournament_id": 6253,
+        "winner_id": null
+      },
+      {
+        "begin_at": "2021-07-02T11:15:00Z",
+        "detailed_stats": true,
+        "draw": false,
+        "end_at": null,
+        "forfeit": false,
+        "game_advantage": null,
+        "id": 598144,
+        "live": {
+          "opens_at": null,
+          "supported": false,
+          "url": null
+        },
+        "live_embed_url": null,
+        "match_type": "best_of",
+        "modified_at": "2021-06-16T15:53:10Z",
+        "name": "Lower Bracket Final: TBD vs TBD",
+        "number_of_games": 3,
+        "official_stream_url": null,
+        "original_scheduled_at": "2021-07-02T11:15:00Z",
+        "rescheduled": false,
+        "scheduled_at": "2021-07-02T11:15:00Z",
+        "slug": "2021-07-02-e1e8f4c5-d156-461e-8a2c-34931716051c",
+        "status": "not_started",
+        "streams": {
+          "english": {
+            "embed_url": null,
+            "raw_url": null
+          },
+          "official": {
+            "embed_url": null,
+            "raw_url": null
+          },
+          "russian": {
+            "embed_url": null,
+            "raw_url": null
+          }
+        },
+        "streams_list": [],
+        "tournament_id": 6253,
+        "winner_id": null
+      },
+      {
+        "begin_at": "2021-07-03T11:15:00Z",
+        "detailed_stats": true,
+        "draw": false,
+        "end_at": null,
+        "forfeit": false,
+        "game_advantage": null,
+        "id": 598145,
+        "live": {
+          "opens_at": null,
+          "supported": false,
+          "url": null
+        },
+        "live_embed_url": null,
+        "match_type": "best_of",
+        "modified_at": "2021-06-16T15:53:37Z",
+        "name": "Grand Final: TBD vs TBD",
+        "number_of_games": 3,
+        "official_stream_url": null,
+        "original_scheduled_at": "2021-07-03T11:15:00Z",
+        "rescheduled": false,
+        "scheduled_at": "2021-07-03T11:15:00Z",
+        "slug": "2021-07-03-5808b629-e5b0-4012-b2ce-3e389590b074",
+        "status": "not_started",
+        "streams": {
+          "english": {
+            "embed_url": null,
+            "raw_url": null
+          },
+          "official": {
+            "embed_url": null,
+            "raw_url": null
+          },
+          "russian": {
+            "embed_url": null,
+            "raw_url": null
+          }
+        },
+        "streams_list": [],
+        "tournament_id": 6253,
+        "winner_id": null
+      }
+    ],
+    "modified_at": "2021-06-21T19:50:02Z",
+    "name": "Playoffs",
+    "prizepool": null,
+    "serie": {
+      "begin_at": "2021-06-28T22:00:00Z",
+      "description": null,
+      "end_at": "2021-07-02T22:00:00Z",
+      "full_name": "Asian June 2021",
+      "id": 3705,
+      "league_id": 4570,
+      "modified_at": "2021-06-16T15:49:51Z",
+      "name": "Asian",
+      "season": "June",
+      "slug": "cs-go-dreamhack-open-asian-june-2021",
+      "tier": "c",
+      "winner_id": null,
+      "winner_type": null,
+      "year": 2021
+    },
+    "serie_id": 3705,
+    "slug": "cs-go-dreamhack-open-asian-june-2021-playoffs",
+    "teams": [
+      {
+        "acronym": null,
+        "id": 126439,
+        "image_url": "https://cdn.pandascore.co/images/team/image/126439/lynn_vision_gaming_2020.png",
+        "location": "CN",
+        "modified_at": "2021-06-21T19:50:02Z",
+        "name": "Lynn Vision",
+        "slug": "lynn-vision"
+      },
+      {
+        "acronym": null,
+        "id": 127043,
+        "image_url": "https://cdn.pandascore.co/images/team/image/127043/8607.png",
+        "location": "MN",
+        "modified_at": "2021-06-16T15:51:20Z",
+        "name": "D13",
+        "slug": "d13"
+      },
+      {
+        "acronym": null,
+        "id": 127706,
+        "image_url": "https://cdn.pandascore.co/images/team/image/127706/10796.png",
+        "location": null,
+        "modified_at": "2021-06-19T21:50:50Z",
+        "name": "Checkmate",
+        "slug": "checkmate"
+      },
+      {
+        "acronym": null,
+        "id": 128782,
+        "image_url": "https://cdn.pandascore.co/images/team/image/128782/164px_team_renewal.png",
+        "location": null,
+        "modified_at": "2021-06-20T21:44:28Z",
+        "name": "Renewal",
+        "slug": "renewal"
+      }
+    ],
+    "videogame": {
+      "id": 3,
+      "name": "CS:GO",
+      "slug": "cs-go"
+    },
+    "winner_id": null,
+    "winner_type": "Team"
+  },
+  {
+    "begin_at": "2021-06-29T19:00:00Z",
+    "end_at": "2021-07-02T22:00:00Z",
+    "id": 6252,
+    "league": {
+      "id": 4570,
+      "image_url": "https://cdn.pandascore.co/images/league/image/4570/600px-DreamHack_Open.png",
+      "modified_at": "2021-05-04T14:35:44Z",
+      "name": "DreamHack Open",
+      "slug": "cs-go-dreamhack-open",
+      "url": "https://dreamhack.com/open/"
+    },
+    "league_id": 4570,
+    "live_supported": false,
+    "matches": [
+      {
+        "begin_at": "2021-06-29T19:00:00Z",
+        "detailed_stats": true,
+        "draw": false,
+        "end_at": null,
+        "forfeit": false,
+        "game_advantage": null,
+        "id": 598127,
+        "live": {
+          "opens_at": null,
+          "supported": false,
+          "url": null
+        },
+        "live_embed_url": null,
+        "match_type": "best_of",
+        "modified_at": "2021-06-16T15:25:12Z",
+        "name": "Opening Match 1 A: TBD vs TBD",
+        "number_of_games": 3,
+        "official_stream_url": null,
+        "original_scheduled_at": "2021-06-29T19:00:00Z",
+        "rescheduled": false,
+        "scheduled_at": "2021-06-29T19:00:00Z",
+        "slug": "2021-06-29-bb6756ea-a389-4cc7-9870-a1ef6b08f58d",
+        "status": "not_started",
+        "streams": {
+          "english": {
+            "embed_url": null,
+            "raw_url": null
+          },
+          "official": {
+            "embed_url": null,
+            "raw_url": null
+          },
+          "russian": {
+            "embed_url": null,
+            "raw_url": null
+          }
+        },
+        "streams_list": [],
+        "tournament_id": 6252,
+        "winner_id": null
+      },
+      {
+        "begin_at": "2021-06-29T19:00:00Z",
+        "detailed_stats": true,
+        "draw": false,
+        "end_at": null,
+        "forfeit": false,
+        "game_advantage": null,
+        "id": 598132,
+        "live": {
+          "opens_at": null,
+          "supported": false,
+          "url": null
+        },
+        "live_embed_url": null,
+        "match_type": "best_of",
+        "modified_at": "2021-06-16T15:27:11Z",
+        "name": "Opening Match 1 B: TBD vs TBD",
+        "number_of_games": 3,
+        "official_stream_url": null,
+        "original_scheduled_at": "2021-06-29T19:00:00Z",
+        "rescheduled": false,
+        "scheduled_at": "2021-06-29T19:00:00Z",
+        "slug": "2021-06-29-b0f112f1-2ed1-4c7d-8e19-235940cedd58",
+        "status": "not_started",
+        "streams": {
+          "english": {
+            "embed_url": null,
+            "raw_url": null
+          },
+          "official": {
+            "embed_url": null,
+            "raw_url": null
+          },
+          "russian": {
+            "embed_url": null,
+            "raw_url": null
+          }
+        },
+        "streams_list": [],
+        "tournament_id": 6252,
+        "winner_id": null
+      },
+      {
+        "begin_at": "2021-06-29T22:30:00Z",
+        "detailed_stats": true,
+        "draw": false,
+        "end_at": null,
+        "forfeit": false,
+        "game_advantage": null,
+        "id": 598133,
+        "live": {
+          "opens_at": null,
+          "supported": false,
+          "url": null
+        },
+        "live_embed_url": null,
+        "match_type": "best_of",
+        "modified_at": "2021-06-16T15:27:25Z",
+        "name": "Opening Match 2 B: TBD vs TBD",
+        "number_of_games": 3,
+        "official_stream_url": null,
+        "original_scheduled_at": "2021-06-29T22:30:00Z",
+        "rescheduled": false,
+        "scheduled_at": "2021-06-29T22:30:00Z",
+        "slug": "2021-06-30-5f4a8132-a0d1-4be4-9b91-0b1f7f5b86a4",
+        "status": "not_started",
+        "streams": {
+          "english": {
+            "embed_url": null,
+            "raw_url": null
+          },
+          "official": {
+            "embed_url": null,
+            "raw_url": null
+          },
+          "russian": {
+            "embed_url": null,
+            "raw_url": null
+          }
+        },
+        "streams_list": [],
+        "tournament_id": 6252,
+        "winner_id": null
+      },
+      {
+        "begin_at": "2021-06-30T01:00:00Z",
+        "detailed_stats": true,
+        "draw": false,
+        "end_at": null,
+        "forfeit": false,
+        "game_advantage": null,
+        "id": 598128,
+        "live": {
+          "opens_at": null,
+          "supported": false,
+          "url": null
+        },
+        "live_embed_url": null,
+        "match_type": "best_of",
+        "modified_at": "2021-06-16T15:25:32Z",
+        "name": "Opening Match 2 A: TBD vs TBD",
+        "number_of_games": 3,
+        "official_stream_url": null,
+        "original_scheduled_at": "2021-06-30T01:00:00Z",
+        "rescheduled": false,
+        "scheduled_at": "2021-06-30T01:00:00Z",
+        "slug": "2021-06-30-758e2e13-6ab4-451b-8a15-7a35f8ab095c",
+        "status": "not_started",
+        "streams": {
+          "english": {
+            "embed_url": null,
+            "raw_url": null
+          },
+          "official": {
+            "embed_url": null,
+            "raw_url": null
+          },
+          "russian": {
+            "embed_url": null,
+            "raw_url": null
+          }
+        },
+        "streams_list": [],
+        "tournament_id": 6252,
+        "winner_id": null
+      },
+      {
+        "begin_at": "2021-06-30T19:00:00Z",
+        "detailed_stats": true,
+        "draw": false,
+        "end_at": null,
+        "forfeit": false,
+        "game_advantage": null,
+        "id": 598129,
+        "live": {
+          "opens_at": null,
+          "supported": false,
+          "url": null
+        },
+        "live_embed_url": null,
+        "match_type": "best_of",
+        "modified_at": "2021-06-16T15:25:48Z",
+        "name": "Winner's Match A: TBD vs TBD",
+        "number_of_games": 3,
+        "official_stream_url": null,
+        "original_scheduled_at": "2021-06-30T19:00:00Z",
+        "rescheduled": false,
+        "scheduled_at": "2021-06-30T19:00:00Z",
+        "slug": "2021-06-30-9658810d-cdca-4bf8-abb3-9c54aa0f85c1",
+        "status": "not_started",
+        "streams": {
+          "english": {
+            "embed_url": null,
+            "raw_url": null
+          },
+          "official": {
+            "embed_url": null,
+            "raw_url": null
+          },
+          "russian": {
+            "embed_url": null,
+            "raw_url": null
+          }
+        },
+        "streams_list": [],
+        "tournament_id": 6252,
+        "winner_id": null
+      },
+      {
+        "begin_at": "2021-06-30T19:00:00Z",
+        "detailed_stats": true,
+        "draw": false,
+        "end_at": null,
+        "forfeit": false,
+        "game_advantage": null,
+        "id": 598134,
+        "live": {
+          "opens_at": null,
+          "supported": false,
+          "url": null
+        },
+        "live_embed_url": null,
+        "match_type": "best_of",
+        "modified_at": "2021-06-16T15:27:40Z",
+        "name": "Winner's Match B: TBD vs TBD",
+        "number_of_games": 3,
+        "official_stream_url": null,
+        "original_scheduled_at": "2021-06-30T19:00:00Z",
+        "rescheduled": false,
+        "scheduled_at": "2021-06-30T19:00:00Z",
+        "slug": "2021-06-30-906e4daa-7d84-42bc-b0e6-94531931a28a",
+        "status": "not_started",
+        "streams": {
+          "english": {
+            "embed_url": null,
+            "raw_url": null
+          },
+          "official": {
+            "embed_url": null,
+            "raw_url": null
+          },
+          "russian": {
+            "embed_url": null,
+            "raw_url": null
+          }
+        },
+        "streams_list": [],
+        "tournament_id": 6252,
+        "winner_id": null
+      },
+      {
+        "begin_at": "2021-06-30T22:30:00Z",
+        "detailed_stats": true,
+        "draw": false,
+        "end_at": null,
+        "forfeit": false,
+        "game_advantage": null,
+        "id": 598130,
+        "live": {
+          "opens_at": null,
+          "supported": false,
+          "url": null
+        },
+        "live_embed_url": null,
+        "match_type": "best_of",
+        "modified_at": "2021-06-16T15:26:10Z",
+        "name": "Elimination Match A: TBD vs TBD",
+        "number_of_games": 3,
+        "official_stream_url": null,
+        "original_scheduled_at": "2021-06-30T22:30:00Z",
+        "rescheduled": false,
+        "scheduled_at": "2021-06-30T22:30:00Z",
+        "slug": "2021-07-01-d1ef1e01-2661-4195-b963-29f86a21a113",
+        "status": "not_started",
+        "streams": {
+          "english": {
+            "embed_url": null,
+            "raw_url": null
+          },
+          "official": {
+            "embed_url": null,
+            "raw_url": null
+          },
+          "russian": {
+            "embed_url": null,
+            "raw_url": null
+          }
+        },
+        "streams_list": [],
+        "tournament_id": 6252,
+        "winner_id": null
+      },
+      {
+        "begin_at": "2021-06-30T22:30:00Z",
+        "detailed_stats": true,
+        "draw": false,
+        "end_at": null,
+        "forfeit": false,
+        "game_advantage": null,
+        "id": 598135,
+        "live": {
+          "opens_at": null,
+          "supported": false,
+          "url": null
+        },
+        "live_embed_url": null,
+        "match_type": "best_of",
+        "modified_at": "2021-06-16T15:28:06Z",
+        "name": "Elimination Match B: TBD vs TBD",
+        "number_of_games": 3,
+        "official_stream_url": null,
+        "original_scheduled_at": "2021-06-30T22:30:00Z",
+        "rescheduled": false,
+        "scheduled_at": "2021-06-30T22:30:00Z",
+        "slug": "2021-07-01-bed4b3ca-27c9-464e-bccc-d48a528c4348",
+        "status": "not_started",
+        "streams": {
+          "english": {
+            "embed_url": null,
+            "raw_url": null
+          },
+          "official": {
+            "embed_url": null,
+            "raw_url": null
+          },
+          "russian": {
+            "embed_url": null,
+            "raw_url": null
+          }
+        },
+        "streams_list": [],
+        "tournament_id": 6252,
+        "winner_id": null
+      },
+      {
+        "begin_at": "2021-07-01T19:00:00Z",
+        "detailed_stats": true,
+        "draw": false,
+        "end_at": null,
+        "forfeit": false,
+        "game_advantage": null,
+        "id": 598131,
+        "live": {
+          "opens_at": null,
+          "supported": false,
+          "url": null
+        },
+        "live_embed_url": null,
+        "match_type": "best_of",
+        "modified_at": "2021-06-16T15:26:28Z",
+        "name": "Decider Match A: TBD vs TBD",
+        "number_of_games": 3,
+        "official_stream_url": null,
+        "original_scheduled_at": "2021-07-01T19:00:00Z",
+        "rescheduled": false,
+        "scheduled_at": "2021-07-01T19:00:00Z",
+        "slug": "2021-07-01-400c628d-b23b-4b56-a2c6-c4d3a228f054",
+        "status": "not_started",
+        "streams": {
+          "english": {
+            "embed_url": null,
+            "raw_url": null
+          },
+          "official": {
+            "embed_url": null,
+            "raw_url": null
+          },
+          "russian": {
+            "embed_url": null,
+            "raw_url": null
+          }
+        },
+        "streams_list": [],
+        "tournament_id": 6252,
+        "winner_id": null
+      },
+      {
+        "begin_at": "2021-07-01T22:30:00Z",
+        "detailed_stats": true,
+        "draw": false,
+        "end_at": null,
+        "forfeit": false,
+        "game_advantage": null,
+        "id": 598136,
+        "live": {
+          "opens_at": null,
+          "supported": false,
+          "url": null
+        },
+        "live_embed_url": null,
+        "match_type": "best_of",
+        "modified_at": "2021-06-16T15:28:19Z",
+        "name": "Decider Match B: TBD vs TBD",
+        "number_of_games": 3,
+        "official_stream_url": null,
+        "original_scheduled_at": "2021-07-01T22:30:00Z",
+        "rescheduled": false,
+        "scheduled_at": "2021-07-01T22:30:00Z",
+        "slug": "2021-07-02-bb3137ac-2e88-408b-ab0b-2bfd64619e83",
+        "status": "not_started",
+        "streams": {
+          "english": {
+            "embed_url": null,
+            "raw_url": null
+          },
+          "official": {
+            "embed_url": null,
+            "raw_url": null
+          },
+          "russian": {
+            "embed_url": null,
+            "raw_url": null
+          }
+        },
+        "streams_list": [],
+        "tournament_id": 6252,
+        "winner_id": null
+      },
+      {
+        "begin_at": "2021-07-02T19:00:00Z",
+        "detailed_stats": true,
+        "draw": false,
+        "end_at": null,
+        "forfeit": false,
+        "game_advantage": null,
+        "id": 598137,
+        "live": {
+          "opens_at": null,
+          "supported": false,
+          "url": null
+        },
+        "live_embed_url": null,
+        "match_type": "best_of",
+        "modified_at": "2021-06-16T15:28:55Z",
+        "name": "Semifinals 1: TBD vs TBD",
+        "number_of_games": 3,
+        "official_stream_url": null,
+        "original_scheduled_at": "2021-07-02T19:00:00Z",
+        "rescheduled": false,
+        "scheduled_at": "2021-07-02T19:00:00Z",
+        "slug": "2021-07-02-c01add32-5376-49cf-bdcc-a399788c84ad",
+        "status": "not_started",
+        "streams": {
+          "english": {
+            "embed_url": null,
+            "raw_url": null
+          },
+          "official": {
+            "embed_url": null,
+            "raw_url": null
+          },
+          "russian": {
+            "embed_url": null,
+            "raw_url": null
+          }
+        },
+        "streams_list": [],
+        "tournament_id": 6252,
+        "winner_id": null
+      },
+      {
+        "begin_at": "2021-07-02T22:15:00Z",
+        "detailed_stats": true,
+        "draw": false,
+        "end_at": null,
+        "forfeit": false,
+        "game_advantage": null,
+        "id": 598138,
+        "live": {
+          "opens_at": null,
+          "supported": false,
+          "url": null
+        },
+        "live_embed_url": null,
+        "match_type": "best_of",
+        "modified_at": "2021-06-16T15:29:06Z",
+        "name": "Semifinals 2: TBD vs TBD",
+        "number_of_games": 3,
+        "official_stream_url": null,
+        "original_scheduled_at": "2021-07-02T22:15:00Z",
+        "rescheduled": false,
+        "scheduled_at": "2021-07-02T22:15:00Z",
+        "slug": "2021-07-03",
+        "status": "not_started",
+        "streams": {
+          "english": {
+            "embed_url": null,
+            "raw_url": null
+          },
+          "official": {
+            "embed_url": null,
+            "raw_url": null
+          },
+          "russian": {
+            "embed_url": null,
+            "raw_url": null
+          }
+        },
+        "streams_list": [],
+        "tournament_id": 6252,
+        "winner_id": null
+      },
+      {
+        "begin_at": "2021-07-03T19:00:00Z",
+        "detailed_stats": true,
+        "draw": false,
+        "end_at": null,
+        "forfeit": false,
+        "game_advantage": null,
+        "id": 598139,
+        "live": {
+          "opens_at": null,
+          "supported": false,
+          "url": null
+        },
+        "live_embed_url": null,
+        "match_type": "best_of",
+        "modified_at": "2021-06-16T15:29:17Z",
+        "name": "Grand Final: TBD vs TBD",
+        "number_of_games": 5,
+        "official_stream_url": null,
+        "original_scheduled_at": "2021-07-03T19:00:00Z",
+        "rescheduled": false,
+        "scheduled_at": "2021-07-03T19:00:00Z",
+        "slug": "2021-07-03-c6ab956a-341f-4811-9b9a-38fe99392c50",
+        "status": "not_started",
+        "streams": {
+          "english": {
+            "embed_url": null,
+            "raw_url": null
+          },
+          "official": {
+            "embed_url": null,
+            "raw_url": null
+          },
+          "russian": {
+            "embed_url": null,
+            "raw_url": null
+          }
+        },
+        "streams_list": [],
+        "tournament_id": 6252,
+        "winner_id": null
+      }
+    ],
+    "modified_at": "2021-06-16T15:24:06Z",
+    "name": "Group Stage",
+    "prizepool": null,
+    "serie": {
+      "begin_at": "2021-06-29T19:00:00Z",
+      "description": null,
+      "end_at": "2021-07-02T22:00:00Z",
+      "full_name": "North America June 2021",
+      "id": 3704,
+      "league_id": 4570,
+      "modified_at": "2021-06-16T15:21:06Z",
+      "name": "North America",
+      "season": "June",
+      "slug": "cs-go-dreamhack-open-north-america-june-2021",
+      "tier": "b",
+      "winner_id": null,
+      "winner_type": null,
+      "year": 2021
+    },
+    "serie_id": 3704,
+    "slug": "cs-go-dreamhack-open-north-america-june-2021-group-stage",
+    "teams": [],
+    "videogame": {
+      "id": 3,
+      "name": "CS:GO",
+      "slug": "cs-go"
+    },
+    "winner_id": null,
+    "winner_type": "Team"
+  },
+  {
+    "begin_at": "2021-06-28T08:00:00Z",
+    "end_at": null,
+    "id": 6266,
+    "league": {
+      "id": 4542,
+      "image_url": "https://cdn.pandascore.co/images/league/image/4542/600px-Pinnacle_Cup.png",
+      "modified_at": "2021-02-23T15:23:15Z",
+      "name": "Pinnacle Cup",
+      "slug": "cs-go-pinnacle-cup",
+      "url": null
+    },
+    "league_id": 4542,
+    "live_supported": false,
+    "matches": [
+      {
+        "begin_at": "2021-06-28T08:00:00Z",
+        "detailed_stats": true,
+        "draw": false,
+        "end_at": null,
+        "forfeit": false,
+        "game_advantage": null,
+        "id": 598669,
+        "live": {
+          "opens_at": null,
+          "supported": false,
+          "url": null
+        },
+        "live_embed_url": null,
+        "match_type": "best_of",
+        "modified_at": "2021-06-22T06:53:55Z",
+        "name": "Round of 16 match 1: Lyngby Vikings vs NAVI Junior",
+        "number_of_games": 1,
+        "official_stream_url": null,
+        "original_scheduled_at": "2021-06-28T08:00:00Z",
+        "rescheduled": false,
+        "scheduled_at": "2021-06-28T08:00:00Z",
+        "slug": "lyngby-vikings-vs-navi-junior-2021-06-28",
+        "status": "not_started",
+        "streams": {
+          "english": {
+            "embed_url": null,
+            "raw_url": null
+          },
+          "official": {
+            "embed_url": null,
+            "raw_url": null
+          },
+          "russian": {
+            "embed_url": null,
+            "raw_url": null
+          }
+        },
+        "streams_list": [],
+        "tournament_id": 6266,
+        "winner_id": null
+      },
+      {
+        "begin_at": "2021-06-28T09:30:00Z",
+        "detailed_stats": true,
+        "draw": false,
+        "end_at": null,
+        "forfeit": false,
+        "game_advantage": null,
+        "id": 598670,
+        "live": {
+          "opens_at": null,
+          "supported": false,
+          "url": null
+        },
+        "live_embed_url": null,
+        "match_type": "best_of",
+        "modified_at": "2021-06-22T06:49:03Z",
+        "name": "Round of 16 match 2: Nordavind vs Sharks",
+        "number_of_games": 1,
+        "official_stream_url": null,
+        "original_scheduled_at": "2021-06-28T09:30:00Z",
+        "rescheduled": false,
+        "scheduled_at": "2021-06-28T09:30:00Z",
+        "slug": "nordavind-vs-sharks-2021-06-28",
+        "status": "not_started",
+        "streams": {
+          "english": {
+            "embed_url": null,
+            "raw_url": null
+          },
+          "official": {
+            "embed_url": null,
+            "raw_url": null
+          },
+          "russian": {
+            "embed_url": null,
+            "raw_url": null
+          }
+        },
+        "streams_list": [],
+        "tournament_id": 6266,
+        "winner_id": null
+      },
+      {
+        "begin_at": "2021-06-28T11:00:00Z",
+        "detailed_stats": true,
+        "draw": false,
+        "end_at": null,
+        "forfeit": false,
+        "game_advantage": null,
+        "id": 598677,
+        "live": {
+          "opens_at": null,
+          "supported": false,
+          "url": null
+        },
+        "live_embed_url": null,
+        "match_type": "best_of",
+        "modified_at": "2021-06-22T06:54:18Z",
+        "name": "Round of 8 match 1: TBD vs TBD",
+        "number_of_games": 3,
+        "official_stream_url": null,
+        "original_scheduled_at": "2021-06-28T11:00:00Z",
+        "rescheduled": false,
+        "scheduled_at": "2021-06-28T11:00:00Z",
+        "slug": "2021-06-28-3bb02649-072c-4f5e-990e-f15482872470",
+        "status": "not_started",
+        "streams": {
+          "english": {
+            "embed_url": null,
+            "raw_url": null
+          },
+          "official": {
+            "embed_url": null,
+            "raw_url": null
+          },
+          "russian": {
+            "embed_url": null,
+            "raw_url": null
+          }
+        },
+        "streams_list": [],
+        "tournament_id": 6266,
+        "winner_id": null
+      },
+      {
+        "begin_at": "2021-06-28T14:00:00Z",
+        "detailed_stats": true,
+        "draw": false,
+        "end_at": null,
+        "forfeit": false,
+        "game_advantage": null,
+        "id": 598671,
+        "live": {
+          "opens_at": null,
+          "supported": false,
+          "url": null
+        },
+        "live_embed_url": null,
+        "match_type": "best_of",
+        "modified_at": "2021-06-22T06:48:53Z",
+        "name": "Round of 16 match 3: GamerLegion vs ALTERNATE aTTaX",
+        "number_of_games": 1,
+        "official_stream_url": null,
+        "original_scheduled_at": "2021-06-28T14:00:00Z",
+        "rescheduled": false,
+        "scheduled_at": "2021-06-28T14:00:00Z",
+        "slug": "gamerlegion-vs-alternate-attax-2021-06-28",
+        "status": "not_started",
+        "streams": {
+          "english": {
+            "embed_url": null,
+            "raw_url": null
+          },
+          "official": {
+            "embed_url": null,
+            "raw_url": null
+          },
+          "russian": {
+            "embed_url": null,
+            "raw_url": null
+          }
+        },
+        "streams_list": [],
+        "tournament_id": 6266,
+        "winner_id": null
+      },
+      {
+        "begin_at": "2021-06-28T15:30:00Z",
+        "detailed_stats": true,
+        "draw": false,
+        "end_at": null,
+        "forfeit": false,
+        "game_advantage": null,
+        "id": 598672,
+        "live": {
+          "opens_at": null,
+          "supported": false,
+          "url": null
+        },
+        "live_embed_url": null,
+        "match_type": "best_of",
+        "modified_at": "2021-06-22T06:48:47Z",
+        "name": "Round of 16 match 4: HYENAS vs Spirit Academy",
+        "number_of_games": 1,
+        "official_stream_url": null,
+        "original_scheduled_at": "2021-06-28T15:30:00Z",
+        "rescheduled": false,
+        "scheduled_at": "2021-06-28T15:30:00Z",
+        "slug": "hyenas-vs-spirit-academy-2021-06-28",
+        "status": "not_started",
+        "streams": {
+          "english": {
+            "embed_url": null,
+            "raw_url": null
+          },
+          "official": {
+            "embed_url": null,
+            "raw_url": null
+          },
+          "russian": {
+            "embed_url": null,
+            "raw_url": null
+          }
+        },
+        "streams_list": [],
+        "tournament_id": 6266,
+        "winner_id": null
+      },
+      {
+        "begin_at": "2021-06-28T17:00:00Z",
+        "detailed_stats": true,
+        "draw": false,
+        "end_at": null,
+        "forfeit": false,
+        "game_advantage": null,
+        "id": 598678,
+        "live": {
+          "opens_at": null,
+          "supported": false,
+          "url": null
+        },
+        "live_embed_url": null,
+        "match_type": "best_of",
+        "modified_at": "2021-06-22T06:54:40Z",
+        "name": "Round of 8 match 2: TBD vs TBD",
+        "number_of_games": 3,
+        "official_stream_url": null,
+        "original_scheduled_at": "2021-06-28T17:00:00Z",
+        "rescheduled": false,
+        "scheduled_at": "2021-06-28T17:00:00Z",
+        "slug": "2021-06-28-7e49e22d-d316-4652-aa80-3fe0392a3413",
+        "status": "not_started",
+        "streams": {
+          "english": {
+            "embed_url": null,
+            "raw_url": null
+          },
+          "official": {
+            "embed_url": null,
+            "raw_url": null
+          },
+          "russian": {
+            "embed_url": null,
+            "raw_url": null
+          }
+        },
+        "streams_list": [],
+        "tournament_id": 6266,
+        "winner_id": null
+      },
+      {
+        "begin_at": "2021-06-29T08:00:00Z",
+        "detailed_stats": true,
+        "draw": false,
+        "end_at": null,
+        "forfeit": false,
+        "game_advantage": null,
+        "id": 598673,
+        "live": {
+          "opens_at": null,
+          "supported": false,
+          "url": null
+        },
+        "live_embed_url": null,
+        "match_type": "best_of",
+        "modified_at": "2021-06-22T06:47:13Z",
+        "name": "Round of 16 match 5: Sangal vs AGF",
+        "number_of_games": 1,
+        "official_stream_url": null,
+        "original_scheduled_at": "2021-06-29T08:00:00Z",
+        "rescheduled": false,
+        "scheduled_at": "2021-06-29T08:00:00Z",
+        "slug": "sangal-vs-agf-2021-06-29",
+        "status": "not_started",
+        "streams": {
+          "english": {
+            "embed_url": null,
+            "raw_url": null
+          },
+          "official": {
+            "embed_url": null,
+            "raw_url": null
+          },
+          "russian": {
+            "embed_url": null,
+            "raw_url": null
+          }
+        },
+        "streams_list": [],
+        "tournament_id": 6266,
+        "winner_id": null
+      },
+      {
+        "begin_at": "2021-06-29T09:30:00Z",
+        "detailed_stats": true,
+        "draw": false,
+        "end_at": null,
+        "forfeit": false,
+        "game_advantage": null,
+        "id": 598674,
+        "live": {
+          "opens_at": null,
+          "supported": false,
+          "url": null
+        },
+        "live_embed_url": null,
+        "match_type": "best_of",
+        "modified_at": "2021-06-22T06:47:45Z",
+        "name": "Round of 16 match 6: Young Ninjas vs VP.Prodigy",
+        "number_of_games": 1,
+        "official_stream_url": null,
+        "original_scheduled_at": "2021-06-29T09:30:00Z",
+        "rescheduled": false,
+        "scheduled_at": "2021-06-29T09:30:00Z",
+        "slug": "young-ninjas-vs-vp-prodigy-2021-06-29",
+        "status": "not_started",
+        "streams": {
+          "english": {
+            "embed_url": null,
+            "raw_url": null
+          },
+          "official": {
+            "embed_url": null,
+            "raw_url": null
+          },
+          "russian": {
+            "embed_url": null,
+            "raw_url": null
+          }
+        },
+        "streams_list": [],
+        "tournament_id": 6266,
+        "winner_id": null
+      },
+      {
+        "begin_at": "2021-06-29T11:00:00Z",
+        "detailed_stats": true,
+        "draw": false,
+        "end_at": null,
+        "forfeit": false,
+        "game_advantage": null,
+        "id": 598679,
+        "live": {
+          "opens_at": null,
+          "supported": false,
+          "url": null
+        },
+        "live_embed_url": null,
+        "match_type": "best_of",
+        "modified_at": "2021-06-22T06:55:04Z",
+        "name": "Round of 8 match 3: TBD vs TBD",
+        "number_of_games": 3,
+        "official_stream_url": null,
+        "original_scheduled_at": "2021-06-29T11:00:00Z",
+        "rescheduled": false,
+        "scheduled_at": "2021-06-29T11:00:00Z",
+        "slug": "2021-06-29-b36c032e-412b-4345-919e-92345a89f498",
+        "status": "not_started",
+        "streams": {
+          "english": {
+            "embed_url": null,
+            "raw_url": null
+          },
+          "official": {
+            "embed_url": null,
+            "raw_url": null
+          },
+          "russian": {
+            "embed_url": null,
+            "raw_url": null
+          }
+        },
+        "streams_list": [],
+        "tournament_id": 6266,
+        "winner_id": null
+      },
+      {
+        "begin_at": "2021-06-29T14:00:00Z",
+        "detailed_stats": true,
+        "draw": false,
+        "end_at": null,
+        "forfeit": false,
+        "game_advantage": null,
+        "id": 598675,
+        "live": {
+          "opens_at": null,
+          "supported": false,
+          "url": null
+        },
+        "live_embed_url": null,
+        "match_type": "best_of",
+        "modified_at": "2021-06-22T06:48:06Z",
+        "name": "Round of 16 match 7: 1WIN vs Chetz",
+        "number_of_games": 1,
+        "official_stream_url": null,
+        "original_scheduled_at": "2021-06-29T14:00:00Z",
+        "rescheduled": false,
+        "scheduled_at": "2021-06-29T14:00:00Z",
+        "slug": "1win-vs-chetz-2021-06-29",
+        "status": "not_started",
+        "streams": {
+          "english": {
+            "embed_url": null,
+            "raw_url": null
+          },
+          "official": {
+            "embed_url": null,
+            "raw_url": null
+          },
+          "russian": {
+            "embed_url": null,
+            "raw_url": null
+          }
+        },
+        "streams_list": [],
+        "tournament_id": 6266,
+        "winner_id": null
+      },
+      {
+        "begin_at": "2021-06-29T15:30:00Z",
+        "detailed_stats": true,
+        "draw": false,
+        "end_at": null,
+        "forfeit": false,
+        "game_advantage": null,
+        "id": 598676,
+        "live": {
+          "opens_at": null,
+          "supported": false,
+          "url": null
+        },
+        "live_embed_url": null,
+        "match_type": "best_of",
+        "modified_at": "2021-06-22T06:48:34Z",
+        "name": "Round of 16 match 8: 100PG vs KOVA",
+        "number_of_games": 1,
+        "official_stream_url": null,
+        "original_scheduled_at": "2021-06-29T15:30:00Z",
+        "rescheduled": false,
+        "scheduled_at": "2021-06-29T15:30:00Z",
+        "slug": "100pg-vs-kova-2021-06-29",
+        "status": "not_started",
+        "streams": {
+          "english": {
+            "embed_url": null,
+            "raw_url": null
+          },
+          "official": {
+            "embed_url": null,
+            "raw_url": null
+          },
+          "russian": {
+            "embed_url": null,
+            "raw_url": null
+          }
+        },
+        "streams_list": [],
+        "tournament_id": 6266,
+        "winner_id": null
+      },
+      {
+        "begin_at": "2021-06-29T17:00:00Z",
+        "detailed_stats": true,
+        "draw": false,
+        "end_at": null,
+        "forfeit": false,
+        "game_advantage": null,
+        "id": 598680,
+        "live": {
+          "opens_at": null,
+          "supported": false,
+          "url": null
+        },
+        "live_embed_url": null,
+        "match_type": "best_of",
+        "modified_at": "2021-06-22T06:55:19Z",
+        "name": "Round of 8 match 4: TBD vs TBD",
+        "number_of_games": 3,
+        "official_stream_url": null,
+        "original_scheduled_at": "2021-06-29T17:00:00Z",
+        "rescheduled": false,
+        "scheduled_at": "2021-06-29T17:00:00Z",
+        "slug": "2021-06-29-35745cf3-d6d5-4fcd-9b15-8228bc5ed800",
+        "status": "not_started",
+        "streams": {
+          "english": {
+            "embed_url": null,
+            "raw_url": null
+          },
+          "official": {
+            "embed_url": null,
+            "raw_url": null
+          },
+          "russian": {
+            "embed_url": null,
+            "raw_url": null
+          }
+        },
+        "streams_list": [],
+        "tournament_id": 6266,
+        "winner_id": null
+      }
+    ],
+    "modified_at": "2021-06-22T07:25:42Z",
+    "name": "Playin",
+    "prizepool": null,
+    "serie": {
+      "begin_at": "2021-06-27T22:00:00Z",
+      "description": null,
+      "end_at": null,
+      "full_name": "Season 2 2021",
+      "id": 3711,
+      "league_id": 4542,
+      "modified_at": "2021-06-21T13:35:01Z",
+      "name": null,
+      "season": "2",
+      "slug": "cs-go-pinnacle-cup-2-2021",
+      "tier": "b",
+      "winner_id": null,
+      "winner_type": null,
+      "year": 2021
+    },
+    "serie_id": 3711,
+    "slug": "cs-go-pinnacle-cup-2-2021-playin",
+    "teams": [
+      {
+        "acronym": null,
+        "id": 3260,
+        "image_url": "https://cdn.pandascore.co/images/team/image/3260/SHARKS.png",
+        "location": "BR",
+        "modified_at": "2021-06-22T07:25:33Z",
+        "name": "Sharks",
+        "slug": "sharks"
+      },
+      {
+        "acronym": null,
+        "id": 3299,
+        "image_url": "https://cdn.pandascore.co/images/team/image/3299/ALTERNATE_2013.png",
+        "location": "DE",
+        "modified_at": "2021-06-22T07:25:35Z",
+        "name": "ALTERNATE aTTaX",
+        "slug": "alternate-attax-cs-go"
+      },
+      {
+        "acronym": null,
+        "id": 125847,
+        "image_url": "https://cdn.pandascore.co/images/team/image/125847/9928.png",
+        "location": "DE",
+        "modified_at": "2021-06-22T07:25:39Z",
+        "name": "GamerLegion",
+        "slug": "gamerlegion"
+      },
+      {
+        "acronym": null,
+        "id": 126287,
+        "image_url": "https://cdn.pandascore.co/images/team/image/126287/nordavind_logo.png",
+        "location": "NO",
+        "modified_at": "2021-06-22T07:25:39Z",
+        "name": "Nordavind",
+        "slug": "nordavind"
+      },
+      {
+        "acronym": null,
+        "id": 126318,
+        "image_url": "https://cdn.pandascore.co/images/team/image/126318/600px_kova_esports.png",
+        "location": "FI",
+        "modified_at": "2021-06-22T07:25:37Z",
+        "name": "KOVA",
+        "slug": "kova"
+      },
+      {
+        "acronym": null,
+        "id": 126491,
+        "image_url": "https://cdn.pandascore.co/images/team/image/126491/630px_na_vi_jr.png",
+        "location": "UA",
+        "modified_at": "2021-06-22T07:25:38Z",
+        "name": "NAVI Junior",
+        "slug": "natus-vincere-junior"
+      },
+      {
+        "acronym": null,
+        "id": 126634,
+        "image_url": "https://cdn.pandascore.co/images/team/image/126634/600px_agf_esport_logo.png",
+        "location": null,
+        "modified_at": "2021-06-22T07:25:35Z",
+        "name": "AGF",
+        "slug": "agf"
+      },
+      {
+        "acronym": null,
+        "id": 126880,
+        "image_url": "https://cdn.pandascore.co/images/team/image/126880/lyngby_vikings.png",
+        "location": null,
+        "modified_at": "2021-06-22T07:25:37Z",
+        "name": "Lyngby Vikings",
+        "slug": "lyngby-vikings"
+      },
+      {
+        "acronym": null,
+        "id": 126942,
+        "image_url": "https://cdn.pandascore.co/images/team/image/126942/100_ping_gods_sep_2020_std.png",
+        "location": null,
+        "modified_at": "2021-06-22T07:25:33Z",
+        "name": "100PG",
+        "slug": "100pinggods"
+      },
+      {
+        "acronym": null,
+        "id": 126944,
+        "image_url": "https://cdn.pandascore.co/images/team/image/126944/10621.png",
+        "location": null,
+        "modified_at": "2021-06-22T07:25:34Z",
+        "name": "1WIN",
+        "slug": "1win"
+      },
+      {
+        "acronym": null,
+        "id": 127192,
+        "image_url": "https://cdn.pandascore.co/images/team/image/127192/147px_chetz_esports_2021.png",
+        "location": null,
+        "modified_at": "2021-06-22T07:25:36Z",
+        "name": "Chetz",
+        "slug": "chetz-esports"
+      },
+      {
+        "acronym": null,
+        "id": 127365,
+        "image_url": "https://cdn.pandascore.co/images/team/image/127365/sangal.png",
+        "location": "TR",
+        "modified_at": "2021-06-22T07:25:41Z",
+        "name": "Sangal",
+        "slug": "sangal"
+      },
+      {
+        "acronym": null,
+        "id": 127899,
+        "image_url": "https://cdn.pandascore.co/images/team/image/127899/600px_vp.prodigy_logo.png",
+        "location": "RU",
+        "modified_at": "2021-06-22T07:25:40Z",
+        "name": "VP.Prodigy",
+        "slug": "vp-prodigy-cs-go"
+      },
+      {
+        "acronym": null,
+        "id": 128327,
+        "image_url": "https://cdn.pandascore.co/images/team/image/128327/900px_ninjas_in_pyjamas_2021.png",
+        "location": null,
+        "modified_at": "2021-06-22T07:25:41Z",
+        "name": "Young Ninjas",
+        "slug": "young-ninjas"
+      },
+      {
+        "acronym": null,
+        "id": 128766,
+        "image_url": "https://cdn.pandascore.co/images/team/image/128766/900px_team_spirit_academy_2021_logo.png",
+        "location": null,
+        "modified_at": "2021-06-22T07:25:40Z",
+        "name": "Spirit Academy",
+        "slug": "spirit-academy"
+      },
+      {
+        "acronym": null,
+        "id": 128848,
+        "image_url": "https://cdn.pandascore.co/images/team/image/128848/t82453.png",
+        "location": null,
+        "modified_at": "2021-06-22T07:25:36Z",
+        "name": "HYENAS",
+        "slug": "hyenas"
+      }
+    ],
+    "videogame": {
+      "id": 3,
+      "name": "CS:GO",
+      "slug": "cs-go"
+    },
+    "winner_id": null,
+    "winner_type": "Team"
+  },
+  {
+    "begin_at": "2021-06-28T07:00:00Z",
+    "end_at": null,
+    "id": 6175,
+    "league": {
+      "id": 4560,
+      "image_url": "https://cdn.pandascore.co/images/league/image/4560/Spring_Sweet_Spring_CSGO.png",
+      "modified_at": "2021-04-08T10:08:24Z",
+      "name": "Spring Sweet Spring",
+      "slug": "cs-go-spring-sweet-spring",
+      "url": null
+    },
+    "league_id": 4560,
+    "live_supported": false,
+    "matches": [
+      {
+        "begin_at": "2021-06-28T07:00:00Z",
+        "detailed_stats": true,
+        "draw": false,
+        "end_at": null,
+        "forfeit": false,
+        "game_advantage": null,
+        "id": 595772,
+        "live": {
+          "opens_at": null,
+          "supported": false,
+          "url": null
+        },
+        "live_embed_url": "https://player.twitch.tv/?channel=tebtv",
+        "match_type": "best_of",
+        "modified_at": "2021-06-01T07:45:42Z",
+        "name": "Round of 12 match 1: TBD vs TBD",
+        "number_of_games": 3,
+        "official_stream_url": "https://www.twitch.tv/tebtv",
+        "original_scheduled_at": "2021-06-28T07:00:00Z",
+        "rescheduled": false,
+        "scheduled_at": "2021-06-28T07:00:00Z",
+        "slug": "2021-06-28",
+        "status": "not_started",
+        "streams": {
+          "english": {
+            "embed_url": "https://player.twitch.tv/?channel=tebtv",
+            "raw_url": "https://www.twitch.tv/tebtv"
+          },
+          "official": {
+            "embed_url": "https://player.twitch.tv/?channel=tebtv",
+            "raw_url": "https://www.twitch.tv/tebtv"
+          },
+          "russian": {
+            "embed_url": null,
+            "raw_url": null
+          }
+        },
+        "streams_list": [
+          {
+            "embed_url": "https://player.twitch.tv/?channel=tebtv",
+            "language": "en",
+            "main": true,
+            "official": true,
+            "raw_url": "https://www.twitch.tv/tebtv"
+          }
+        ],
+        "tournament_id": 6175,
+        "winner_id": null
+      },
+      {
+        "begin_at": "2021-06-28T10:00:00Z",
+        "detailed_stats": true,
+        "draw": false,
+        "end_at": null,
+        "forfeit": false,
+        "game_advantage": null,
+        "id": 595773,
+        "live": {
+          "opens_at": null,
+          "supported": false,
+          "url": null
+        },
+        "live_embed_url": "https://player.twitch.tv/?channel=tebtv",
+        "match_type": "best_of",
+        "modified_at": "2021-06-01T07:45:55Z",
+        "name": "Round of 12 match 2: TBD vs TBD",
+        "number_of_games": 3,
+        "official_stream_url": "https://www.twitch.tv/tebtv",
+        "original_scheduled_at": "2021-06-28T10:00:00Z",
+        "rescheduled": false,
+        "scheduled_at": "2021-06-28T10:00:00Z",
+        "slug": "2021-06-28-6ba951a7-afe4-465b-a49f-5b0e49c2fadd",
+        "status": "not_started",
+        "streams": {
+          "english": {
+            "embed_url": "https://player.twitch.tv/?channel=tebtv",
+            "raw_url": "https://www.twitch.tv/tebtv"
+          },
+          "official": {
+            "embed_url": "https://player.twitch.tv/?channel=tebtv",
+            "raw_url": "https://www.twitch.tv/tebtv"
+          },
+          "russian": {
+            "embed_url": null,
+            "raw_url": null
+          }
+        },
+        "streams_list": [
+          {
+            "embed_url": "https://player.twitch.tv/?channel=tebtv",
+            "language": "en",
+            "main": true,
+            "official": true,
+            "raw_url": "https://www.twitch.tv/tebtv"
+          }
+        ],
+        "tournament_id": 6175,
+        "winner_id": null
+      },
+      {
+        "begin_at": "2021-06-28T13:00:00Z",
+        "detailed_stats": true,
+        "draw": false,
+        "end_at": null,
+        "forfeit": false,
+        "game_advantage": null,
+        "id": 595774,
+        "live": {
+          "opens_at": null,
+          "supported": false,
+          "url": null
+        },
+        "live_embed_url": "https://player.twitch.tv/?channel=tebtv",
+        "match_type": "best_of",
+        "modified_at": "2021-06-01T07:46:09Z",
+        "name": "Round of 12 match 3: TBD vs TBD",
+        "number_of_games": 3,
+        "official_stream_url": "https://www.twitch.tv/tebtv",
+        "original_scheduled_at": "2021-06-28T13:00:00Z",
+        "rescheduled": false,
+        "scheduled_at": "2021-06-28T13:00:00Z",
+        "slug": "2021-06-28-db7db755-f425-4e33-9ede-9c426012a302",
+        "status": "not_started",
+        "streams": {
+          "english": {
+            "embed_url": "https://player.twitch.tv/?channel=tebtv",
+            "raw_url": "https://www.twitch.tv/tebtv"
+          },
+          "official": {
+            "embed_url": "https://player.twitch.tv/?channel=tebtv",
+            "raw_url": "https://www.twitch.tv/tebtv"
+          },
+          "russian": {
+            "embed_url": null,
+            "raw_url": null
+          }
+        },
+        "streams_list": [
+          {
+            "embed_url": "https://player.twitch.tv/?channel=tebtv",
+            "language": "en",
+            "main": true,
+            "official": true,
+            "raw_url": "https://www.twitch.tv/tebtv"
+          }
+        ],
+        "tournament_id": 6175,
+        "winner_id": null
+      },
+      {
+        "begin_at": "2021-06-28T16:00:00Z",
+        "detailed_stats": true,
+        "draw": false,
+        "end_at": null,
+        "forfeit": false,
+        "game_advantage": null,
+        "id": 595775,
+        "live": {
+          "opens_at": null,
+          "supported": false,
+          "url": null
+        },
+        "live_embed_url": "https://player.twitch.tv/?channel=tebtv",
+        "match_type": "best_of",
+        "modified_at": "2021-06-01T07:46:20Z",
+        "name": "Round of 12 match 4: TBD vs TBD",
+        "number_of_games": 3,
+        "official_stream_url": "https://www.twitch.tv/tebtv",
+        "original_scheduled_at": "2021-06-28T16:00:00Z",
+        "rescheduled": false,
+        "scheduled_at": "2021-06-28T16:00:00Z",
+        "slug": "2021-06-28-dd63b6a2-7374-4706-affe-de583bdb0748",
+        "status": "not_started",
+        "streams": {
+          "english": {
+            "embed_url": "https://player.twitch.tv/?channel=tebtv",
+            "raw_url": "https://www.twitch.tv/tebtv"
+          },
+          "official": {
+            "embed_url": "https://player.twitch.tv/?channel=tebtv",
+            "raw_url": "https://www.twitch.tv/tebtv"
+          },
+          "russian": {
+            "embed_url": null,
+            "raw_url": null
+          }
+        },
+        "streams_list": [
+          {
+            "embed_url": "https://player.twitch.tv/?channel=tebtv",
+            "language": "en",
+            "main": true,
+            "official": true,
+            "raw_url": "https://www.twitch.tv/tebtv"
+          }
+        ],
+        "tournament_id": 6175,
+        "winner_id": null
+      },
+      {
+        "begin_at": "2021-06-29T07:00:00Z",
+        "detailed_stats": true,
+        "draw": false,
+        "end_at": null,
+        "forfeit": false,
+        "game_advantage": null,
+        "id": 595776,
+        "live": {
+          "opens_at": null,
+          "supported": false,
+          "url": null
+        },
+        "live_embed_url": "https://player.twitch.tv/?channel=tebtv",
+        "match_type": "best_of",
+        "modified_at": "2021-06-01T07:46:34Z",
+        "name": "Quarterfinals match 1: TBD vs TBD",
+        "number_of_games": 3,
+        "official_stream_url": "https://www.twitch.tv/tebtv",
+        "original_scheduled_at": "2021-06-29T07:00:00Z",
+        "rescheduled": false,
+        "scheduled_at": "2021-06-29T07:00:00Z",
+        "slug": "2021-06-29",
+        "status": "not_started",
+        "streams": {
+          "english": {
+            "embed_url": "https://player.twitch.tv/?channel=tebtv",
+            "raw_url": "https://www.twitch.tv/tebtv"
+          },
+          "official": {
+            "embed_url": "https://player.twitch.tv/?channel=tebtv",
+            "raw_url": "https://www.twitch.tv/tebtv"
+          },
+          "russian": {
+            "embed_url": null,
+            "raw_url": null
+          }
+        },
+        "streams_list": [
+          {
+            "embed_url": "https://player.twitch.tv/?channel=tebtv",
+            "language": "en",
+            "main": true,
+            "official": true,
+            "raw_url": "https://www.twitch.tv/tebtv"
+          }
+        ],
+        "tournament_id": 6175,
+        "winner_id": null
+      },
+      {
+        "begin_at": "2021-06-29T10:00:00Z",
+        "detailed_stats": true,
+        "draw": false,
+        "end_at": null,
+        "forfeit": false,
+        "game_advantage": null,
+        "id": 595777,
+        "live": {
+          "opens_at": null,
+          "supported": false,
+          "url": null
+        },
+        "live_embed_url": "https://player.twitch.tv/?channel=tebtv",
+        "match_type": "best_of",
+        "modified_at": "2021-06-01T07:46:48Z",
+        "name": "Quarterfinals match 2: TBD vs TBD",
+        "number_of_games": 3,
+        "official_stream_url": "https://www.twitch.tv/tebtv",
+        "original_scheduled_at": "2021-06-29T10:00:00Z",
+        "rescheduled": false,
+        "scheduled_at": "2021-06-29T10:00:00Z",
+        "slug": "2021-06-29-e4ff153e-5f4c-42cb-92fa-1765c221559e",
+        "status": "not_started",
+        "streams": {
+          "english": {
+            "embed_url": "https://player.twitch.tv/?channel=tebtv",
+            "raw_url": "https://www.twitch.tv/tebtv"
+          },
+          "official": {
+            "embed_url": "https://player.twitch.tv/?channel=tebtv",
+            "raw_url": "https://www.twitch.tv/tebtv"
+          },
+          "russian": {
+            "embed_url": null,
+            "raw_url": null
+          }
+        },
+        "streams_list": [
+          {
+            "embed_url": "https://player.twitch.tv/?channel=tebtv",
+            "language": "en",
+            "main": true,
+            "official": true,
+            "raw_url": "https://www.twitch.tv/tebtv"
+          }
+        ],
+        "tournament_id": 6175,
+        "winner_id": null
+      },
+      {
+        "begin_at": "2021-06-29T13:00:00Z",
+        "detailed_stats": true,
+        "draw": false,
+        "end_at": null,
+        "forfeit": false,
+        "game_advantage": null,
+        "id": 595778,
+        "live": {
+          "opens_at": null,
+          "supported": false,
+          "url": null
+        },
+        "live_embed_url": "https://player.twitch.tv/?channel=tebtv",
+        "match_type": "best_of",
+        "modified_at": "2021-06-01T07:47:02Z",
+        "name": "Quarterfinals match 3: TBD vs TBD",
+        "number_of_games": 3,
+        "official_stream_url": "https://www.twitch.tv/tebtv",
+        "original_scheduled_at": "2021-06-29T13:00:00Z",
+        "rescheduled": false,
+        "scheduled_at": "2021-06-29T13:00:00Z",
+        "slug": "2021-06-29-26ee8a4c-bd98-4383-84e6-7be05d9b76c6",
+        "status": "not_started",
+        "streams": {
+          "english": {
+            "embed_url": "https://player.twitch.tv/?channel=tebtv",
+            "raw_url": "https://www.twitch.tv/tebtv"
+          },
+          "official": {
+            "embed_url": "https://player.twitch.tv/?channel=tebtv",
+            "raw_url": "https://www.twitch.tv/tebtv"
+          },
+          "russian": {
+            "embed_url": null,
+            "raw_url": null
+          }
+        },
+        "streams_list": [
+          {
+            "embed_url": "https://player.twitch.tv/?channel=tebtv",
+            "language": "en",
+            "main": true,
+            "official": true,
+            "raw_url": "https://www.twitch.tv/tebtv"
+          }
+        ],
+        "tournament_id": 6175,
+        "winner_id": null
+      },
+      {
+        "begin_at": "2021-06-29T16:00:00Z",
+        "detailed_stats": true,
+        "draw": false,
+        "end_at": null,
+        "forfeit": false,
+        "game_advantage": null,
+        "id": 595779,
+        "live": {
+          "opens_at": null,
+          "supported": false,
+          "url": null
+        },
+        "live_embed_url": "https://player.twitch.tv/?channel=tebtv",
+        "match_type": "best_of",
+        "modified_at": "2021-06-01T07:47:14Z",
+        "name": "Quarterfinals match 4: TBD vs TBD",
+        "number_of_games": 3,
+        "official_stream_url": "https://www.twitch.tv/tebtv",
+        "original_scheduled_at": "2021-06-29T16:00:00Z",
+        "rescheduled": false,
+        "scheduled_at": "2021-06-29T16:00:00Z",
+        "slug": "2021-06-29-ee3e1a78-3fe9-4afb-b31a-ebdd0da89fdd",
+        "status": "not_started",
+        "streams": {
+          "english": {
+            "embed_url": "https://player.twitch.tv/?channel=tebtv",
+            "raw_url": "https://www.twitch.tv/tebtv"
+          },
+          "official": {
+            "embed_url": "https://player.twitch.tv/?channel=tebtv",
+            "raw_url": "https://www.twitch.tv/tebtv"
+          },
+          "russian": {
+            "embed_url": null,
+            "raw_url": null
+          }
+        },
+        "streams_list": [
+          {
+            "embed_url": "https://player.twitch.tv/?channel=tebtv",
+            "language": "en",
+            "main": true,
+            "official": true,
+            "raw_url": "https://www.twitch.tv/tebtv"
+          }
+        ],
+        "tournament_id": 6175,
+        "winner_id": null
+      },
+      {
+        "begin_at": "2021-06-30T10:00:00Z",
+        "detailed_stats": true,
+        "draw": false,
+        "end_at": null,
+        "forfeit": false,
+        "game_advantage": null,
+        "id": 595780,
+        "live": {
+          "opens_at": null,
+          "supported": false,
+          "url": null
+        },
+        "live_embed_url": "https://player.twitch.tv/?channel=tebtv",
+        "match_type": "best_of",
+        "modified_at": "2021-06-01T07:47:29Z",
+        "name": "Semifinals match 1: TBD vs TBD",
+        "number_of_games": 3,
+        "official_stream_url": "https://www.twitch.tv/tebtv",
+        "original_scheduled_at": "2021-06-30T10:00:00Z",
+        "rescheduled": false,
+        "scheduled_at": "2021-06-30T10:00:00Z",
+        "slug": "2021-06-30",
+        "status": "not_started",
+        "streams": {
+          "english": {
+            "embed_url": "https://player.twitch.tv/?channel=tebtv",
+            "raw_url": "https://www.twitch.tv/tebtv"
+          },
+          "official": {
+            "embed_url": "https://player.twitch.tv/?channel=tebtv",
+            "raw_url": "https://www.twitch.tv/tebtv"
+          },
+          "russian": {
+            "embed_url": null,
+            "raw_url": null
+          }
+        },
+        "streams_list": [
+          {
+            "embed_url": "https://player.twitch.tv/?channel=tebtv",
+            "language": "en",
+            "main": true,
+            "official": true,
+            "raw_url": "https://www.twitch.tv/tebtv"
+          }
+        ],
+        "tournament_id": 6175,
+        "winner_id": null
+      },
+      {
+        "begin_at": "2021-06-30T13:00:00Z",
+        "detailed_stats": true,
+        "draw": false,
+        "end_at": null,
+        "forfeit": false,
+        "game_advantage": null,
+        "id": 595781,
+        "live": {
+          "opens_at": null,
+          "supported": false,
+          "url": null
+        },
+        "live_embed_url": "https://player.twitch.tv/?channel=tebtv",
+        "match_type": "best_of",
+        "modified_at": "2021-06-01T07:47:51Z",
+        "name": "Semifinals match 2: TBD vs TBD",
+        "number_of_games": 3,
+        "official_stream_url": "https://www.twitch.tv/tebtv",
+        "original_scheduled_at": "2021-06-30T13:00:00Z",
+        "rescheduled": false,
+        "scheduled_at": "2021-06-30T13:00:00Z",
+        "slug": "2021-06-30-9d168968-ac86-47fd-a679-d64af19e4f85",
+        "status": "not_started",
+        "streams": {
+          "english": {
+            "embed_url": "https://player.twitch.tv/?channel=tebtv",
+            "raw_url": "https://www.twitch.tv/tebtv"
+          },
+          "official": {
+            "embed_url": "https://player.twitch.tv/?channel=tebtv",
+            "raw_url": "https://www.twitch.tv/tebtv"
+          },
+          "russian": {
+            "embed_url": null,
+            "raw_url": null
+          }
+        },
+        "streams_list": [
+          {
+            "embed_url": "https://player.twitch.tv/?channel=tebtv",
+            "language": "en",
+            "main": true,
+            "official": true,
+            "raw_url": "https://www.twitch.tv/tebtv"
+          }
+        ],
+        "tournament_id": 6175,
+        "winner_id": null
+      },
+      {
+        "begin_at": "2021-06-30T16:00:00Z",
+        "detailed_stats": true,
+        "draw": false,
+        "end_at": null,
+        "forfeit": false,
+        "game_advantage": null,
+        "id": 595782,
+        "live": {
+          "opens_at": null,
+          "supported": false,
+          "url": null
+        },
+        "live_embed_url": "https://player.twitch.tv/?channel=tebtv",
+        "match_type": "best_of",
+        "modified_at": "2021-06-01T07:48:10Z",
+        "name": "Grand final: TBD vs TBD",
+        "number_of_games": 3,
+        "official_stream_url": "https://www.twitch.tv/tebtv",
+        "original_scheduled_at": "2021-06-30T16:00:00Z",
+        "rescheduled": false,
+        "scheduled_at": "2021-06-30T16:00:00Z",
+        "slug": "2021-06-30-349ea81f-12ce-4731-85c5-02a99a821003",
+        "status": "not_started",
+        "streams": {
+          "english": {
+            "embed_url": "https://player.twitch.tv/?channel=tebtv",
+            "raw_url": "https://www.twitch.tv/tebtv"
+          },
+          "official": {
+            "embed_url": "https://player.twitch.tv/?channel=tebtv",
+            "raw_url": "https://www.twitch.tv/tebtv"
+          },
+          "russian": {
+            "embed_url": null,
+            "raw_url": null
+          }
+        },
+        "streams_list": [
+          {
+            "embed_url": "https://player.twitch.tv/?channel=tebtv",
+            "language": "en",
+            "main": true,
+            "official": true,
+            "raw_url": "https://www.twitch.tv/tebtv"
+          }
+        ],
+        "tournament_id": 6175,
+        "winner_id": null
+      }
+    ],
+    "modified_at": "2021-06-01T07:48:34Z",
+    "name": "Playoffs",
+    "prizepool": null,
+    "serie": {
+      "begin_at": "2021-06-07T07:00:00Z",
+      "description": null,
+      "end_at": null,
+      "full_name": "Season 3 2021",
+      "id": 3662,
+      "league_id": 4560,
+      "modified_at": "2021-06-01T06:54:24Z",
+      "name": null,
+      "season": "3",
+      "slug": "cs-go-spring-sweet-spring-3-2021",
+      "tier": "c",
+      "winner_id": null,
+      "winner_type": null,
+      "year": 2021
+    },
+    "serie_id": 3662,
+    "slug": "cs-go-spring-sweet-spring-3-2021-playoffs",
+    "teams": [],
+    "videogame": {
+      "id": 3,
+      "name": "CS:GO",
+      "slug": "cs-go"
+    },
+    "winner_id": null,
+    "winner_type": "Team"
+  },
+  {
+    "begin_at": "2021-06-26T14:45:00Z",
+    "end_at": "2021-06-27T17:00:00Z",
+    "id": 6263,
+    "league": {
+      "id": 4399,
+      "image_url": "https://cdn.pandascore.co/images/league/image/4399/Gamers_Without_Borders.png",
+      "modified_at": "2020-05-26T17:49:31Z",
+      "name": "Gamers Without Borders",
+      "slug": "cs-go-gamers-without-border",
+      "url": "https://www.gamerswithoutborders.com/"
+    },
+    "league_id": 4399,
+    "live_supported": false,
+    "matches": [
+      {
+        "begin_at": "2021-06-26T14:45:00Z",
+        "detailed_stats": true,
+        "draw": false,
+        "end_at": null,
+        "forfeit": false,
+        "game_advantage": null,
+        "id": 598552,
+        "live": {
+          "opens_at": null,
+          "supported": false,
+          "url": null
+        },
+        "live_embed_url": "https://player.twitch.tv/?channel=gwbps_ru",
+        "match_type": "best_of",
+        "modified_at": "2021-06-21T15:05:25Z",
+        "name": "Semifinal Match 1: TBD vs TBD",
+        "number_of_games": 3,
+        "official_stream_url": "https://www.twitch.tv/gwbps_ru",
+        "original_scheduled_at": "2021-06-26T14:45:00Z",
+        "rescheduled": false,
+        "scheduled_at": "2021-06-26T14:45:00Z",
+        "slug": "2021-06-26",
+        "status": "not_started",
+        "streams": {
+          "english": {
+            "embed_url": "https://player.twitch.tv/?channel=gwbps_en",
+            "raw_url": "https://www.twitch.tv/gwbps_en"
+          },
+          "official": {
+            "embed_url": "https://player.twitch.tv/?channel=gwbps_ru",
+            "raw_url": "https://www.twitch.tv/gwbps_ru"
+          },
+          "russian": {
+            "embed_url": "https://player.twitch.tv/?channel=gwbps_ru",
+            "raw_url": "https://www.twitch.tv/gwbps_ru"
+          }
+        },
+        "streams_list": [
+          {
+            "embed_url": "https://player.twitch.tv/?channel=gwbps_en",
+            "language": "en",
+            "main": false,
+            "official": false,
+            "raw_url": "https://www.twitch.tv/gwbps_en"
+          },
+          {
+            "embed_url": "https://player.twitch.tv/?channel=gwbps_ru",
+            "language": "ru",
+            "main": true,
+            "official": true,
+            "raw_url": "https://www.twitch.tv/gwbps_ru"
+          }
+        ],
+        "tournament_id": 6263,
+        "winner_id": null
+      },
+      {
+        "begin_at": "2021-06-26T18:00:00Z",
+        "detailed_stats": true,
+        "draw": false,
+        "end_at": null,
+        "forfeit": false,
+        "game_advantage": null,
+        "id": 598553,
+        "live": {
+          "opens_at": null,
+          "supported": false,
+          "url": null
+        },
+        "live_embed_url": "https://player.twitch.tv/?channel=gwbps_ru",
+        "match_type": "best_of",
+        "modified_at": "2021-06-21T15:05:39Z",
+        "name": "Semifinal Match 2: TBD vs TBD",
+        "number_of_games": 3,
+        "official_stream_url": "https://www.twitch.tv/gwbps_ru",
+        "original_scheduled_at": "2021-06-26T18:00:00Z",
+        "rescheduled": false,
+        "scheduled_at": "2021-06-26T18:00:00Z",
+        "slug": "2021-06-26-fc65b14e-680c-487f-9e8b-2f13270b54c1",
+        "status": "not_started",
+        "streams": {
+          "english": {
+            "embed_url": "https://player.twitch.tv/?channel=gwbps_en",
+            "raw_url": "https://www.twitch.tv/gwbps_en"
+          },
+          "official": {
+            "embed_url": "https://player.twitch.tv/?channel=gwbps_ru",
+            "raw_url": "https://www.twitch.tv/gwbps_ru"
+          },
+          "russian": {
+            "embed_url": "https://player.twitch.tv/?channel=gwbps_ru",
+            "raw_url": "https://www.twitch.tv/gwbps_ru"
+          }
+        },
+        "streams_list": [
+          {
+            "embed_url": "https://player.twitch.tv/?channel=gwbps_en",
+            "language": "en",
+            "main": false,
+            "official": false,
+            "raw_url": "https://www.twitch.tv/gwbps_en"
+          },
+          {
+            "embed_url": "https://player.twitch.tv/?channel=gwbps_ru",
+            "language": "ru",
+            "main": true,
+            "official": true,
+            "raw_url": "https://www.twitch.tv/gwbps_ru"
+          }
+        ],
+        "tournament_id": 6263,
+        "winner_id": null
+      },
+      {
+        "begin_at": "2021-06-27T14:00:00Z",
+        "detailed_stats": true,
+        "draw": false,
+        "end_at": null,
+        "forfeit": false,
+        "game_advantage": null,
+        "id": 598554,
+        "live": {
+          "opens_at": null,
+          "supported": false,
+          "url": null
+        },
+        "live_embed_url": "https://player.twitch.tv/?channel=gwbps_ru",
+        "match_type": "best_of",
+        "modified_at": "2021-06-21T15:06:50Z",
+        "name": "Grand Final: TBD vs TBD",
+        "number_of_games": 3,
+        "official_stream_url": "https://www.twitch.tv/gwbps_ru",
+        "original_scheduled_at": "2021-06-27T14:00:00Z",
+        "rescheduled": false,
+        "scheduled_at": "2021-06-27T14:00:00Z",
+        "slug": "2021-06-27-eff079ea-c428-44af-81c9-4e6126272fa7",
+        "status": "not_started",
+        "streams": {
+          "english": {
+            "embed_url": "https://player.twitch.tv/?channel=gwbps_en",
+            "raw_url": "https://www.twitch.tv/gwbps_en"
+          },
+          "official": {
+            "embed_url": "https://player.twitch.tv/?channel=gwbps_ru",
+            "raw_url": "https://www.twitch.tv/gwbps_ru"
+          },
+          "russian": {
+            "embed_url": "https://player.twitch.tv/?channel=gwbps_ru",
+            "raw_url": "https://www.twitch.tv/gwbps_ru"
+          }
+        },
+        "streams_list": [
+          {
+            "embed_url": "https://player.twitch.tv/?channel=gwbps_en",
+            "language": "en",
+            "main": false,
+            "official": false,
+            "raw_url": "https://www.twitch.tv/gwbps_en"
+          },
+          {
+            "embed_url": "https://player.twitch.tv/?channel=gwbps_ru",
+            "language": "ru",
+            "main": true,
+            "official": true,
+            "raw_url": "https://www.twitch.tv/gwbps_ru"
+          }
+        ],
+        "tournament_id": 6263,
+        "winner_id": null
+      }
+    ],
+    "modified_at": "2021-06-21T20:05:30Z",
+    "name": "Playoffs",
+    "prizepool": null,
+    "serie": {
+      "begin_at": "2021-06-22T11:30:00Z",
+      "description": null,
+      "end_at": "2021-06-27T17:00:00Z",
+      "full_name": "2021",
+      "id": 3712,
+      "league_id": 4399,
+      "modified_at": "2021-06-21T14:35:06Z",
+      "name": null,
+      "season": null,
+      "slug": "cs-go-gamers-without-border-2021",
+      "tier": "a",
+      "winner_id": null,
+      "winner_type": null,
+      "year": 2021
+    },
+    "serie_id": 3712,
+    "slug": "cs-go-gamers-without-border-2021-playoffs",
+    "teams": [],
+    "videogame": {
+      "id": 3,
+      "name": "CS:GO",
+      "slug": "cs-go"
+    },
+    "winner_id": null,
+    "winner_type": "Team"
+  },
+  {
+    "begin_at": "2021-06-24T11:30:00Z",
+    "end_at": "2021-06-25T21:00:00Z",
+    "id": 6262,
+    "league": {
+      "id": 4399,
+      "image_url": "https://cdn.pandascore.co/images/league/image/4399/Gamers_Without_Borders.png",
+      "modified_at": "2020-05-26T17:49:31Z",
+      "name": "Gamers Without Borders",
+      "slug": "cs-go-gamers-without-border",
+      "url": "https://www.gamerswithoutborders.com/"
+    },
+    "league_id": 4399,
+    "live_supported": false,
+    "matches": [
+      {
+        "begin_at": "2021-06-24T11:30:00Z",
+        "detailed_stats": true,
+        "draw": false,
+        "end_at": null,
+        "forfeit": false,
+        "game_advantage": null,
+        "id": 598547,
+        "live": {
+          "opens_at": null,
+          "supported": false,
+          "url": null
+        },
+        "live_embed_url": "https://player.twitch.tv/?channel=gwbps_en",
+        "match_type": "best_of",
+        "modified_at": "2021-06-21T14:42:57Z",
+        "name": "Opening Match 1: FaZe vs BIG",
+        "number_of_games": 3,
+        "official_stream_url": "https://www.twitch.tv/gwbps_en",
+        "original_scheduled_at": "2021-06-24T11:30:00Z",
+        "rescheduled": false,
+        "scheduled_at": "2021-06-24T11:30:00Z",
+        "slug": "faze-vs-big-2021-06-24",
+        "status": "not_started",
+        "streams": {
+          "english": {
+            "embed_url": "https://player.twitch.tv/?channel=gwbps_en",
+            "raw_url": "https://www.twitch.tv/gwbps_en"
+          },
+          "official": {
+            "embed_url": "https://player.twitch.tv/?channel=gwbps_en",
+            "raw_url": "https://www.twitch.tv/gwbps_en"
+          },
+          "russian": {
+            "embed_url": "https://player.twitch.tv/?channel=gwbps_ru",
+            "raw_url": "https://www.twitch.tv/gwbps_ru"
+          }
+        },
+        "streams_list": [
+          {
+            "embed_url": "https://player.twitch.tv/?channel=gwbps_ru",
+            "language": "ru",
+            "main": false,
+            "official": false,
+            "raw_url": "https://www.twitch.tv/gwbps_ru"
+          },
+          {
+            "embed_url": "https://player.twitch.tv/?channel=gwbps_en",
+            "language": "en",
+            "main": true,
+            "official": true,
+            "raw_url": "https://www.twitch.tv/gwbps_en"
+          }
+        ],
+        "tournament_id": 6262,
+        "winner_id": null
+      },
+      {
+        "begin_at": "2021-06-24T14:45:00Z",
+        "detailed_stats": true,
+        "draw": false,
+        "end_at": null,
+        "forfeit": false,
+        "game_advantage": null,
+        "id": 598548,
+        "live": {
+          "opens_at": null,
+          "supported": false,
+          "url": null
+        },
+        "live_embed_url": "https://player.twitch.tv/?channel=gwbps_en",
+        "match_type": "best_of",
+        "modified_at": "2021-06-21T14:43:20Z",
+        "name": "Opening Match 2: FURIA vs Dignitas",
+        "number_of_games": 3,
+        "official_stream_url": "https://www.twitch.tv/gwbps_en",
+        "original_scheduled_at": "2021-06-24T14:45:00Z",
+        "rescheduled": false,
+        "scheduled_at": "2021-06-24T14:45:00Z",
+        "slug": "furia-vs-dignitas-2021-06-24",
+        "status": "not_started",
+        "streams": {
+          "english": {
+            "embed_url": "https://player.twitch.tv/?channel=gwbps_en",
+            "raw_url": "https://www.twitch.tv/gwbps_en"
+          },
+          "official": {
+            "embed_url": "https://player.twitch.tv/?channel=gwbps_en",
+            "raw_url": "https://www.twitch.tv/gwbps_en"
+          },
+          "russian": {
+            "embed_url": "https://player.twitch.tv/?channel=gwbps_ru",
+            "raw_url": "https://www.twitch.tv/gwbps_ru"
+          }
+        },
+        "streams_list": [
+          {
+            "embed_url": "https://player.twitch.tv/?channel=gwbps_ru",
+            "language": "ru",
+            "main": false,
+            "official": false,
+            "raw_url": "https://www.twitch.tv/gwbps_ru"
+          },
+          {
+            "embed_url": "https://player.twitch.tv/?channel=gwbps_en",
+            "language": "en",
+            "main": true,
+            "official": true,
+            "raw_url": "https://www.twitch.tv/gwbps_en"
+          }
+        ],
+        "tournament_id": 6262,
+        "winner_id": null
+      },
+      {
+        "begin_at": "2021-06-24T18:00:00Z",
+        "detailed_stats": true,
+        "draw": false,
+        "end_at": null,
+        "forfeit": false,
+        "game_advantage": null,
+        "id": 598549,
+        "live": {
+          "opens_at": null,
+          "supported": false,
+          "url": null
+        },
+        "live_embed_url": "https://player.twitch.tv/?channel=gwbps_en",
+        "match_type": "best_of",
+        "modified_at": "2021-06-21T14:43:45Z",
+        "name": "Winners' Match: TBD vs TBD",
+        "number_of_games": 3,
+        "official_stream_url": "https://www.twitch.tv/gwbps_en",
+        "original_scheduled_at": "2021-06-24T18:00:00Z",
+        "rescheduled": false,
+        "scheduled_at": "2021-06-24T18:00:00Z",
+        "slug": "2021-06-24-ec15e23a-b9b4-40fb-963c-17fb4732e8c4",
+        "status": "not_started",
+        "streams": {
+          "english": {
+            "embed_url": "https://player.twitch.tv/?channel=gwbps_en",
+            "raw_url": "https://www.twitch.tv/gwbps_en"
+          },
+          "official": {
+            "embed_url": "https://player.twitch.tv/?channel=gwbps_en",
+            "raw_url": "https://www.twitch.tv/gwbps_en"
+          },
+          "russian": {
+            "embed_url": "https://player.twitch.tv/?channel=gwbps_ru",
+            "raw_url": "https://www.twitch.tv/gwbps_ru"
+          }
+        },
+        "streams_list": [
+          {
+            "embed_url": "https://player.twitch.tv/?channel=gwbps_ru",
+            "language": "ru",
+            "main": false,
+            "official": false,
+            "raw_url": "https://www.twitch.tv/gwbps_ru"
+          },
+          {
+            "embed_url": "https://player.twitch.tv/?channel=gwbps_en",
+            "language": "en",
+            "main": true,
+            "official": true,
+            "raw_url": "https://www.twitch.tv/gwbps_en"
+          }
+        ],
+        "tournament_id": 6262,
+        "winner_id": null
+      },
+      {
+        "begin_at": "2021-06-25T14:45:00Z",
+        "detailed_stats": true,
+        "draw": false,
+        "end_at": null,
+        "forfeit": false,
+        "game_advantage": null,
+        "id": 598550,
+        "live": {
+          "opens_at": null,
+          "supported": false,
+          "url": null
+        },
+        "live_embed_url": "https://player.twitch.tv/?channel=gwbps_en",
+        "match_type": "best_of",
+        "modified_at": "2021-06-21T14:44:00Z",
+        "name": "Elimination Match: TBD vs TBD",
+        "number_of_games": 3,
+        "official_stream_url": "https://www.twitch.tv/gwbps_en",
+        "original_scheduled_at": "2021-06-25T14:45:00Z",
+        "rescheduled": false,
+        "scheduled_at": "2021-06-25T14:45:00Z",
+        "slug": "2021-06-25-a76ca150-4e6a-4333-b876-e21e08f57e69",
+        "status": "not_started",
+        "streams": {
+          "english": {
+            "embed_url": "https://player.twitch.tv/?channel=gwbps_en",
+            "raw_url": "https://www.twitch.tv/gwbps_en"
+          },
+          "official": {
+            "embed_url": "https://player.twitch.tv/?channel=gwbps_en",
+            "raw_url": "https://www.twitch.tv/gwbps_en"
+          },
+          "russian": {
+            "embed_url": "https://player.twitch.tv/?channel=gwbps_ru",
+            "raw_url": "https://www.twitch.tv/gwbps_ru"
+          }
+        },
+        "streams_list": [
+          {
+            "embed_url": "https://player.twitch.tv/?channel=gwbps_ru",
+            "language": "ru",
+            "main": false,
+            "official": false,
+            "raw_url": "https://www.twitch.tv/gwbps_ru"
+          },
+          {
+            "embed_url": "https://player.twitch.tv/?channel=gwbps_en",
+            "language": "en",
+            "main": true,
+            "official": true,
+            "raw_url": "https://www.twitch.tv/gwbps_en"
+          }
+        ],
+        "tournament_id": 6262,
+        "winner_id": null
+      },
+      {
+        "begin_at": "2021-06-25T18:00:00Z",
+        "detailed_stats": true,
+        "draw": false,
+        "end_at": null,
+        "forfeit": false,
+        "game_advantage": null,
+        "id": 598551,
+        "live": {
+          "opens_at": null,
+          "supported": false,
+          "url": null
+        },
+        "live_embed_url": "https://player.twitch.tv/?channel=gwbps_en",
+        "match_type": "best_of",
+        "modified_at": "2021-06-21T14:44:18Z",
+        "name": "Decider Match: TBD vs TBD",
+        "number_of_games": 3,
+        "official_stream_url": "https://www.twitch.tv/gwbps_en",
+        "original_scheduled_at": "2021-06-25T18:00:00Z",
+        "rescheduled": false,
+        "scheduled_at": "2021-06-25T18:00:00Z",
+        "slug": "2021-06-25-8929b96c-c158-455b-9922-7c885cf20eab",
+        "status": "not_started",
+        "streams": {
+          "english": {
+            "embed_url": "https://player.twitch.tv/?channel=gwbps_en",
+            "raw_url": "https://www.twitch.tv/gwbps_en"
+          },
+          "official": {
+            "embed_url": "https://player.twitch.tv/?channel=gwbps_en",
+            "raw_url": "https://www.twitch.tv/gwbps_en"
+          },
+          "russian": {
+            "embed_url": "https://player.twitch.tv/?channel=gwbps_ru",
+            "raw_url": "https://www.twitch.tv/gwbps_ru"
+          }
+        },
+        "streams_list": [
+          {
+            "embed_url": "https://player.twitch.tv/?channel=gwbps_ru",
+            "language": "ru",
+            "main": false,
+            "official": false,
+            "raw_url": "https://www.twitch.tv/gwbps_ru"
+          },
+          {
+            "embed_url": "https://player.twitch.tv/?channel=gwbps_en",
+            "language": "en",
+            "main": true,
+            "official": true,
+            "raw_url": "https://www.twitch.tv/gwbps_en"
+          }
+        ],
+        "tournament_id": 6262,
+        "winner_id": null
+      }
+    ],
+    "modified_at": "2021-06-21T20:04:51Z",
+    "name": "Group B",
+    "prizepool": null,
+    "serie": {
+      "begin_at": "2021-06-22T11:30:00Z",
+      "description": null,
+      "end_at": "2021-06-27T17:00:00Z",
+      "full_name": "2021",
+      "id": 3712,
+      "league_id": 4399,
+      "modified_at": "2021-06-21T14:35:06Z",
+      "name": null,
+      "season": null,
+      "slug": "cs-go-gamers-without-border-2021",
+      "tier": "a",
+      "winner_id": null,
+      "winner_type": null,
+      "year": 2021
+    },
+    "serie_id": 3712,
+    "slug": "cs-go-gamers-without-border-2021-group-b",
+    "teams": [
+      {
+        "acronym": null,
+        "id": 3212,
+        "image_url": "https://cdn.pandascore.co/images/team/image/3212/FAZE_CLAN.png",
+        "location": "US",
+        "modified_at": "2021-06-21T14:39:40Z",
+        "name": "FaZe",
+        "slug": "faze"
+      },
+      {
+        "acronym": null,
+        "id": 3215,
+        "image_url": "https://cdn.pandascore.co/images/team/image/3215/600px_dignitas_2021_logo.png",
+        "location": "US",
+        "modified_at": "2021-06-21T14:39:39Z",
+        "name": "Dignitas",
+        "slug": "dignitas-cs-go"
+      },
+      {
+        "acronym": null,
+        "id": 3249,
+        "image_url": "https://cdn.pandascore.co/images/team/image/3249/BIG.png",
+        "location": "DE",
+        "modified_at": "2021-06-21T14:39:39Z",
+        "name": "BIG",
+        "slug": "big"
+      },
+      {
+        "acronym": null,
+        "id": 124530,
+        "image_url": "https://cdn.pandascore.co/images/team/image/124530/8297.png",
+        "location": "BR",
+        "modified_at": "2021-06-21T14:39:40Z",
+        "name": "FURIA",
+        "slug": "furia"
+      }
+    ],
+    "videogame": {
+      "id": 3,
+      "name": "CS:GO",
+      "slug": "cs-go"
+    },
+    "winner_id": null,
+    "winner_type": "Team"
+  },
+  {
+    "begin_at": "2021-06-24T10:00:00Z",
+    "end_at": "2021-06-27T16:00:00Z",
+    "id": 6213,
+    "league": {
+      "id": 4497,
+      "image_url": "https://cdn.pandascore.co/images/league/image/4497/European_Development_Championship.png",
+      "modified_at": "2020-11-26T21:45:48Z",
+      "name": "European Development Championship",
+      "slug": "cs-go-european-development-championship",
+      "url": "https://edc.gg/"
+    },
+    "league_id": 4497,
+    "live_supported": false,
+    "matches": [
+      {
+        "begin_at": "2021-06-24T10:00:00Z",
+        "detailed_stats": true,
+        "draw": false,
+        "end_at": null,
+        "forfeit": false,
+        "game_advantage": null,
+        "id": 596954,
+        "live": {
+          "opens_at": null,
+          "supported": false,
+          "url": null
+        },
+        "live_embed_url": null,
+        "match_type": "best_of",
+        "modified_at": "2021-06-20T18:46:09Z",
+        "name": "Quarterfinal 1: HYENAS vs Sangal",
+        "number_of_games": 3,
+        "official_stream_url": null,
+        "original_scheduled_at": "2021-06-24T10:00:00Z",
+        "rescheduled": false,
+        "scheduled_at": "2021-06-24T10:00:00Z",
+        "slug": "2021-06-24-0cce9104-8c53-45c6-b8d2-6abe2b631335",
+        "status": "not_started",
+        "streams": {
+          "english": {
+            "embed_url": null,
+            "raw_url": null
+          },
+          "official": {
+            "embed_url": null,
+            "raw_url": null
+          },
+          "russian": {
+            "embed_url": null,
+            "raw_url": null
+          }
+        },
+        "streams_list": [],
+        "tournament_id": 6213,
+        "winner_id": null
+      },
+      {
+        "begin_at": "2021-06-24T13:00:00Z",
+        "detailed_stats": true,
+        "draw": false,
+        "end_at": null,
+        "forfeit": false,
+        "game_advantage": null,
+        "id": 596955,
+        "live": {
+          "opens_at": null,
+          "supported": false,
+          "url": null
+        },
+        "live_embed_url": null,
+        "match_type": "best_of",
+        "modified_at": "2021-06-20T18:46:25Z",
+        "name": "Quarterfinal 2: Entropiq vs Trident",
+        "number_of_games": 3,
+        "official_stream_url": null,
+        "original_scheduled_at": "2021-06-24T13:00:00Z",
+        "rescheduled": false,
+        "scheduled_at": "2021-06-24T13:00:00Z",
+        "slug": "2021-06-24-ba73c9de-b10c-4ac0-a33c-93aee1ceeb81",
+        "status": "not_started",
+        "streams": {
+          "english": {
+            "embed_url": null,
+            "raw_url": null
+          },
+          "official": {
+            "embed_url": null,
+            "raw_url": null
+          },
+          "russian": {
+            "embed_url": null,
+            "raw_url": null
+          }
+        },
+        "streams_list": [],
+        "tournament_id": 6213,
+        "winner_id": null
+      },
+      {
+        "begin_at": "2021-06-25T10:00:00Z",
+        "detailed_stats": true,
+        "draw": false,
+        "end_at": null,
+        "forfeit": false,
+        "game_advantage": null,
+        "id": 596956,
+        "live": {
+          "opens_at": null,
+          "supported": false,
+          "url": null
+        },
+        "live_embed_url": null,
+        "match_type": "best_of",
+        "modified_at": "2021-06-20T18:46:46Z",
+        "name": "Quarterfinal 3: Copenhagen Flames vs Fiend",
+        "number_of_games": 3,
+        "official_stream_url": null,
+        "original_scheduled_at": "2021-06-25T10:00:00Z",
+        "rescheduled": false,
+        "scheduled_at": "2021-06-25T10:00:00Z",
+        "slug": "2021-06-25-0082f9e3-e1ec-4292-8c9c-57e813593e07",
+        "status": "not_started",
+        "streams": {
+          "english": {
+            "embed_url": null,
+            "raw_url": null
+          },
+          "official": {
+            "embed_url": null,
+            "raw_url": null
+          },
+          "russian": {
+            "embed_url": null,
+            "raw_url": null
+          }
+        },
+        "streams_list": [],
+        "tournament_id": 6213,
+        "winner_id": null
+      },
+      {
+        "begin_at": "2021-06-25T13:00:00Z",
+        "detailed_stats": true,
+        "draw": false,
+        "end_at": null,
+        "forfeit": false,
+        "game_advantage": null,
+        "id": 596957,
+        "live": {
+          "opens_at": null,
+          "supported": false,
+          "url": null
+        },
+        "live_embed_url": null,
+        "match_type": "best_of",
+        "modified_at": "2021-06-20T18:46:56Z",
+        "name": "Quarterfinal 4: DBL PONEY vs Akuma",
+        "number_of_games": 3,
+        "official_stream_url": null,
+        "original_scheduled_at": "2021-06-25T13:00:00Z",
+        "rescheduled": false,
+        "scheduled_at": "2021-06-25T13:00:00Z",
+        "slug": "2021-06-25-8421cb5e-5840-41bc-a532-6b29fb37b15f",
+        "status": "not_started",
+        "streams": {
+          "english": {
+            "embed_url": null,
+            "raw_url": null
+          },
+          "official": {
+            "embed_url": null,
+            "raw_url": null
+          },
+          "russian": {
+            "embed_url": null,
+            "raw_url": null
+          }
+        },
+        "streams_list": [],
+        "tournament_id": 6213,
+        "winner_id": null
+      },
+      {
+        "begin_at": "2021-06-26T10:00:00Z",
+        "detailed_stats": true,
+        "draw": false,
+        "end_at": null,
+        "forfeit": false,
+        "game_advantage": null,
+        "id": 596958,
+        "live": {
+          "opens_at": null,
+          "supported": false,
+          "url": null
+        },
+        "live_embed_url": null,
+        "match_type": "best_of",
+        "modified_at": "2021-06-08T09:26:09Z",
+        "name": "Semifinal 1: TBD vs TBD",
+        "number_of_games": 3,
+        "official_stream_url": null,
+        "original_scheduled_at": "2021-06-26T10:00:00Z",
+        "rescheduled": false,
+        "scheduled_at": "2021-06-26T10:00:00Z",
+        "slug": "2021-06-26-4ec38936-ccfe-479a-a6d0-a75e29330767",
+        "status": "not_started",
+        "streams": {
+          "english": {
+            "embed_url": null,
+            "raw_url": null
+          },
+          "official": {
+            "embed_url": null,
+            "raw_url": null
+          },
+          "russian": {
+            "embed_url": null,
+            "raw_url": null
+          }
+        },
+        "streams_list": [],
+        "tournament_id": 6213,
+        "winner_id": null
+      },
+      {
+        "begin_at": "2021-06-26T13:00:00Z",
+        "detailed_stats": true,
+        "draw": false,
+        "end_at": null,
+        "forfeit": false,
+        "game_advantage": null,
+        "id": 596959,
+        "live": {
+          "opens_at": null,
+          "supported": false,
+          "url": null
+        },
+        "live_embed_url": null,
+        "match_type": "best_of",
+        "modified_at": "2021-06-08T09:26:22Z",
+        "name": "Semifinal 2: TBD vs TBD",
+        "number_of_games": 3,
+        "official_stream_url": null,
+        "original_scheduled_at": "2021-06-26T13:00:00Z",
+        "rescheduled": false,
+        "scheduled_at": "2021-06-26T13:00:00Z",
+        "slug": "2021-06-26-fe4d207e-39b6-4d2b-8f72-bb931d37af59",
+        "status": "not_started",
+        "streams": {
+          "english": {
+            "embed_url": null,
+            "raw_url": null
+          },
+          "official": {
+            "embed_url": null,
+            "raw_url": null
+          },
+          "russian": {
+            "embed_url": null,
+            "raw_url": null
+          }
+        },
+        "streams_list": [],
+        "tournament_id": 6213,
+        "winner_id": null
+      },
+      {
+        "begin_at": "2021-06-27T13:00:00Z",
+        "detailed_stats": true,
+        "draw": false,
+        "end_at": null,
+        "forfeit": false,
+        "game_advantage": null,
+        "id": 596960,
+        "live": {
+          "opens_at": null,
+          "supported": false,
+          "url": null
+        },
+        "live_embed_url": null,
+        "match_type": "best_of",
+        "modified_at": "2021-06-08T09:26:38Z",
+        "name": "Grand Final: TBD vs TBD",
+        "number_of_games": 3,
+        "official_stream_url": null,
+        "original_scheduled_at": "2021-06-27T13:00:00Z",
+        "rescheduled": false,
+        "scheduled_at": "2021-06-27T13:00:00Z",
+        "slug": "2021-06-27",
+        "status": "not_started",
+        "streams": {
+          "english": {
+            "embed_url": null,
+            "raw_url": null
+          },
+          "official": {
+            "embed_url": null,
+            "raw_url": null
+          },
+          "russian": {
+            "embed_url": null,
+            "raw_url": null
+          }
+        },
+        "streams_list": [],
+        "tournament_id": 6213,
+        "winner_id": null
+      }
+    ],
+    "modified_at": "2021-06-20T18:53:42Z",
+    "name": "Playoffs",
+    "prizepool": "30000 United States Dollar",
+    "serie": {
+      "begin_at": "2021-06-09T10:00:00Z",
+      "description": null,
+      "end_at": "2021-06-27T16:00:00Z",
+      "full_name": "4 2021",
+      "id": 3680,
+      "league_id": 4497,
+      "modified_at": "2021-06-08T09:29:10Z",
+      "name": "4",
+      "season": "",
+      "slug": "cs-go-european-development-championship-4-2021",
+      "tier": "c",
+      "winner_id": null,
+      "winner_type": null,
+      "year": 2021
+    },
+    "serie_id": 3680,
+    "slug": "cs-go-european-development-championship-4-2021-playoffs",
+    "teams": [
+      {
+        "acronym": null,
+        "id": 125775,
+        "image_url": "https://cdn.pandascore.co/images/team/image/125775/o9g_wb_zq_ka_yg_djl5tt_g_kuq_q.png",
+        "location": "DK",
+        "modified_at": "2021-06-20T18:53:40Z",
+        "name": "Copenhagen Flames",
+        "slug": "copenhagen-flames"
+      },
+      {
+        "acronym": null,
+        "id": 126492,
+        "image_url": "https://cdn.pandascore.co/images/team/image/126492/l0_r_kp_d_ylytu_okl_rn_spq_hwc.png",
+        "location": "UA",
+        "modified_at": "2021-06-20T18:53:42Z",
+        "name": "Akuma",
+        "slug": "waitfortag"
+      },
+      {
+        "acronym": null,
+        "id": 127365,
+        "image_url": "https://cdn.pandascore.co/images/team/image/127365/sangal.png",
+        "location": "TR",
+        "modified_at": "2021-06-22T07:25:41Z",
+        "name": "Sangal",
+        "slug": "sangal"
+      },
+      {
+        "acronym": null,
+        "id": 127756,
+        "image_url": "https://cdn.pandascore.co/images/team/image/127756/meta_tag_1f9d2364486c75921ac132300f6a0289.png",
+        "location": "CZ",
+        "modified_at": "2021-06-20T18:50:10Z",
+        "name": "Entropiq",
+        "slug": "entropiq-cs-go"
+      },
+      {
+        "acronym": null,
+        "id": 128410,
+        "image_url": "https://cdn.pandascore.co/images/team/image/128410/t73824.png",
+        "location": "RU",
+        "modified_at": "2021-06-20T18:51:15Z",
+        "name": "Trident",
+        "slug": "trident-clan"
+      },
+      {
+        "acronym": null,
+        "id": 128590,
+        "image_url": "https://cdn.pandascore.co/images/team/image/128590/600px_dbl_poney.png",
+        "location": "FR",
+        "modified_at": "2021-06-20T18:54:08Z",
+        "name": "DBL PONEY",
+        "slug": "dbl-poney"
+      },
+      {
+        "acronym": null,
+        "id": 128847,
+        "image_url": "https://cdn.pandascore.co/images/team/image/128847/600px_team_fiend.png",
+        "location": null,
+        "modified_at": "2021-06-20T18:53:41Z",
+        "name": "Fiend",
+        "slug": "fiend"
+      },
+      {
+        "acronym": null,
+        "id": 128848,
+        "image_url": "https://cdn.pandascore.co/images/team/image/128848/t82453.png",
+        "location": null,
+        "modified_at": "2021-06-22T07:25:36Z",
+        "name": "HYENAS",
+        "slug": "hyenas"
+      }
+    ],
+    "videogame": {
+      "id": 3,
+      "name": "CS:GO",
+      "slug": "cs-go"
+    },
+    "winner_id": null,
+    "winner_type": "Team"
+  },
+  {
+    "begin_at": "2021-06-23T20:20:00Z",
+    "end_at": "2021-06-28T00:00:00Z",
+    "id": 6232,
+    "league": {
+      "id": 4278,
+      "image_url": "https://cdn.pandascore.co/images/league/image/4278/600px-CBCS.png",
+      "modified_at": "2019-12-11T15:43:53Z",
+      "name": "CBCS",
+      "slug": "cs-go-cbcs",
+      "url": null
+    },
+    "league_id": 4278,
+    "live_supported": false,
+    "matches": [
+      {
+        "begin_at": "2021-06-23T20:20:00Z",
+        "detailed_stats": true,
+        "draw": false,
+        "end_at": null,
+        "forfeit": false,
+        "game_advantage": null,
+        "id": 596897,
+        "live": {
+          "opens_at": null,
+          "supported": false,
+          "url": null
+        },
+        "live_embed_url": "https://player.twitch.tv/?channel=cbcsbr",
+        "match_type": "best_of",
+        "modified_at": "2021-06-13T14:18:19Z",
+        "name": "Quarterfinal 1: Paquetá vs INTZ",
+        "number_of_games": 3,
+        "official_stream_url": "https://www.twitch.tv/cbcsbr",
+        "original_scheduled_at": "2021-06-13T20:20:00Z",
+        "rescheduled": true,
+        "scheduled_at": "2021-06-23T20:20:00Z",
+        "slug": "paqueta-2021-06-23",
+        "status": "not_started",
+        "streams": {
+          "english": {
+            "embed_url": null,
+            "raw_url": null
+          },
+          "official": {
+            "embed_url": "https://player.twitch.tv/?channel=cbcsbr",
+            "raw_url": "https://www.twitch.tv/cbcsbr"
+          },
+          "russian": {
+            "embed_url": "https://player.twitch.tv/?channel=cmarty",
+            "raw_url": "https://www.twitch.tv/cmarty"
+          }
+        },
+        "streams_list": [
+          {
+            "embed_url": "https://player.twitch.tv/?channel=cbcsbr",
+            "language": "pt",
+            "main": true,
+            "official": true,
+            "raw_url": "https://www.twitch.tv/cbcsbr"
+          },
+          {
+            "embed_url": "https://player.twitch.tv/?channel=cmarty",
+            "language": "ru",
+            "main": false,
+            "official": false,
+            "raw_url": "https://www.twitch.tv/cmarty"
+          }
+        ],
+        "tournament_id": 6232,
+        "winner_id": null
+      },
+      {
+        "begin_at": "2021-06-23T23:00:00Z",
+        "detailed_stats": true,
+        "draw": false,
+        "end_at": null,
+        "forfeit": false,
+        "game_advantage": null,
+        "id": 596899,
+        "live": {
+          "opens_at": null,
+          "supported": false,
+          "url": null
+        },
+        "live_embed_url": "https://player.twitch.tv/?channel=cbcsbr",
+        "match_type": "best_of",
+        "modified_at": "2021-06-13T14:18:34Z",
+        "name": "Quarterfinal 2: Havan Liberty vs KG Network",
+        "number_of_games": 3,
+        "official_stream_url": "https://www.twitch.tv/cbcsbr",
+        "original_scheduled_at": "2021-06-13T23:00:00Z",
+        "rescheduled": true,
+        "scheduled_at": "2021-06-23T23:00:00Z",
+        "slug": "havan-liberty-2021-06-24",
+        "status": "not_started",
+        "streams": {
+          "english": {
+            "embed_url": null,
+            "raw_url": null
+          },
+          "official": {
+            "embed_url": "https://player.twitch.tv/?channel=cbcsbr",
+            "raw_url": "https://www.twitch.tv/cbcsbr"
+          },
+          "russian": {
+            "embed_url": "https://player.twitch.tv/?channel=cmarty",
+            "raw_url": "https://www.twitch.tv/cmarty"
+          }
+        },
+        "streams_list": [
+          {
+            "embed_url": "https://player.twitch.tv/?channel=cbcsbr",
+            "language": "pt",
+            "main": true,
+            "official": true,
+            "raw_url": "https://www.twitch.tv/cbcsbr"
+          },
+          {
+            "embed_url": "https://player.twitch.tv/?channel=cmarty",
+            "language": "ru",
+            "main": false,
+            "official": false,
+            "raw_url": "https://www.twitch.tv/cmarty"
+          }
+        ],
+        "tournament_id": 6232,
+        "winner_id": null
+      },
+      {
+        "begin_at": "2021-06-25T20:20:00Z",
+        "detailed_stats": true,
+        "draw": false,
+        "end_at": null,
+        "forfeit": false,
+        "game_advantage": null,
+        "id": 596900,
+        "live": {
+          "opens_at": null,
+          "supported": false,
+          "url": null
+        },
+        "live_embed_url": "https://player.twitch.tv/?channel=cbcsbr",
+        "match_type": "best_of",
+        "modified_at": "2021-06-13T14:18:48Z",
+        "name": "Quarterfinal 3: FURIA Academy vs DETONA",
+        "number_of_games": 3,
+        "official_stream_url": "https://www.twitch.tv/cbcsbr",
+        "original_scheduled_at": "2021-06-13T23:00:00Z",
+        "rescheduled": true,
+        "scheduled_at": "2021-06-25T20:20:00Z",
+        "slug": "furia-academy-2021-06-25",
+        "status": "not_started",
+        "streams": {
+          "english": {
+            "embed_url": null,
+            "raw_url": null
+          },
+          "official": {
+            "embed_url": "https://player.twitch.tv/?channel=cbcsbr",
+            "raw_url": "https://www.twitch.tv/cbcsbr"
+          },
+          "russian": {
+            "embed_url": "https://player.twitch.tv/?channel=cmarty",
+            "raw_url": "https://www.twitch.tv/cmarty"
+          }
+        },
+        "streams_list": [
+          {
+            "embed_url": "https://player.twitch.tv/?channel=cbcsbr",
+            "language": "pt",
+            "main": true,
+            "official": true,
+            "raw_url": "https://www.twitch.tv/cbcsbr"
+          },
+          {
+            "embed_url": "https://player.twitch.tv/?channel=cmarty",
+            "language": "ru",
+            "main": false,
+            "official": false,
+            "raw_url": "https://www.twitch.tv/cmarty"
+          }
+        ],
+        "tournament_id": 6232,
+        "winner_id": null
+      },
+      {
+        "begin_at": "2021-06-25T23:00:00Z",
+        "detailed_stats": true,
+        "draw": false,
+        "end_at": null,
+        "forfeit": false,
+        "game_advantage": null,
+        "id": 596898,
+        "live": {
+          "opens_at": null,
+          "supported": false,
+          "url": null
+        },
+        "live_embed_url": "https://player.twitch.tv/?channel=cbcsbr",
+        "match_type": "best_of",
+        "modified_at": "2021-06-13T14:19:00Z",
+        "name": "Quarterfinal 4: Bravos vs Meta",
+        "number_of_games": 3,
+        "official_stream_url": "https://www.twitch.tv/cbcsbr",
+        "original_scheduled_at": "2021-06-13T20:20:00Z",
+        "rescheduled": true,
+        "scheduled_at": "2021-06-25T23:00:00Z",
+        "slug": "bravos-2021-06-26",
+        "status": "not_started",
+        "streams": {
+          "english": {
+            "embed_url": null,
+            "raw_url": null
+          },
+          "official": {
+            "embed_url": "https://player.twitch.tv/?channel=cbcsbr",
+            "raw_url": "https://www.twitch.tv/cbcsbr"
+          },
+          "russian": {
+            "embed_url": "https://player.twitch.tv/?channel=cmarty",
+            "raw_url": "https://www.twitch.tv/cmarty"
+          }
+        },
+        "streams_list": [
+          {
+            "embed_url": "https://player.twitch.tv/?channel=cbcsbr",
+            "language": "pt",
+            "main": true,
+            "official": true,
+            "raw_url": "https://www.twitch.tv/cbcsbr"
+          },
+          {
+            "embed_url": "https://player.twitch.tv/?channel=cmarty",
+            "language": "ru",
+            "main": false,
+            "official": false,
+            "raw_url": "https://www.twitch.tv/cmarty"
+          }
+        ],
+        "tournament_id": 6232,
+        "winner_id": null
+      },
+      {
+        "begin_at": "2021-06-26T20:20:00Z",
+        "detailed_stats": true,
+        "draw": false,
+        "end_at": null,
+        "forfeit": false,
+        "game_advantage": null,
+        "id": 597384,
+        "live": {
+          "opens_at": null,
+          "supported": false,
+          "url": null
+        },
+        "live_embed_url": null,
+        "match_type": "best_of",
+        "modified_at": "2021-06-12T06:54:33Z",
+        "name": "Semifinal 1: TBD vs TBD",
+        "number_of_games": 3,
+        "official_stream_url": null,
+        "original_scheduled_at": "2021-06-26T20:20:00Z",
+        "rescheduled": false,
+        "scheduled_at": "2021-06-26T20:20:00Z",
+        "slug": "2021-06-26-bb06e1d1-ba68-4bac-9b3b-be02fbaab79b",
+        "status": "not_started",
+        "streams": {
+          "english": {
+            "embed_url": null,
+            "raw_url": null
+          },
+          "official": {
+            "embed_url": null,
+            "raw_url": null
+          },
+          "russian": {
+            "embed_url": null,
+            "raw_url": null
+          }
+        },
+        "streams_list": [],
+        "tournament_id": 6232,
+        "winner_id": null
+      },
+      {
+        "begin_at": "2021-06-26T23:00:00Z",
+        "detailed_stats": true,
+        "draw": false,
+        "end_at": null,
+        "forfeit": false,
+        "game_advantage": null,
+        "id": 597385,
+        "live": {
+          "opens_at": null,
+          "supported": false,
+          "url": null
+        },
+        "live_embed_url": null,
+        "match_type": "best_of",
+        "modified_at": "2021-06-12T06:54:49Z",
+        "name": "Semifinal 2: TBD vs TBD",
+        "number_of_games": 3,
+        "official_stream_url": null,
+        "original_scheduled_at": "2021-06-26T23:00:00Z",
+        "rescheduled": false,
+        "scheduled_at": "2021-06-26T23:00:00Z",
+        "slug": "2021-06-27-86305097-9c7e-405e-bf30-b9dff9b949a9",
+        "status": "not_started",
+        "streams": {
+          "english": {
+            "embed_url": null,
+            "raw_url": null
+          },
+          "official": {
+            "embed_url": null,
+            "raw_url": null
+          },
+          "russian": {
+            "embed_url": null,
+            "raw_url": null
+          }
+        },
+        "streams_list": [],
+        "tournament_id": 6232,
+        "winner_id": null
+      },
+      {
+        "begin_at": "2021-06-27T21:00:00Z",
+        "detailed_stats": true,
+        "draw": false,
+        "end_at": null,
+        "forfeit": false,
+        "game_advantage": null,
+        "id": 597386,
+        "live": {
+          "opens_at": null,
+          "supported": false,
+          "url": null
+        },
+        "live_embed_url": null,
+        "match_type": "best_of",
+        "modified_at": "2021-06-12T06:55:05Z",
+        "name": "Grand final: TBD vs TBD",
+        "number_of_games": 3,
+        "official_stream_url": null,
+        "original_scheduled_at": "2021-06-27T21:00:00Z",
+        "rescheduled": false,
+        "scheduled_at": "2021-06-27T21:00:00Z",
+        "slug": "2021-06-27-717c7816-29d1-4551-aadd-6689956fab3f",
+        "status": "not_started",
+        "streams": {
+          "english": {
+            "embed_url": null,
+            "raw_url": null
+          },
+          "official": {
+            "embed_url": null,
+            "raw_url": null
+          },
+          "russian": {
+            "embed_url": null,
+            "raw_url": null
+          }
+        },
+        "streams_list": [],
+        "tournament_id": 6232,
+        "winner_id": null
+      }
+    ],
+    "modified_at": "2021-06-18T14:46:29Z",
+    "name": "Playoffs",
+    "prizepool": "25000 Brazilian Real",
+    "serie": {
+      "begin_at": "2021-06-11T20:20:00Z",
+      "description": null,
+      "end_at": "2021-06-26T22:00:00Z",
+      "full_name": "Retake Season 1 2021",
+      "id": 3681,
+      "league_id": 4278,
+      "modified_at": "2021-06-07T17:49:28Z",
+      "name": "Retake Season 1",
+      "season": "",
+      "slug": "cs-go-cbcs-retake-season-1-2021",
+      "tier": "d",
+      "winner_id": null,
+      "winner_type": null,
+      "year": 2021
+    },
+    "serie_id": 3681,
+    "slug": "cs-go-cbcs-retake-season-1-2021-playoffs",
+    "teams": [
+      {
+        "acronym": null,
+        "id": 3391,
+        "image_url": "https://cdn.pandascore.co/images/team/image/3391/INTZ.png",
+        "location": "BR",
+        "modified_at": "2021-06-13T01:59:03Z",
+        "name": "INTZ",
+        "slug": "intz-cs-go"
+      },
+      {
+        "acronym": null,
+        "id": 125866,
+        "image_url": "https://cdn.pandascore.co/images/team/image/125866/8902.png",
+        "location": "BR",
+        "modified_at": "2021-06-18T14:48:19Z",
+        "name": "DETONA",
+        "slug": "detona-gaming"
+      },
+      {
+        "acronym": null,
+        "id": 126714,
+        "image_url": "https://cdn.pandascore.co/images/team/image/126714/furia_academy.png",
+        "location": "BR",
+        "modified_at": "2021-06-12T15:06:59Z",
+        "name": "FURIA Academy",
+        "slug": "furia-inagame-cs-go"
+      },
+      {
+        "acronym": null,
+        "id": 126865,
+        "image_url": "https://cdn.pandascore.co/images/team/image/126865/10605.png",
+        "location": "BR",
+        "modified_at": "2021-06-12T15:06:59Z",
+        "name": "Bravos",
+        "slug": "bravos"
+      },
+      {
+        "acronym": null,
+        "id": 127349,
+        "image_url": "https://cdn.pandascore.co/images/team/image/127349/1313_paqueta_e_sports5e882f4369ba0932437818.png",
+        "location": null,
+        "modified_at": "2021-06-13T06:47:03Z",
+        "name": "Paquetá",
+        "slug": "paqueta"
+      },
+      {
+        "acronym": null,
+        "id": 127718,
+        "image_url": "https://cdn.pandascore.co/images/team/image/127718/600px_havan_liberty_2020.png",
+        "location": "BR",
+        "modified_at": "2021-06-12T15:07:00Z",
+        "name": "Havan Liberty",
+        "slug": "havan-liberty-cs-go"
+      },
+      {
+        "acronym": null,
+        "id": 127960,
+        "image_url": "https://cdn.pandascore.co/images/team/image/127960/t60511.png",
+        "location": "AR",
+        "modified_at": "2021-06-18T14:46:29Z",
+        "name": "Meta",
+        "slug": "meta-gaming-cs-go"
+      },
+      {
+        "acronym": null,
+        "id": 129108,
+        "image_url": "https://cdn.pandascore.co/images/team/image/129108/82px_kg_network_teamcardimage.png",
+        "location": "BR",
+        "modified_at": "2021-06-12T22:04:44Z",
+        "name": "KG Network",
+        "slug": "kg-network"
+      }
+    ],
+    "videogame": {
+      "id": 3,
+      "name": "CS:GO",
+      "slug": "cs-go"
+    },
+    "winner_id": null,
+    "winner_type": "Team"
+  },
+  {
+    "begin_at": "2021-06-23T03:00:00Z",
+    "end_at": "2021-06-27T08:00:00Z",
+    "id": 6264,
+    "league": {
+      "id": 4603,
+      "image_url": "https://cdn.pandascore.co/images/league/image/4603/600px-Asian_Emperor_Challenge_League.png",
+      "modified_at": "2021-06-21T15:07:54Z",
+      "name": "Asian Emperor Challenge League",
+      "slug": "cs-go-asian-emperor-challenge-league",
+      "url": null
+    },
+    "league_id": 4603,
+    "live_supported": false,
+    "matches": [
+      {
+        "begin_at": "2021-06-23T03:00:00Z",
+        "detailed_stats": false,
+        "draw": false,
+        "end_at": null,
+        "forfeit": false,
+        "game_advantage": null,
+        "id": 598555,
+        "live": {
+          "opens_at": null,
+          "supported": false,
+          "url": null
+        },
+        "live_embed_url": null,
+        "match_type": "best_of",
+        "modified_at": "2021-06-21T15:35:13Z",
+        "name": "Play-In Round Match 1: Reece vs After",
+        "number_of_games": 3,
+        "official_stream_url": null,
+        "original_scheduled_at": "2021-06-23T03:00:00Z",
+        "rescheduled": false,
+        "scheduled_at": "2021-06-23T03:00:00Z",
+        "slug": "reece-vs-after-2021-06-23",
+        "status": "not_started",
+        "streams": {
+          "english": {
+            "embed_url": null,
+            "raw_url": null
+          },
+          "official": {
+            "embed_url": null,
+            "raw_url": null
+          },
+          "russian": {
+            "embed_url": null,
+            "raw_url": null
+          }
+        },
+        "streams_list": [],
+        "tournament_id": 6264,
+        "winner_id": null
+      },
+      {
+        "begin_at": "2021-06-23T06:00:00Z",
+        "detailed_stats": false,
+        "draw": false,
+        "end_at": null,
+        "forfeit": false,
+        "game_advantage": null,
+        "id": 598556,
+        "live": {
+          "opens_at": null,
+          "supported": false,
+          "url": null
+        },
+        "live_embed_url": null,
+        "match_type": "best_of",
+        "modified_at": "2021-06-21T15:35:37Z",
+        "name": "Play-In Round Match 2: Newhappy vs ZIGMA",
+        "number_of_games": 3,
+        "official_stream_url": null,
+        "original_scheduled_at": "2021-06-23T06:00:00Z",
+        "rescheduled": false,
+        "scheduled_at": "2021-06-23T06:00:00Z",
+        "slug": "newhappy-vs-zigma-2021-06-23",
+        "status": "not_started",
+        "streams": {
+          "english": {
+            "embed_url": null,
+            "raw_url": null
+          },
+          "official": {
+            "embed_url": null,
+            "raw_url": null
+          },
+          "russian": {
+            "embed_url": null,
+            "raw_url": null
+          }
+        },
+        "streams_list": [],
+        "tournament_id": 6264,
+        "winner_id": null
+      },
+      {
+        "begin_at": "2021-06-24T03:00:00Z",
+        "detailed_stats": false,
+        "draw": false,
+        "end_at": null,
+        "forfeit": false,
+        "game_advantage": null,
+        "id": 598558,
+        "live": {
+          "opens_at": null,
+          "supported": false,
+          "url": null
+        },
+        "live_embed_url": null,
+        "match_type": "best_of",
+        "modified_at": "2021-06-21T15:36:44Z",
+        "name": "Upper Bracket Semifinals Match 1: CatEvil vs TBD",
+        "number_of_games": 3,
+        "official_stream_url": null,
+        "original_scheduled_at": "2021-06-24T03:00:00Z",
+        "rescheduled": false,
+        "scheduled_at": "2021-06-24T03:00:00Z",
+        "slug": "catevil-2021-06-24",
+        "status": "not_started",
+        "streams": {
+          "english": {
+            "embed_url": null,
+            "raw_url": null
+          },
+          "official": {
+            "embed_url": null,
+            "raw_url": null
+          },
+          "russian": {
+            "embed_url": null,
+            "raw_url": null
+          }
+        },
+        "streams_list": [],
+        "tournament_id": 6264,
+        "winner_id": null
+      },
+      {
+        "begin_at": "2021-06-24T06:00:00Z",
+        "detailed_stats": false,
+        "draw": false,
+        "end_at": null,
+        "forfeit": false,
+        "game_advantage": null,
+        "id": 598557,
+        "live": {
+          "opens_at": null,
+          "supported": false,
+          "url": null
+        },
+        "live_embed_url": null,
+        "match_type": "best_of",
+        "modified_at": "2021-06-21T15:36:51Z",
+        "name": "Upper Bracket Semifinals Match 2: Huat Zai vs TBD",
+        "number_of_games": 3,
+        "official_stream_url": null,
+        "original_scheduled_at": "2021-06-24T06:00:00Z",
+        "rescheduled": false,
+        "scheduled_at": "2021-06-24T06:00:00Z",
+        "slug": "huat-zai-2021-06-24",
+        "status": "not_started",
+        "streams": {
+          "english": {
+            "embed_url": null,
+            "raw_url": null
+          },
+          "official": {
+            "embed_url": null,
+            "raw_url": null
+          },
+          "russian": {
+            "embed_url": null,
+            "raw_url": null
+          }
+        },
+        "streams_list": [],
+        "tournament_id": 6264,
+        "winner_id": null
+      },
+      {
+        "begin_at": "2021-06-25T03:00:00Z",
+        "detailed_stats": false,
+        "draw": false,
+        "end_at": null,
+        "forfeit": false,
+        "game_advantage": null,
+        "id": 598562,
+        "live": {
+          "opens_at": null,
+          "supported": false,
+          "url": null
+        },
+        "live_embed_url": null,
+        "match_type": "best_of",
+        "modified_at": "2021-06-21T15:38:09Z",
+        "name": "Lower Bracket Round 1: TBD vs TBD",
+        "number_of_games": 3,
+        "official_stream_url": null,
+        "original_scheduled_at": "2021-06-25T03:00:00Z",
+        "rescheduled": false,
+        "scheduled_at": "2021-06-25T03:00:00Z",
+        "slug": "2021-06-25-569c1425-c34e-4a6b-a43a-b30f84471d33",
+        "status": "not_started",
+        "streams": {
+          "english": {
+            "embed_url": null,
+            "raw_url": null
+          },
+          "official": {
+            "embed_url": null,
+            "raw_url": null
+          },
+          "russian": {
+            "embed_url": null,
+            "raw_url": null
+          }
+        },
+        "streams_list": [],
+        "tournament_id": 6264,
+        "winner_id": null
+      },
+      {
+        "begin_at": "2021-06-25T06:00:00Z",
+        "detailed_stats": false,
+        "draw": false,
+        "end_at": null,
+        "forfeit": false,
+        "game_advantage": null,
+        "id": 598559,
+        "live": {
+          "opens_at": null,
+          "supported": false,
+          "url": null
+        },
+        "live_embed_url": null,
+        "match_type": "best_of",
+        "modified_at": "2021-06-21T15:37:11Z",
+        "name": "Upper Bracket Final: TBD vs TBD",
+        "number_of_games": 3,
+        "official_stream_url": null,
+        "original_scheduled_at": "2021-06-25T06:00:00Z",
+        "rescheduled": false,
+        "scheduled_at": "2021-06-25T06:00:00Z",
+        "slug": "2021-06-25-f3188c03-279f-4294-9c61-91cfa624ff60",
+        "status": "not_started",
+        "streams": {
+          "english": {
+            "embed_url": null,
+            "raw_url": null
+          },
+          "official": {
+            "embed_url": null,
+            "raw_url": null
+          },
+          "russian": {
+            "embed_url": null,
+            "raw_url": null
+          }
+        },
+        "streams_list": [],
+        "tournament_id": 6264,
+        "winner_id": null
+      },
+      {
+        "begin_at": "2021-06-26T03:00:00Z",
+        "detailed_stats": false,
+        "draw": false,
+        "end_at": null,
+        "forfeit": false,
+        "game_advantage": null,
+        "id": 598561,
+        "live": {
+          "opens_at": null,
+          "supported": false,
+          "url": null
+        },
+        "live_embed_url": null,
+        "match_type": "best_of",
+        "modified_at": "2021-06-21T15:37:53Z",
+        "name": "5th Place Decider: TBD vs TBD",
+        "number_of_games": 3,
+        "official_stream_url": null,
+        "original_scheduled_at": "2021-06-26T03:00:00Z",
+        "rescheduled": false,
+        "scheduled_at": "2021-06-26T03:00:00Z",
+        "slug": "2021-06-26-9cc299c9-d651-497f-a618-89203a659323",
+        "status": "not_started",
+        "streams": {
+          "english": {
+            "embed_url": null,
+            "raw_url": null
+          },
+          "official": {
+            "embed_url": null,
+            "raw_url": null
+          },
+          "russian": {
+            "embed_url": null,
+            "raw_url": null
+          }
+        },
+        "streams_list": [],
+        "tournament_id": 6264,
+        "winner_id": null
+      },
+      {
+        "begin_at": "2021-06-26T06:00:00Z",
+        "detailed_stats": false,
+        "draw": false,
+        "end_at": null,
+        "forfeit": false,
+        "game_advantage": null,
+        "id": 598563,
+        "live": {
+          "opens_at": null,
+          "supported": false,
+          "url": null
+        },
+        "live_embed_url": null,
+        "match_type": "best_of",
+        "modified_at": "2021-06-21T15:38:23Z",
+        "name": "Lower Bracket Final: TBD vs TBD",
+        "number_of_games": 3,
+        "official_stream_url": null,
+        "original_scheduled_at": "2021-06-26T06:00:00Z",
+        "rescheduled": false,
+        "scheduled_at": "2021-06-26T06:00:00Z",
+        "slug": "2021-06-26-73005b7b-ebcf-4b3e-a98a-52dedb6e5668",
+        "status": "not_started",
+        "streams": {
+          "english": {
+            "embed_url": null,
+            "raw_url": null
+          },
+          "official": {
+            "embed_url": null,
+            "raw_url": null
+          },
+          "russian": {
+            "embed_url": null,
+            "raw_url": null
+          }
+        },
+        "streams_list": [],
+        "tournament_id": 6264,
+        "winner_id": null
+      },
+      {
+        "begin_at": "2021-06-27T03:00:00Z",
+        "detailed_stats": false,
+        "draw": false,
+        "end_at": null,
+        "forfeit": false,
+        "game_advantage": null,
+        "id": 598560,
+        "live": {
+          "opens_at": null,
+          "supported": false,
+          "url": null
+        },
+        "live_embed_url": null,
+        "match_type": "best_of",
+        "modified_at": "2021-06-21T15:37:27Z",
+        "name": "Grand Final: TBD vs TBD",
+        "number_of_games": 5,
+        "official_stream_url": null,
+        "original_scheduled_at": "2021-06-27T03:00:00Z",
+        "rescheduled": false,
+        "scheduled_at": "2021-06-27T03:00:00Z",
+        "slug": "2021-06-27-f416848b-286c-4b54-bc64-445557800636",
+        "status": "not_started",
+        "streams": {
+          "english": {
+            "embed_url": null,
+            "raw_url": null
+          },
+          "official": {
+            "embed_url": null,
+            "raw_url": null
+          },
+          "russian": {
+            "embed_url": null,
+            "raw_url": null
+          }
+        },
+        "streams_list": [],
+        "tournament_id": 6264,
+        "winner_id": null
+      }
+    ],
+    "modified_at": "2021-06-21T19:35:04Z",
+    "name": "Playoffs",
+    "prizepool": null,
+    "serie": {
+      "begin_at": "2021-06-16T03:00:00Z",
+      "description": null,
+      "end_at": "2021-06-27T08:00:00Z",
+      "full_name": "2021",
+      "id": 3713,
+      "league_id": 4603,
+      "modified_at": "2021-06-21T15:31:00Z",
+      "name": null,
+      "season": null,
+      "slug": "cs-go-asian-emperor-challenge-league-2021",
+      "tier": "d",
+      "winner_id": null,
+      "winner_type": null,
+      "year": 2021
+    },
+    "serie_id": 3713,
+    "slug": "cs-go-asian-emperor-challenge-league-2021-playoffs",
+    "teams": [
+      {
+        "acronym": null,
+        "id": 126895,
+        "image_url": "https://cdn.pandascore.co/images/team/image/126895/x_fa_zfm_el7_cr_kq_cm1_i5ec.png",
+        "location": null,
+        "modified_at": "2021-06-21T19:23:10Z",
+        "name": "ZIGMA",
+        "slug": "zigma"
+      },
+      {
+        "acronym": null,
+        "id": 127813,
+        "image_url": "https://cdn.pandascore.co/images/team/image/127813/t57053.png",
+        "location": "CN",
+        "modified_at": "2021-06-21T19:26:07Z",
+        "name": "Newhappy",
+        "slug": "newhappy"
+      },
+      {
+        "acronym": null,
+        "id": 127863,
+        "image_url": "https://cdn.pandascore.co/images/team/image/127863/10847.png",
+        "location": null,
+        "modified_at": "2021-06-21T19:27:08Z",
+        "name": "After",
+        "slug": "after"
+      },
+      {
+        "acronym": null,
+        "id": 128065,
+        "image_url": "https://cdn.pandascore.co/images/team/image/128065/t67833.png",
+        "location": "CN",
+        "modified_at": "2021-06-21T19:29:19Z",
+        "name": "Reece",
+        "slug": "reece"
+      },
+      {
+        "acronym": null,
+        "id": 128871,
+        "image_url": null,
+        "location": null,
+        "modified_at": "2021-06-21T19:30:33Z",
+        "name": "CatEvil",
+        "slug": "catevil"
+      },
+      {
+        "acronym": null,
+        "id": 128874,
+        "image_url": null,
+        "location": null,
+        "modified_at": "2021-06-21T19:31:03Z",
+        "name": "steel helmet",
+        "slug": "steel-helmet"
+      },
+      {
+        "acronym": null,
+        "id": 129139,
+        "image_url": "https://cdn.pandascore.co/images/team/image/129139/600px_huat_zai_november_2020_infobox.png",
+        "location": "SG",
+        "modified_at": "2021-06-21T19:31:48Z",
+        "name": "Huat Zai",
+        "slug": "huat-zai"
+      },
+      {
+        "acronym": null,
+        "id": 129149,
+        "image_url": null,
+        "location": null,
+        "modified_at": "2021-06-21T19:35:04Z",
+        "name": "HSG",
+        "slug": "hsg"
+      }
+    ],
+    "videogame": {
+      "id": 3,
+      "name": "CS:GO",
+      "slug": "cs-go"
+    },
+    "winner_id": null,
+    "winner_type": "Team"
+  },
+  {
+    "begin_at": "2021-06-22T23:00:00Z",
+    "end_at": "2021-06-27T22:00:00Z",
+    "id": 6221,
+    "league": {
+      "id": 4243,
+      "image_url": "https://cdn.pandascore.co/images/league/image/4243/798px-ESEA_banner.png",
+      "modified_at": "2020-11-12T15:51:24Z",
+      "name": "ESEA",
+      "slug": "cs-go-esea",
+      "url": "https://play.esea.net/"
+    },
+    "league_id": 4243,
+    "live_supported": false,
+    "matches": [
+      {
+        "begin_at": "2021-06-22T23:00:00Z",
+        "detailed_stats": true,
+        "draw": false,
+        "end_at": null,
+        "forfeit": false,
+        "game_advantage": null,
+        "id": 597062,
+        "live": {
+          "opens_at": null,
+          "supported": false,
+          "url": null
+        },
+        "live_embed_url": "https://player.twitch.tv/?channel=esl_csgo",
+        "match_type": "best_of",
+        "modified_at": "2021-06-17T19:28:19Z",
+        "name": "Upper bracket quarterfinals match 1: paiN vs GGPR",
+        "number_of_games": 3,
+        "official_stream_url": "https://www.twitch.tv/esl_csgo",
+        "original_scheduled_at": "2021-06-22T23:00:00Z",
+        "rescheduled": false,
+        "scheduled_at": "2021-06-22T23:00:00Z",
+        "slug": "2021-06-23-28d28ff8-c340-4aed-8145-c7ef6fce3911",
+        "status": "not_started",
+        "streams": {
+          "english": {
+            "embed_url": "https://player.twitch.tv/?channel=esl_csgo",
+            "raw_url": "https://www.twitch.tv/esl_csgo"
+          },
+          "official": {
+            "embed_url": "https://player.twitch.tv/?channel=esl_csgo",
+            "raw_url": "https://www.twitch.tv/esl_csgo"
+          },
+          "russian": {
+            "embed_url": null,
+            "raw_url": null
+          }
+        },
+        "streams_list": [
+          {
+            "embed_url": "https://player.twitch.tv/?channel=esl_csgo",
+            "language": "en",
+            "main": true,
+            "official": true,
+            "raw_url": "https://www.twitch.tv/esl_csgo"
+          }
+        ],
+        "tournament_id": 6221,
+        "winner_id": null
+      },
+      {
+        "begin_at": "2021-06-22T23:00:00Z",
+        "detailed_stats": true,
+        "draw": false,
+        "end_at": null,
+        "forfeit": false,
+        "game_advantage": null,
+        "id": 597063,
+        "live": {
+          "opens_at": null,
+          "supported": false,
+          "url": null
+        },
+        "live_embed_url": "https://player.twitch.tv/?channel=esl_csgo",
+        "match_type": "best_of",
+        "modified_at": "2021-06-17T19:28:28Z",
+        "name": "Upper bracket quarterfinals match 2: RBG vs Extra Salt",
+        "number_of_games": 3,
+        "official_stream_url": "https://www.twitch.tv/esl_csgo",
+        "original_scheduled_at": "2021-06-22T23:00:00Z",
+        "rescheduled": false,
+        "scheduled_at": "2021-06-22T23:00:00Z",
+        "slug": "2021-06-23-aff4630f-2bd9-4cf5-9d76-1ec3beedcc41",
+        "status": "not_started",
+        "streams": {
+          "english": {
+            "embed_url": "https://player.twitch.tv/?channel=esl_csgo",
+            "raw_url": "https://www.twitch.tv/esl_csgo"
+          },
+          "official": {
+            "embed_url": "https://player.twitch.tv/?channel=esl_csgo",
+            "raw_url": "https://www.twitch.tv/esl_csgo"
+          },
+          "russian": {
+            "embed_url": null,
+            "raw_url": null
+          }
+        },
+        "streams_list": [
+          {
+            "embed_url": "https://player.twitch.tv/?channel=esl_csgo",
+            "language": "en",
+            "main": true,
+            "official": true,
+            "raw_url": "https://www.twitch.tv/esl_csgo"
+          }
+        ],
+        "tournament_id": 6221,
+        "winner_id": null
+      },
+      {
+        "begin_at": "2021-06-22T23:00:00Z",
+        "detailed_stats": true,
+        "draw": false,
+        "end_at": null,
+        "forfeit": false,
+        "game_advantage": null,
+        "id": 597064,
+        "live": {
+          "opens_at": null,
+          "supported": false,
+          "url": null
+        },
+        "live_embed_url": "https://player.twitch.tv/?channel=esl_csgo",
+        "match_type": "best_of",
+        "modified_at": "2021-06-17T19:28:56Z",
+        "name": "Upper bracket quarterfinals match 3: Party Astronauts vs Triumph",
+        "number_of_games": 3,
+        "official_stream_url": "https://www.twitch.tv/esl_csgo",
+        "original_scheduled_at": "2021-06-22T23:00:00Z",
+        "rescheduled": false,
+        "scheduled_at": "2021-06-22T23:00:00Z",
+        "slug": "2021-06-23-89fa79f4-3f14-4a21-ac80-2ebf78faa184",
+        "status": "not_started",
+        "streams": {
+          "english": {
+            "embed_url": "https://player.twitch.tv/?channel=esl_csgo",
+            "raw_url": "https://www.twitch.tv/esl_csgo"
+          },
+          "official": {
+            "embed_url": "https://player.twitch.tv/?channel=esl_csgo",
+            "raw_url": "https://www.twitch.tv/esl_csgo"
+          },
+          "russian": {
+            "embed_url": null,
+            "raw_url": null
+          }
+        },
+        "streams_list": [
+          {
+            "embed_url": "https://player.twitch.tv/?channel=esl_csgo",
+            "language": "en",
+            "main": true,
+            "official": true,
+            "raw_url": "https://www.twitch.tv/esl_csgo"
+          }
+        ],
+        "tournament_id": 6221,
+        "winner_id": null
+      },
+      {
+        "begin_at": "2021-06-22T23:00:00Z",
+        "detailed_stats": true,
+        "draw": false,
+        "end_at": null,
+        "forfeit": false,
+        "game_advantage": null,
+        "id": 597065,
+        "live": {
+          "opens_at": null,
+          "supported": false,
+          "url": null
+        },
+        "live_embed_url": "https://player.twitch.tv/?channel=esl_csgo",
+        "match_type": "best_of",
+        "modified_at": "2021-06-17T19:29:11Z",
+        "name": "Upper bracket quarterfinals match 4: TeamOne vs ChocoCheck",
+        "number_of_games": 3,
+        "official_stream_url": "https://www.twitch.tv/esl_csgo",
+        "original_scheduled_at": "2021-06-22T23:00:00Z",
+        "rescheduled": false,
+        "scheduled_at": "2021-06-22T23:00:00Z",
+        "slug": "2021-06-23-bc2f41f5-1540-4752-83be-73c04ceb5249",
+        "status": "not_started",
+        "streams": {
+          "english": {
+            "embed_url": "https://player.twitch.tv/?channel=esl_csgo",
+            "raw_url": "https://www.twitch.tv/esl_csgo"
+          },
+          "official": {
+            "embed_url": "https://player.twitch.tv/?channel=esl_csgo",
+            "raw_url": "https://www.twitch.tv/esl_csgo"
+          },
+          "russian": {
+            "embed_url": null,
+            "raw_url": null
+          }
+        },
+        "streams_list": [
+          {
+            "embed_url": "https://player.twitch.tv/?channel=esl_csgo",
+            "language": "en",
+            "main": true,
+            "official": true,
+            "raw_url": "https://www.twitch.tv/esl_csgo"
+          }
+        ],
+        "tournament_id": 6221,
+        "winner_id": null
+      },
+      {
+        "begin_at": "2021-06-23T23:00:00Z",
+        "detailed_stats": true,
+        "draw": false,
+        "end_at": null,
+        "forfeit": false,
+        "game_advantage": null,
+        "id": 597066,
+        "live": {
+          "opens_at": null,
+          "supported": false,
+          "url": null
+        },
+        "live_embed_url": "https://player.twitch.tv/?channel=esl_csgo",
+        "match_type": "best_of",
+        "modified_at": "2021-06-09T09:08:28Z",
+        "name": "Upper bracket semifinals match 1: TBD vs TBD",
+        "number_of_games": 3,
+        "official_stream_url": "https://www.twitch.tv/esl_csgo",
+        "original_scheduled_at": "2021-06-23T23:00:00Z",
+        "rescheduled": false,
+        "scheduled_at": "2021-06-23T23:00:00Z",
+        "slug": "2021-06-24-a2e6a506-015c-48c4-9c4f-7ae5c421893b",
+        "status": "not_started",
+        "streams": {
+          "english": {
+            "embed_url": "https://player.twitch.tv/?channel=esl_csgo",
+            "raw_url": "https://www.twitch.tv/esl_csgo"
+          },
+          "official": {
+            "embed_url": "https://player.twitch.tv/?channel=esl_csgo",
+            "raw_url": "https://www.twitch.tv/esl_csgo"
+          },
+          "russian": {
+            "embed_url": null,
+            "raw_url": null
+          }
+        },
+        "streams_list": [
+          {
+            "embed_url": "https://player.twitch.tv/?channel=esl_csgo",
+            "language": "en",
+            "main": true,
+            "official": true,
+            "raw_url": "https://www.twitch.tv/esl_csgo"
+          }
+        ],
+        "tournament_id": 6221,
+        "winner_id": null
+      },
+      {
+        "begin_at": "2021-06-23T23:00:00Z",
+        "detailed_stats": true,
+        "draw": false,
+        "end_at": null,
+        "forfeit": false,
+        "game_advantage": null,
+        "id": 597067,
+        "live": {
+          "opens_at": null,
+          "supported": false,
+          "url": null
+        },
+        "live_embed_url": "https://player.twitch.tv/?channel=esl_csgo",
+        "match_type": "best_of",
+        "modified_at": "2021-06-09T09:08:39Z",
+        "name": "Upper bracket semifinals match 2: TBD vs TBD",
+        "number_of_games": 3,
+        "official_stream_url": "https://www.twitch.tv/esl_csgo",
+        "original_scheduled_at": "2021-06-23T23:00:00Z",
+        "rescheduled": false,
+        "scheduled_at": "2021-06-23T23:00:00Z",
+        "slug": "2021-06-24-d2391289-4ad6-44b1-8d39-a8954830e1dd",
+        "status": "not_started",
+        "streams": {
+          "english": {
+            "embed_url": "https://player.twitch.tv/?channel=esl_csgo",
+            "raw_url": "https://www.twitch.tv/esl_csgo"
+          },
+          "official": {
+            "embed_url": "https://player.twitch.tv/?channel=esl_csgo",
+            "raw_url": "https://www.twitch.tv/esl_csgo"
+          },
+          "russian": {
+            "embed_url": null,
+            "raw_url": null
+          }
+        },
+        "streams_list": [
+          {
+            "embed_url": "https://player.twitch.tv/?channel=esl_csgo",
+            "language": "en",
+            "main": true,
+            "official": true,
+            "raw_url": "https://www.twitch.tv/esl_csgo"
+          }
+        ],
+        "tournament_id": 6221,
+        "winner_id": null
+      },
+      {
+        "begin_at": "2021-06-23T23:00:00Z",
+        "detailed_stats": true,
+        "draw": false,
+        "end_at": null,
+        "forfeit": false,
+        "game_advantage": null,
+        "id": 597069,
+        "live": {
+          "opens_at": null,
+          "supported": false,
+          "url": null
+        },
+        "live_embed_url": "https://player.twitch.tv/?channel=esl_csgo",
+        "match_type": "best_of",
+        "modified_at": "2021-06-09T09:09:04Z",
+        "name": "Lower bracket round 1 match 1: TBD vs TBD",
+        "number_of_games": 3,
+        "official_stream_url": "https://www.twitch.tv/esl_csgo",
+        "original_scheduled_at": "2021-06-23T23:00:00Z",
+        "rescheduled": false,
+        "scheduled_at": "2021-06-23T23:00:00Z",
+        "slug": "2021-06-24-b80cb61d-74aa-4b00-ad28-97a3feecca13",
+        "status": "not_started",
+        "streams": {
+          "english": {
+            "embed_url": "https://player.twitch.tv/?channel=esl_csgo",
+            "raw_url": "https://www.twitch.tv/esl_csgo"
+          },
+          "official": {
+            "embed_url": "https://player.twitch.tv/?channel=esl_csgo",
+            "raw_url": "https://www.twitch.tv/esl_csgo"
+          },
+          "russian": {
+            "embed_url": null,
+            "raw_url": null
+          }
+        },
+        "streams_list": [
+          {
+            "embed_url": "https://player.twitch.tv/?channel=esl_csgo",
+            "language": "en",
+            "main": true,
+            "official": true,
+            "raw_url": "https://www.twitch.tv/esl_csgo"
+          }
+        ],
+        "tournament_id": 6221,
+        "winner_id": null
+      },
+      {
+        "begin_at": "2021-06-23T23:00:00Z",
+        "detailed_stats": true,
+        "draw": false,
+        "end_at": null,
+        "forfeit": false,
+        "game_advantage": null,
+        "id": 597070,
+        "live": {
+          "opens_at": null,
+          "supported": false,
+          "url": null
+        },
+        "live_embed_url": "https://player.twitch.tv/?channel=esl_csgo",
+        "match_type": "best_of",
+        "modified_at": "2021-06-09T09:09:16Z",
+        "name": "Lower bracket round 1 match 2: TBD vs TBD",
+        "number_of_games": 3,
+        "official_stream_url": "https://www.twitch.tv/esl_csgo",
+        "original_scheduled_at": "2021-06-23T23:00:00Z",
+        "rescheduled": false,
+        "scheduled_at": "2021-06-23T23:00:00Z",
+        "slug": "2021-06-24-0b73b81b-36e7-42ac-8758-1bec8c1ed8ce",
+        "status": "not_started",
+        "streams": {
+          "english": {
+            "embed_url": "https://player.twitch.tv/?channel=esl_csgo",
+            "raw_url": "https://www.twitch.tv/esl_csgo"
+          },
+          "official": {
+            "embed_url": "https://player.twitch.tv/?channel=esl_csgo",
+            "raw_url": "https://www.twitch.tv/esl_csgo"
+          },
+          "russian": {
+            "embed_url": null,
+            "raw_url": null
+          }
+        },
+        "streams_list": [
+          {
+            "embed_url": "https://player.twitch.tv/?channel=esl_csgo",
+            "language": "en",
+            "main": true,
+            "official": true,
+            "raw_url": "https://www.twitch.tv/esl_csgo"
+          }
+        ],
+        "tournament_id": 6221,
+        "winner_id": null
+      },
+      {
+        "begin_at": "2021-06-24T23:00:00Z",
+        "detailed_stats": true,
+        "draw": false,
+        "end_at": null,
+        "forfeit": false,
+        "game_advantage": null,
+        "id": 597068,
+        "live": {
+          "opens_at": null,
+          "supported": false,
+          "url": null
+        },
+        "live_embed_url": "https://player.twitch.tv/?channel=esl_csgo",
+        "match_type": "best_of",
+        "modified_at": "2021-06-09T09:08:50Z",
+        "name": "Upper bracket final: TBD vs TBD",
+        "number_of_games": 3,
+        "official_stream_url": "https://www.twitch.tv/esl_csgo",
+        "original_scheduled_at": "2021-06-24T23:00:00Z",
+        "rescheduled": false,
+        "scheduled_at": "2021-06-24T23:00:00Z",
+        "slug": "2021-06-25-8b7a04bc-5342-4dd4-abff-f5a80df002c3",
+        "status": "not_started",
+        "streams": {
+          "english": {
+            "embed_url": "https://player.twitch.tv/?channel=esl_csgo",
+            "raw_url": "https://www.twitch.tv/esl_csgo"
+          },
+          "official": {
+            "embed_url": "https://player.twitch.tv/?channel=esl_csgo",
+            "raw_url": "https://www.twitch.tv/esl_csgo"
+          },
+          "russian": {
+            "embed_url": null,
+            "raw_url": null
+          }
+        },
+        "streams_list": [
+          {
+            "embed_url": "https://player.twitch.tv/?channel=esl_csgo",
+            "language": "en",
+            "main": true,
+            "official": true,
+            "raw_url": "https://www.twitch.tv/esl_csgo"
+          }
+        ],
+        "tournament_id": 6221,
+        "winner_id": null
+      },
+      {
+        "begin_at": "2021-06-24T23:00:00Z",
+        "detailed_stats": true,
+        "draw": false,
+        "end_at": null,
+        "forfeit": false,
+        "game_advantage": null,
+        "id": 597071,
+        "live": {
+          "opens_at": null,
+          "supported": false,
+          "url": null
+        },
+        "live_embed_url": "https://player.twitch.tv/?channel=esl_csgo",
+        "match_type": "best_of",
+        "modified_at": "2021-06-09T09:09:30Z",
+        "name": "Lower bracket round 2 match 1: TBD vs TBD",
+        "number_of_games": 3,
+        "official_stream_url": "https://www.twitch.tv/esl_csgo",
+        "original_scheduled_at": "2021-06-24T23:00:00Z",
+        "rescheduled": false,
+        "scheduled_at": "2021-06-24T23:00:00Z",
+        "slug": "2021-06-25-cbdc51de-2924-4515-8933-e6380695bf53",
+        "status": "not_started",
+        "streams": {
+          "english": {
+            "embed_url": "https://player.twitch.tv/?channel=esl_csgo",
+            "raw_url": "https://www.twitch.tv/esl_csgo"
+          },
+          "official": {
+            "embed_url": "https://player.twitch.tv/?channel=esl_csgo",
+            "raw_url": "https://www.twitch.tv/esl_csgo"
+          },
+          "russian": {
+            "embed_url": null,
+            "raw_url": null
+          }
+        },
+        "streams_list": [
+          {
+            "embed_url": "https://player.twitch.tv/?channel=esl_csgo",
+            "language": "en",
+            "main": true,
+            "official": true,
+            "raw_url": "https://www.twitch.tv/esl_csgo"
+          }
+        ],
+        "tournament_id": 6221,
+        "winner_id": null
+      },
+      {
+        "begin_at": "2021-06-24T23:00:00Z",
+        "detailed_stats": true,
+        "draw": false,
+        "end_at": null,
+        "forfeit": false,
+        "game_advantage": null,
+        "id": 597072,
+        "live": {
+          "opens_at": null,
+          "supported": false,
+          "url": null
+        },
+        "live_embed_url": "https://player.twitch.tv/?channel=esl_csgo",
+        "match_type": "best_of",
+        "modified_at": "2021-06-09T09:09:40Z",
+        "name": "Lower bracket round 2 match 2: TBD vs TBD",
+        "number_of_games": 3,
+        "official_stream_url": "https://www.twitch.tv/esl_csgo",
+        "original_scheduled_at": "2021-06-24T23:00:00Z",
+        "rescheduled": false,
+        "scheduled_at": "2021-06-24T23:00:00Z",
+        "slug": "2021-06-25-80f5e4ca-62aa-4bec-a26d-92d543355674",
+        "status": "not_started",
+        "streams": {
+          "english": {
+            "embed_url": "https://player.twitch.tv/?channel=esl_csgo",
+            "raw_url": "https://www.twitch.tv/esl_csgo"
+          },
+          "official": {
+            "embed_url": "https://player.twitch.tv/?channel=esl_csgo",
+            "raw_url": "https://www.twitch.tv/esl_csgo"
+          },
+          "russian": {
+            "embed_url": null,
+            "raw_url": null
+          }
+        },
+        "streams_list": [
+          {
+            "embed_url": "https://player.twitch.tv/?channel=esl_csgo",
+            "language": "en",
+            "main": true,
+            "official": true,
+            "raw_url": "https://www.twitch.tv/esl_csgo"
+          }
+        ],
+        "tournament_id": 6221,
+        "winner_id": null
+      },
+      {
+        "begin_at": "2021-06-25T23:00:00Z",
+        "detailed_stats": true,
+        "draw": false,
+        "end_at": null,
+        "forfeit": false,
+        "game_advantage": null,
+        "id": 597073,
+        "live": {
+          "opens_at": null,
+          "supported": false,
+          "url": null
+        },
+        "live_embed_url": "https://player.twitch.tv/?channel=esl_csgo",
+        "match_type": "best_of",
+        "modified_at": "2021-06-09T09:09:58Z",
+        "name": "Lower bracket round 3: TBD vs TBD",
+        "number_of_games": 3,
+        "official_stream_url": "https://www.twitch.tv/esl_csgo",
+        "original_scheduled_at": "2021-06-25T23:00:00Z",
+        "rescheduled": false,
+        "scheduled_at": "2021-06-25T23:00:00Z",
+        "slug": "2021-06-26-0f817c5a-6906-4309-bba5-1eb4ae855fa1",
+        "status": "not_started",
+        "streams": {
+          "english": {
+            "embed_url": "https://player.twitch.tv/?channel=esl_csgo",
+            "raw_url": "https://www.twitch.tv/esl_csgo"
+          },
+          "official": {
+            "embed_url": "https://player.twitch.tv/?channel=esl_csgo",
+            "raw_url": "https://www.twitch.tv/esl_csgo"
+          },
+          "russian": {
+            "embed_url": null,
+            "raw_url": null
+          }
+        },
+        "streams_list": [
+          {
+            "embed_url": "https://player.twitch.tv/?channel=esl_csgo",
+            "language": "en",
+            "main": true,
+            "official": true,
+            "raw_url": "https://www.twitch.tv/esl_csgo"
+          }
+        ],
+        "tournament_id": 6221,
+        "winner_id": null
+      },
+      {
+        "begin_at": "2021-06-26T23:00:00Z",
+        "detailed_stats": true,
+        "draw": false,
+        "end_at": null,
+        "forfeit": false,
+        "game_advantage": null,
+        "id": 597074,
+        "live": {
+          "opens_at": null,
+          "supported": false,
+          "url": null
+        },
+        "live_embed_url": "https://player.twitch.tv/?channel=esl_csgo",
+        "match_type": "best_of",
+        "modified_at": "2021-06-09T09:10:10Z",
+        "name": "Lower bracket final: TBD vs TBD",
+        "number_of_games": 3,
+        "official_stream_url": "https://www.twitch.tv/esl_csgo",
+        "original_scheduled_at": "2021-06-26T23:00:00Z",
+        "rescheduled": false,
+        "scheduled_at": "2021-06-26T23:00:00Z",
+        "slug": "2021-06-27-4a27047d-f996-4cfb-8a34-01afb7dd571a",
+        "status": "not_started",
+        "streams": {
+          "english": {
+            "embed_url": "https://player.twitch.tv/?channel=esl_csgo",
+            "raw_url": "https://www.twitch.tv/esl_csgo"
+          },
+          "official": {
+            "embed_url": "https://player.twitch.tv/?channel=esl_csgo",
+            "raw_url": "https://www.twitch.tv/esl_csgo"
+          },
+          "russian": {
+            "embed_url": null,
+            "raw_url": null
+          }
+        },
+        "streams_list": [
+          {
+            "embed_url": "https://player.twitch.tv/?channel=esl_csgo",
+            "language": "en",
+            "main": true,
+            "official": true,
+            "raw_url": "https://www.twitch.tv/esl_csgo"
+          }
+        ],
+        "tournament_id": 6221,
+        "winner_id": null
+      },
+      {
+        "begin_at": "2021-06-27T23:00:00Z",
+        "detailed_stats": true,
+        "draw": false,
+        "end_at": null,
+        "forfeit": false,
+        "game_advantage": null,
+        "id": 597075,
+        "live": {
+          "opens_at": null,
+          "supported": false,
+          "url": null
+        },
+        "live_embed_url": "https://player.twitch.tv/?channel=esl_csgo",
+        "match_type": "best_of",
+        "modified_at": "2021-06-09T09:10:20Z",
+        "name": "Grand final: TBD vs TBD",
+        "number_of_games": 5,
+        "official_stream_url": "https://www.twitch.tv/esl_csgo",
+        "original_scheduled_at": "2021-06-27T23:00:00Z",
+        "rescheduled": false,
+        "scheduled_at": "2021-06-27T23:00:00Z",
+        "slug": "2021-06-28-f52c24a9-b063-4e04-82b6-cf030d77cfcb",
+        "status": "not_started",
+        "streams": {
+          "english": {
+            "embed_url": "https://player.twitch.tv/?channel=esl_csgo",
+            "raw_url": "https://www.twitch.tv/esl_csgo"
+          },
+          "official": {
+            "embed_url": "https://player.twitch.tv/?channel=esl_csgo",
+            "raw_url": "https://www.twitch.tv/esl_csgo"
+          },
+          "russian": {
+            "embed_url": null,
+            "raw_url": null
+          }
+        },
+        "streams_list": [
+          {
+            "embed_url": "https://player.twitch.tv/?channel=esl_csgo",
+            "language": "en",
+            "main": true,
+            "official": true,
+            "raw_url": "https://www.twitch.tv/esl_csgo"
+          }
+        ],
+        "tournament_id": 6221,
+        "winner_id": null
+      }
+    ],
+    "modified_at": "2021-06-17T21:16:07Z",
+    "name": "Playoffs",
+    "prizepool": null,
+    "serie": {
+      "begin_at": "2021-05-05T01:00:00Z",
+      "description": null,
+      "end_at": "2021-06-27T22:00:00Z",
+      "full_name": "North America Premier season 37 2021",
+      "id": 3590,
+      "league_id": 4243,
+      "modified_at": "2021-05-11T22:18:14Z",
+      "name": "North America Premier",
+      "season": "37",
+      "slug": "cs-go-esea-north-america-premier-37-2021",
+      "tier": "d",
+      "winner_id": null,
+      "winner_type": null,
+      "year": 2021
+    },
+    "serie_id": 3590,
+    "slug": "cs-go-esea-north-america-premier-37-2021-playoffs",
+    "teams": [
+      {
+        "acronym": null,
+        "id": 5793,
+        "image_url": "https://cdn.pandascore.co/images/team/image/5793/ONE.png",
+        "location": "BR",
+        "modified_at": "2021-06-17T21:16:04Z",
+        "name": "TeamOne",
+        "slug": "team-one-cs-go"
+      },
+      {
+        "acronym": null,
+        "id": 125751,
+        "image_url": "https://cdn.pandascore.co/images/team/image/125751/pain-gaming-farnhu45.png",
+        "location": "BR",
+        "modified_at": "2021-06-17T21:16:04Z",
+        "name": "paiN",
+        "slug": "pain-gaming-cs-go"
+      },
+      {
+        "acronym": null,
+        "id": 125802,
+        "image_url": null,
+        "location": "US",
+        "modified_at": "2021-06-17T21:16:05Z",
+        "name": "Party Astronauts",
+        "slug": "party-astronauts"
+      },
+      {
+        "acronym": null,
+        "id": 126464,
+        "image_url": "https://cdn.pandascore.co/images/team/image/126464/triumph.png",
+        "location": "US",
+        "modified_at": "2021-06-17T22:04:56Z",
+        "name": "Triumph",
+        "slug": "triumph-cs-go"
+      },
+      {
+        "acronym": null,
+        "id": 126676,
+        "image_url": "https://cdn.pandascore.co/images/team/image/126676/10258.png",
+        "location": null,
+        "modified_at": "2021-06-17T21:16:06Z",
+        "name": "RBG",
+        "slug": "rbg"
+      },
+      {
+        "acronym": null,
+        "id": 127926,
+        "image_url": "https://cdn.pandascore.co/images/team/image/127926/4x_ph_st31_z9_xn_hd0m_jj_d6_em.png",
+        "location": "US",
+        "modified_at": "2021-06-19T02:02:14Z",
+        "name": "GGPR",
+        "slug": "good-game-pr"
+      },
+      {
+        "acronym": null,
+        "id": 128428,
+        "image_url": "https://cdn.pandascore.co/images/team/image/128428/900px_extra_salt_infobox_image.png",
+        "location": "US",
+        "modified_at": "2021-06-17T21:16:07Z",
+        "name": "Extra Salt",
+        "slug": "extra-salt"
+      },
+      {
+        "acronym": null,
+        "id": 128778,
+        "image_url": null,
+        "location": "US",
+        "modified_at": "2021-06-18T02:34:52Z",
+        "name": "ChocoCheck",
+        "slug": "chococheck"
+      }
+    ],
+    "videogame": {
+      "id": 3,
+      "name": "CS:GO",
+      "slug": "cs-go"
+    },
+    "winner_id": null,
+    "winner_type": "Team"
+  },
+  {
+    "begin_at": "2021-06-22T17:00:00Z",
+    "end_at": null,
+    "id": 6220,
+    "league": {
+      "id": 4243,
+      "image_url": "https://cdn.pandascore.co/images/league/image/4243/798px-ESEA_banner.png",
+      "modified_at": "2020-11-12T15:51:24Z",
+      "name": "ESEA",
+      "slug": "cs-go-esea",
+      "url": "https://play.esea.net/"
+    },
+    "league_id": 4243,
+    "live_supported": false,
+    "matches": [
+      {
+        "begin_at": "2021-06-22T17:00:00Z",
+        "detailed_stats": true,
+        "draw": false,
+        "end_at": null,
+        "forfeit": false,
+        "game_advantage": null,
+        "id": 597048,
+        "live": {
+          "opens_at": null,
+          "supported": false,
+          "url": null
+        },
+        "live_embed_url": "https://player.twitch.tv/?channel=Ded1ce",
+        "match_type": "best_of",
+        "modified_at": "2021-06-17T19:18:22Z",
+        "name": "Upper bracket quarterfinals match 1: forZe vs GamerLegion",
+        "number_of_games": 3,
+        "official_stream_url": "https://www.twitch.tv/Ded1ce",
+        "original_scheduled_at": "2021-06-22T17:00:00Z",
+        "rescheduled": false,
+        "scheduled_at": "2021-06-22T17:00:00Z",
+        "slug": "2021-06-22-d912b789-acb0-44fa-b4ee-bdf3ad21e8bf",
+        "status": "not_started",
+        "streams": {
+          "english": {
+            "embed_url": null,
+            "raw_url": null
+          },
+          "official": {
+            "embed_url": "https://player.twitch.tv/?channel=Ded1ce",
+            "raw_url": "https://www.twitch.tv/Ded1ce"
+          },
+          "russian": {
+            "embed_url": "https://player.twitch.tv/?channel=Ded1ce",
+            "raw_url": "https://www.twitch.tv/Ded1ce"
+          }
+        },
+        "streams_list": [
+          {
+            "embed_url": "https://player.twitch.tv/?channel=Ded1ce",
+            "language": "ru",
+            "main": true,
+            "official": true,
+            "raw_url": "https://www.twitch.tv/Ded1ce"
+          }
+        ],
+        "tournament_id": 6220,
+        "winner_id": null
+      },
+      {
+        "begin_at": "2021-06-22T17:00:00Z",
+        "detailed_stats": true,
+        "draw": false,
+        "end_at": null,
+        "forfeit": false,
+        "game_advantage": null,
+        "id": 597049,
+        "live": {
+          "opens_at": null,
+          "supported": false,
+          "url": null
+        },
+        "live_embed_url": "https://player.twitch.tv/?channel=esl_csgo",
+        "match_type": "best_of",
+        "modified_at": "2021-06-17T19:18:12Z",
+        "name": "Upper bracket quarterfinals match 2: LDLC vs AGO",
+        "number_of_games": 3,
+        "official_stream_url": "https://www.twitch.tv/esl_csgo",
+        "original_scheduled_at": "2021-06-22T17:00:00Z",
+        "rescheduled": false,
+        "scheduled_at": "2021-06-22T17:00:00Z",
+        "slug": "2021-06-22-ccf243ff-6989-45e1-991a-4c187a5a8364",
+        "status": "not_started",
+        "streams": {
+          "english": {
+            "embed_url": "https://player.twitch.tv/?channel=esl_csgo",
+            "raw_url": "https://www.twitch.tv/esl_csgo"
+          },
+          "official": {
+            "embed_url": "https://player.twitch.tv/?channel=esl_csgo",
+            "raw_url": "https://www.twitch.tv/esl_csgo"
+          },
+          "russian": {
+            "embed_url": null,
+            "raw_url": null
+          }
+        },
+        "streams_list": [
+          {
+            "embed_url": "https://player.twitch.tv/?channel=esl_csgo",
+            "language": "en",
+            "main": true,
+            "official": true,
+            "raw_url": "https://www.twitch.tv/esl_csgo"
+          }
+        ],
+        "tournament_id": 6220,
+        "winner_id": null
+      },
+      {
+        "begin_at": "2021-06-22T17:00:00Z",
+        "detailed_stats": true,
+        "draw": false,
+        "end_at": null,
+        "forfeit": false,
+        "game_advantage": null,
+        "id": 597050,
+        "live": {
+          "opens_at": null,
+          "supported": false,
+          "url": null
+        },
+        "live_embed_url": "https://player.twitch.tv/?channel=99damage",
+        "match_type": "best_of",
+        "modified_at": "2021-06-17T19:17:57Z",
+        "name": "Upper bracket quarterfinals match 3: BIG vs Sangal",
+        "number_of_games": 3,
+        "official_stream_url": "https://www.twitch.tv/99damage",
+        "original_scheduled_at": "2021-06-22T17:00:00Z",
+        "rescheduled": false,
+        "scheduled_at": "2021-06-22T17:00:00Z",
+        "slug": "2021-06-22-0ad9d5b2-61b7-4365-8a8e-371df1f3d1ce",
+        "status": "not_started",
+        "streams": {
+          "english": {
+            "embed_url": null,
+            "raw_url": null
+          },
+          "official": {
+            "embed_url": "https://player.twitch.tv/?channel=99damage",
+            "raw_url": "https://www.twitch.tv/99damage"
+          },
+          "russian": {
+            "embed_url": null,
+            "raw_url": null
+          }
+        },
+        "streams_list": [
+          {
+            "embed_url": "https://player.twitch.tv/?channel=99damage",
+            "language": "de",
+            "main": true,
+            "official": true,
+            "raw_url": "https://www.twitch.tv/99damage"
+          }
+        ],
+        "tournament_id": 6220,
+        "winner_id": null
+      },
+      {
+        "begin_at": "2021-06-22T17:00:00Z",
+        "detailed_stats": true,
+        "draw": false,
+        "end_at": null,
+        "forfeit": false,
+        "game_advantage": null,
+        "id": 597051,
+        "live": {
+          "opens_at": null,
+          "supported": false,
+          "url": null
+        },
+        "live_embed_url": "https://player.twitch.tv/?channel=esl_csgob",
+        "match_type": "best_of",
+        "modified_at": "2021-06-17T19:18:33Z",
+        "name": "Upper bracket quarterfinals match 4: BLINK vs Sinners",
+        "number_of_games": 3,
+        "official_stream_url": "https://www.twitch.tv/esl_csgob",
+        "original_scheduled_at": "2021-06-22T17:00:00Z",
+        "rescheduled": false,
+        "scheduled_at": "2021-06-22T17:00:00Z",
+        "slug": "2021-06-22-96e77fe4-9f64-424f-8649-ac60f7d5526b",
+        "status": "not_started",
+        "streams": {
+          "english": {
+            "embed_url": "https://player.twitch.tv/?channel=esl_csgob",
+            "raw_url": "https://www.twitch.tv/esl_csgob"
+          },
+          "official": {
+            "embed_url": "https://player.twitch.tv/?channel=esl_csgob",
+            "raw_url": "https://www.twitch.tv/esl_csgob"
+          },
+          "russian": {
+            "embed_url": null,
+            "raw_url": null
+          }
+        },
+        "streams_list": [
+          {
+            "embed_url": "https://player.twitch.tv/?channel=esl_csgob",
+            "language": "en",
+            "main": true,
+            "official": true,
+            "raw_url": "https://www.twitch.tv/esl_csgob"
+          }
+        ],
+        "tournament_id": 6220,
+        "winner_id": null
+      },
+      {
+        "begin_at": "2021-06-23T17:00:00Z",
+        "detailed_stats": true,
+        "draw": false,
+        "end_at": null,
+        "forfeit": false,
+        "game_advantage": null,
+        "id": 597052,
+        "live": {
+          "opens_at": null,
+          "supported": false,
+          "url": null
+        },
+        "live_embed_url": "https://player.twitch.tv/?channel=esl_csgo",
+        "match_type": "best_of",
+        "modified_at": "2021-06-09T08:56:56Z",
+        "name": "Lower bracket round 1 match 1: TBD vs TBD",
+        "number_of_games": 3,
+        "official_stream_url": "https://www.twitch.tv/esl_csgo",
+        "original_scheduled_at": "2021-06-23T17:00:00Z",
+        "rescheduled": false,
+        "scheduled_at": "2021-06-23T17:00:00Z",
+        "slug": "2021-06-23-eb98f611-88f6-47a2-86b9-62d43ab20ff2",
+        "status": "not_started",
+        "streams": {
+          "english": {
+            "embed_url": "https://player.twitch.tv/?channel=esl_csgo",
+            "raw_url": "https://www.twitch.tv/esl_csgo"
+          },
+          "official": {
+            "embed_url": "https://player.twitch.tv/?channel=esl_csgo",
+            "raw_url": "https://www.twitch.tv/esl_csgo"
+          },
+          "russian": {
+            "embed_url": null,
+            "raw_url": null
+          }
+        },
+        "streams_list": [
+          {
+            "embed_url": "https://player.twitch.tv/?channel=esl_csgo",
+            "language": "en",
+            "main": true,
+            "official": true,
+            "raw_url": "https://www.twitch.tv/esl_csgo"
+          }
+        ],
+        "tournament_id": 6220,
+        "winner_id": null
+      },
+      {
+        "begin_at": "2021-06-23T17:00:00Z",
+        "detailed_stats": true,
+        "draw": false,
+        "end_at": null,
+        "forfeit": false,
+        "game_advantage": null,
+        "id": 597053,
+        "live": {
+          "opens_at": null,
+          "supported": false,
+          "url": null
+        },
+        "live_embed_url": "https://player.twitch.tv/?channel=esl_csgo",
+        "match_type": "best_of",
+        "modified_at": "2021-06-09T08:57:08Z",
+        "name": "Lower bracket round 1 match 2: TBD vs TBD",
+        "number_of_games": 3,
+        "official_stream_url": "https://www.twitch.tv/esl_csgo",
+        "original_scheduled_at": "2021-06-23T17:00:00Z",
+        "rescheduled": false,
+        "scheduled_at": "2021-06-23T17:00:00Z",
+        "slug": "2021-06-23-90b15e22-4677-4fe1-9ea9-e08b8e6eb232",
+        "status": "not_started",
+        "streams": {
+          "english": {
+            "embed_url": "https://player.twitch.tv/?channel=esl_csgo",
+            "raw_url": "https://www.twitch.tv/esl_csgo"
+          },
+          "official": {
+            "embed_url": "https://player.twitch.tv/?channel=esl_csgo",
+            "raw_url": "https://www.twitch.tv/esl_csgo"
+          },
+          "russian": {
+            "embed_url": null,
+            "raw_url": null
+          }
+        },
+        "streams_list": [
+          {
+            "embed_url": "https://player.twitch.tv/?channel=esl_csgo",
+            "language": "en",
+            "main": true,
+            "official": true,
+            "raw_url": "https://www.twitch.tv/esl_csgo"
+          }
+        ],
+        "tournament_id": 6220,
+        "winner_id": null
+      },
+      {
+        "begin_at": "2021-06-23T17:00:00Z",
+        "detailed_stats": true,
+        "draw": false,
+        "end_at": null,
+        "forfeit": false,
+        "game_advantage": null,
+        "id": 597056,
+        "live": {
+          "opens_at": null,
+          "supported": false,
+          "url": null
+        },
+        "live_embed_url": "https://player.twitch.tv/?channel=esl_csgo",
+        "match_type": "best_of",
+        "modified_at": "2021-06-09T08:58:01Z",
+        "name": "Upper bracket semifinals match 1: TBD vs TBD",
+        "number_of_games": 3,
+        "official_stream_url": "https://www.twitch.tv/esl_csgo",
+        "original_scheduled_at": "2021-06-23T17:00:00Z",
+        "rescheduled": false,
+        "scheduled_at": "2021-06-23T17:00:00Z",
+        "slug": "2021-06-23-7596c199-e95a-48c1-ade9-da643009b25e",
+        "status": "not_started",
+        "streams": {
+          "english": {
+            "embed_url": "https://player.twitch.tv/?channel=esl_csgo",
+            "raw_url": "https://www.twitch.tv/esl_csgo"
+          },
+          "official": {
+            "embed_url": "https://player.twitch.tv/?channel=esl_csgo",
+            "raw_url": "https://www.twitch.tv/esl_csgo"
+          },
+          "russian": {
+            "embed_url": null,
+            "raw_url": null
+          }
+        },
+        "streams_list": [
+          {
+            "embed_url": "https://player.twitch.tv/?channel=esl_csgo",
+            "language": "en",
+            "main": true,
+            "official": true,
+            "raw_url": "https://www.twitch.tv/esl_csgo"
+          }
+        ],
+        "tournament_id": 6220,
+        "winner_id": null
+      },
+      {
+        "begin_at": "2021-06-23T17:00:00Z",
+        "detailed_stats": true,
+        "draw": false,
+        "end_at": null,
+        "forfeit": false,
+        "game_advantage": null,
+        "id": 597057,
+        "live": {
+          "opens_at": null,
+          "supported": false,
+          "url": null
+        },
+        "live_embed_url": "https://player.twitch.tv/?channel=esl_csgo",
+        "match_type": "best_of",
+        "modified_at": "2021-06-09T08:58:17Z",
+        "name": "Upper bracket semifinals match 2: TBD vs TBD",
+        "number_of_games": 3,
+        "official_stream_url": "https://www.twitch.tv/esl_csgo",
+        "original_scheduled_at": "2021-06-23T17:00:00Z",
+        "rescheduled": false,
+        "scheduled_at": "2021-06-23T17:00:00Z",
+        "slug": "2021-06-23-b56f8cce-1870-40de-8a6e-561a7813c157",
+        "status": "not_started",
+        "streams": {
+          "english": {
+            "embed_url": "https://player.twitch.tv/?channel=esl_csgo",
+            "raw_url": "https://www.twitch.tv/esl_csgo"
+          },
+          "official": {
+            "embed_url": "https://player.twitch.tv/?channel=esl_csgo",
+            "raw_url": "https://www.twitch.tv/esl_csgo"
+          },
+          "russian": {
+            "embed_url": null,
+            "raw_url": null
+          }
+        },
+        "streams_list": [
+          {
+            "embed_url": "https://player.twitch.tv/?channel=esl_csgo",
+            "language": "en",
+            "main": true,
+            "official": true,
+            "raw_url": "https://www.twitch.tv/esl_csgo"
+          }
+        ],
+        "tournament_id": 6220,
+        "winner_id": null
+      },
+      {
+        "begin_at": "2021-06-24T17:00:00Z",
+        "detailed_stats": true,
+        "draw": false,
+        "end_at": null,
+        "forfeit": false,
+        "game_advantage": null,
+        "id": 597054,
+        "live": {
+          "opens_at": null,
+          "supported": false,
+          "url": null
+        },
+        "live_embed_url": "https://player.twitch.tv/?channel=esl_csgo",
+        "match_type": "best_of",
+        "modified_at": "2021-06-09T08:57:27Z",
+        "name": "Lower bracket round 2 match 1: TBD vs TBD",
+        "number_of_games": 3,
+        "official_stream_url": "https://www.twitch.tv/esl_csgo",
+        "original_scheduled_at": "2021-06-24T17:00:00Z",
+        "rescheduled": false,
+        "scheduled_at": "2021-06-24T17:00:00Z",
+        "slug": "2021-06-24-74296c07-f628-4bdf-80d3-4f6ac7c0c4f7",
+        "status": "not_started",
+        "streams": {
+          "english": {
+            "embed_url": "https://player.twitch.tv/?channel=esl_csgo",
+            "raw_url": "https://www.twitch.tv/esl_csgo"
+          },
+          "official": {
+            "embed_url": "https://player.twitch.tv/?channel=esl_csgo",
+            "raw_url": "https://www.twitch.tv/esl_csgo"
+          },
+          "russian": {
+            "embed_url": null,
+            "raw_url": null
+          }
+        },
+        "streams_list": [
+          {
+            "embed_url": "https://player.twitch.tv/?channel=esl_csgo",
+            "language": "en",
+            "main": true,
+            "official": true,
+            "raw_url": "https://www.twitch.tv/esl_csgo"
+          }
+        ],
+        "tournament_id": 6220,
+        "winner_id": null
+      },
+      {
+        "begin_at": "2021-06-24T17:00:00Z",
+        "detailed_stats": true,
+        "draw": false,
+        "end_at": null,
+        "forfeit": false,
+        "game_advantage": null,
+        "id": 597055,
+        "live": {
+          "opens_at": null,
+          "supported": false,
+          "url": null
+        },
+        "live_embed_url": "https://player.twitch.tv/?channel=esl_csgo",
+        "match_type": "best_of",
+        "modified_at": "2021-06-09T08:57:40Z",
+        "name": "Lower bracket round 2 match 2: TBD vs TBD",
+        "number_of_games": 3,
+        "official_stream_url": "https://www.twitch.tv/esl_csgo",
+        "original_scheduled_at": "2021-06-24T17:00:00Z",
+        "rescheduled": false,
+        "scheduled_at": "2021-06-24T17:00:00Z",
+        "slug": "2021-06-24-b0f4d93c-e1ce-4a2f-b62b-6abdc67c5e21",
+        "status": "not_started",
+        "streams": {
+          "english": {
+            "embed_url": "https://player.twitch.tv/?channel=esl_csgo",
+            "raw_url": "https://www.twitch.tv/esl_csgo"
+          },
+          "official": {
+            "embed_url": "https://player.twitch.tv/?channel=esl_csgo",
+            "raw_url": "https://www.twitch.tv/esl_csgo"
+          },
+          "russian": {
+            "embed_url": null,
+            "raw_url": null
+          }
+        },
+        "streams_list": [
+          {
+            "embed_url": "https://player.twitch.tv/?channel=esl_csgo",
+            "language": "en",
+            "main": true,
+            "official": true,
+            "raw_url": "https://www.twitch.tv/esl_csgo"
+          }
+        ],
+        "tournament_id": 6220,
+        "winner_id": null
+      },
+      {
+        "begin_at": "2021-06-24T17:00:00Z",
+        "detailed_stats": true,
+        "draw": false,
+        "end_at": null,
+        "forfeit": false,
+        "game_advantage": null,
+        "id": 597059,
+        "live": {
+          "opens_at": null,
+          "supported": false,
+          "url": null
+        },
+        "live_embed_url": "https://player.twitch.tv/?channel=esl_csgo",
+        "match_type": "best_of",
+        "modified_at": "2021-06-09T08:59:17Z",
+        "name": "Upper bracket final: TBD vs TBD",
+        "number_of_games": 3,
+        "official_stream_url": "https://www.twitch.tv/esl_csgo",
+        "original_scheduled_at": "2021-06-24T17:00:00Z",
+        "rescheduled": false,
+        "scheduled_at": "2021-06-24T17:00:00Z",
+        "slug": "2021-06-24-1352a9c7-f44b-4175-b110-6c3cb2199e98",
+        "status": "not_started",
+        "streams": {
+          "english": {
+            "embed_url": "https://player.twitch.tv/?channel=esl_csgo",
+            "raw_url": "https://www.twitch.tv/esl_csgo"
+          },
+          "official": {
+            "embed_url": "https://player.twitch.tv/?channel=esl_csgo",
+            "raw_url": "https://www.twitch.tv/esl_csgo"
+          },
+          "russian": {
+            "embed_url": null,
+            "raw_url": null
+          }
+        },
+        "streams_list": [
+          {
+            "embed_url": "https://player.twitch.tv/?channel=esl_csgo",
+            "language": "en",
+            "main": true,
+            "official": true,
+            "raw_url": "https://www.twitch.tv/esl_csgo"
+          }
+        ],
+        "tournament_id": 6220,
+        "winner_id": null
+      },
+      {
+        "begin_at": "2021-06-25T17:00:00Z",
+        "detailed_stats": true,
+        "draw": false,
+        "end_at": null,
+        "forfeit": false,
+        "game_advantage": null,
+        "id": 597058,
+        "live": {
+          "opens_at": null,
+          "supported": false,
+          "url": null
+        },
+        "live_embed_url": "https://player.twitch.tv/?channel=esl_csgo",
+        "match_type": "best_of",
+        "modified_at": "2021-06-09T08:58:48Z",
+        "name": "Lower bracket round 3: TBD vs TBD",
+        "number_of_games": 3,
+        "official_stream_url": "https://www.twitch.tv/esl_csgo",
+        "original_scheduled_at": "2021-06-25T17:00:00Z",
+        "rescheduled": false,
+        "scheduled_at": "2021-06-25T17:00:00Z",
+        "slug": "2021-06-25-6a56b3fa-d7e5-4f5b-b401-09515ce38d32",
+        "status": "not_started",
+        "streams": {
+          "english": {
+            "embed_url": "https://player.twitch.tv/?channel=esl_csgo",
+            "raw_url": "https://www.twitch.tv/esl_csgo"
+          },
+          "official": {
+            "embed_url": "https://player.twitch.tv/?channel=esl_csgo",
+            "raw_url": "https://www.twitch.tv/esl_csgo"
+          },
+          "russian": {
+            "embed_url": null,
+            "raw_url": null
+          }
+        },
+        "streams_list": [
+          {
+            "embed_url": "https://player.twitch.tv/?channel=esl_csgo",
+            "language": "en",
+            "main": true,
+            "official": true,
+            "raw_url": "https://www.twitch.tv/esl_csgo"
+          }
+        ],
+        "tournament_id": 6220,
+        "winner_id": null
+      },
+      {
+        "begin_at": "2021-06-26T17:00:00Z",
+        "detailed_stats": true,
+        "draw": false,
+        "end_at": null,
+        "forfeit": false,
+        "game_advantage": null,
+        "id": 597060,
+        "live": {
+          "opens_at": null,
+          "supported": false,
+          "url": null
+        },
+        "live_embed_url": "https://player.twitch.tv/?channel=esl_csgo",
+        "match_type": "best_of",
+        "modified_at": "2021-06-09T08:59:47Z",
+        "name": "Lower bracket final: TBD vs TBD",
+        "number_of_games": 3,
+        "official_stream_url": "https://www.twitch.tv/esl_csgo",
+        "original_scheduled_at": "2021-06-26T17:00:00Z",
+        "rescheduled": false,
+        "scheduled_at": "2021-06-26T17:00:00Z",
+        "slug": "2021-06-26-5acc0ca8-60c0-4929-a04d-45dcfe22752b",
+        "status": "not_started",
+        "streams": {
+          "english": {
+            "embed_url": "https://player.twitch.tv/?channel=esl_csgo",
+            "raw_url": "https://www.twitch.tv/esl_csgo"
+          },
+          "official": {
+            "embed_url": "https://player.twitch.tv/?channel=esl_csgo",
+            "raw_url": "https://www.twitch.tv/esl_csgo"
+          },
+          "russian": {
+            "embed_url": null,
+            "raw_url": null
+          }
+        },
+        "streams_list": [
+          {
+            "embed_url": "https://player.twitch.tv/?channel=esl_csgo",
+            "language": "en",
+            "main": true,
+            "official": true,
+            "raw_url": "https://www.twitch.tv/esl_csgo"
+          }
+        ],
+        "tournament_id": 6220,
+        "winner_id": null
+      },
+      {
+        "begin_at": "2021-06-27T17:00:00Z",
+        "detailed_stats": true,
+        "draw": false,
+        "end_at": null,
+        "forfeit": false,
+        "game_advantage": null,
+        "id": 597061,
+        "live": {
+          "opens_at": null,
+          "supported": false,
+          "url": null
+        },
+        "live_embed_url": "https://player.twitch.tv/?channel=esl_csgo",
+        "match_type": "best_of",
+        "modified_at": "2021-06-09T09:00:02Z",
+        "name": "Grand final: TBD vs TBD",
+        "number_of_games": 5,
+        "official_stream_url": "https://www.twitch.tv/esl_csgo",
+        "original_scheduled_at": "2021-06-27T17:00:00Z",
+        "rescheduled": false,
+        "scheduled_at": "2021-06-27T17:00:00Z",
+        "slug": "2021-06-27-be4ce75c-7014-4b46-b5ac-5c6b3eb7a318",
+        "status": "not_started",
+        "streams": {
+          "english": {
+            "embed_url": "https://player.twitch.tv/?channel=esl_csgo",
+            "raw_url": "https://www.twitch.tv/esl_csgo"
+          },
+          "official": {
+            "embed_url": "https://player.twitch.tv/?channel=esl_csgo",
+            "raw_url": "https://www.twitch.tv/esl_csgo"
+          },
+          "russian": {
+            "embed_url": null,
+            "raw_url": null
+          }
+        },
+        "streams_list": [
+          {
+            "embed_url": "https://player.twitch.tv/?channel=esl_csgo",
+            "language": "en",
+            "main": true,
+            "official": true,
+            "raw_url": "https://www.twitch.tv/esl_csgo"
+          }
+        ],
+        "tournament_id": 6220,
+        "winner_id": null
+      }
+    ],
+    "modified_at": "2021-06-17T19:10:45Z",
+    "name": "Playoffs",
+    "prizepool": "50000 United States Dollar",
+    "serie": {
+      "begin_at": "2021-05-04T17:00:00Z",
+      "description": null,
+      "end_at": null,
+      "full_name": "Premier Europe season 37 2021",
+      "id": 3592,
+      "league_id": 4243,
+      "modified_at": "2021-06-07T06:16:21Z",
+      "name": "Premier Europe",
+      "season": "37",
+      "slug": "cs-go-esea-premier-europe-37-2021",
+      "tier": "c",
+      "winner_id": null,
+      "winner_type": null,
+      "year": 2021
+    },
+    "serie_id": 3592,
+    "slug": "cs-go-esea-premier-europe-37-2021-playoffs",
+    "teams": [
+      {
+        "acronym": null,
+        "id": 3230,
+        "image_url": "https://cdn.pandascore.co/images/team/image/3230/LDLC_FEMALE.png",
+        "location": "FR",
+        "modified_at": "2021-06-17T19:10:43Z",
+        "name": "LDLC",
+        "slug": "ldlc-cs-go"
+      },
+      {
+        "acronym": null,
+        "id": 3249,
+        "image_url": "https://cdn.pandascore.co/images/team/image/3249/BIG.png",
+        "location": "DE",
+        "modified_at": "2021-06-21T14:39:39Z",
+        "name": "BIG",
+        "slug": "big"
+      },
+      {
+        "acronym": null,
+        "id": 3285,
+        "image_url": "https://cdn.pandascore.co/images/team/image/3285/AGO_ESPORT.png",
+        "location": "PL",
+        "modified_at": "2021-06-21T09:04:53Z",
+        "name": "AGO",
+        "slug": "ago"
+      },
+      {
+        "acronym": null,
+        "id": 60201,
+        "image_url": "https://cdn.pandascore.co/images/team/image/60201/FORZE.png",
+        "location": "RU",
+        "modified_at": "2021-06-17T19:10:42Z",
+        "name": "forZe",
+        "slug": "forze"
+      },
+      {
+        "acronym": null,
+        "id": 125847,
+        "image_url": "https://cdn.pandascore.co/images/team/image/125847/9928.png",
+        "location": "DE",
+        "modified_at": "2021-06-22T07:25:39Z",
+        "name": "GamerLegion",
+        "slug": "gamerlegion"
+      },
+      {
+        "acronym": null,
+        "id": 127014,
+        "image_url": "https://cdn.pandascore.co/images/team/image/127014/151px_sinners_esports_logo5e34313b7001c916948606.png",
+        "location": null,
+        "modified_at": "2021-06-17T19:10:45Z",
+        "name": "Sinners",
+        "slug": "sinners"
+      },
+      {
+        "acronym": null,
+        "id": 127279,
+        "image_url": "https://cdn.pandascore.co/images/team/image/127279/blink_al_std.png",
+        "location": null,
+        "modified_at": "2021-06-17T19:10:45Z",
+        "name": "BLINK",
+        "slug": "blink"
+      },
+      {
+        "acronym": null,
+        "id": 127365,
+        "image_url": "https://cdn.pandascore.co/images/team/image/127365/sangal.png",
+        "location": "TR",
+        "modified_at": "2021-06-22T07:25:41Z",
+        "name": "Sangal",
+        "slug": "sangal"
+      }
+    ],
+    "videogame": {
+      "id": 3,
+      "name": "CS:GO",
+      "slug": "cs-go"
+    },
+    "winner_id": null,
+    "winner_type": "Team"
+  },
+  {
+    "begin_at": "2021-06-22T11:30:00Z",
+    "end_at": "2021-06-23T22:00:00Z",
+    "id": 6261,
+    "league": {
+      "id": 4399,
+      "image_url": "https://cdn.pandascore.co/images/league/image/4399/Gamers_Without_Borders.png",
+      "modified_at": "2020-05-26T17:49:31Z",
+      "name": "Gamers Without Borders",
+      "slug": "cs-go-gamers-without-border",
+      "url": "https://www.gamerswithoutborders.com/"
+    },
+    "league_id": 4399,
+    "live_supported": false,
+    "matches": [
+      {
+        "begin_at": "2021-06-22T11:56:58Z",
+        "detailed_stats": true,
+        "draw": false,
+        "end_at": null,
+        "forfeit": false,
+        "game_advantage": null,
+        "id": 598542,
+        "live": {
+          "opens_at": null,
+          "supported": false,
+          "url": null
+        },
+        "live_embed_url": "https://player.twitch.tv/?channel=gwbps_en",
+        "match_type": "best_of",
+        "modified_at": "2021-06-22T14:24:15Z",
+        "name": "Opening Match 1: NIP vs MIBR",
+        "number_of_games": 3,
+        "official_stream_url": "https://www.twitch.tv/gwbps_en",
+        "original_scheduled_at": "2021-06-22T11:30:00Z",
+        "rescheduled": true,
+        "scheduled_at": "2021-06-22T12:00:00Z",
+        "slug": "nip-vs-mibr-2021-06-22",
+        "status": "running",
+        "streams": {
+          "english": {
+            "embed_url": "https://player.twitch.tv/?channel=gwbps_en",
+            "raw_url": "https://www.twitch.tv/gwbps_en"
+          },
+          "official": {
+            "embed_url": "https://player.twitch.tv/?channel=gwbps_en",
+            "raw_url": "https://www.twitch.tv/gwbps_en"
+          },
+          "russian": {
+            "embed_url": "https://player.twitch.tv/?channel=gwbps_ru",
+            "raw_url": "https://www.twitch.tv/gwbps_ru"
+          }
+        },
+        "streams_list": [
+          {
+            "embed_url": "https://player.twitch.tv/?channel=gwbps_en",
+            "language": "en",
+            "main": true,
+            "official": true,
+            "raw_url": "https://www.twitch.tv/gwbps_en"
+          },
+          {
+            "embed_url": "https://player.twitch.tv/?channel=gwbps_ru",
+            "language": "ru",
+            "main": false,
+            "official": false,
+            "raw_url": "https://www.twitch.tv/gwbps_ru"
+          }
+        ],
+        "tournament_id": 6261,
+        "winner_id": null
+      },
+      {
+        "begin_at": "2021-06-22T14:45:00Z",
+        "detailed_stats": true,
+        "draw": false,
+        "end_at": null,
+        "forfeit": false,
+        "game_advantage": null,
+        "id": 598543,
+        "live": {
+          "opens_at": null,
+          "supported": false,
+          "url": null
+        },
+        "live_embed_url": "https://player.twitch.tv/?channel=gwbps_en",
+        "match_type": "best_of",
+        "modified_at": "2021-06-22T09:29:20Z",
+        "name": "Opening Match 2: ENCE vs mousesports",
+        "number_of_games": 3,
+        "official_stream_url": "https://www.twitch.tv/gwbps_en",
+        "original_scheduled_at": "2021-06-22T14:45:00Z",
+        "rescheduled": false,
+        "scheduled_at": "2021-06-22T14:45:00Z",
+        "slug": "ence-vs-mousesports-2021-06-22",
+        "status": "not_started",
+        "streams": {
+          "english": {
+            "embed_url": "https://player.twitch.tv/?channel=gwbps_en",
+            "raw_url": "https://www.twitch.tv/gwbps_en"
+          },
+          "official": {
+            "embed_url": "https://player.twitch.tv/?channel=gwbps_en",
+            "raw_url": "https://www.twitch.tv/gwbps_en"
+          },
+          "russian": {
+            "embed_url": "https://player.twitch.tv/?channel=gwbps_ru",
+            "raw_url": "https://www.twitch.tv/gwbps_ru"
+          }
+        },
+        "streams_list": [
+          {
+            "embed_url": "https://player.twitch.tv/?channel=gwbps_en",
+            "language": "en",
+            "main": true,
+            "official": true,
+            "raw_url": "https://www.twitch.tv/gwbps_en"
+          },
+          {
+            "embed_url": "https://player.twitch.tv/?channel=gwbps_ru",
+            "language": "ru",
+            "main": false,
+            "official": false,
+            "raw_url": "https://www.twitch.tv/gwbps_ru"
+          }
+        ],
+        "tournament_id": 6261,
+        "winner_id": null
+      },
+      {
+        "begin_at": "2021-06-22T18:00:00Z",
+        "detailed_stats": true,
+        "draw": false,
+        "end_at": null,
+        "forfeit": false,
+        "game_advantage": null,
+        "id": 598544,
+        "live": {
+          "opens_at": null,
+          "supported": false,
+          "url": null
+        },
+        "live_embed_url": "https://player.twitch.tv/?channel=gwbps_en",
+        "match_type": "best_of",
+        "modified_at": "2021-06-22T09:31:35Z",
+        "name": "Winners' Match: TBD vs TBD",
+        "number_of_games": 3,
+        "official_stream_url": "https://www.twitch.tv/gwbps_en",
+        "original_scheduled_at": "2021-06-22T18:00:00Z",
+        "rescheduled": false,
+        "scheduled_at": "2021-06-22T18:00:00Z",
+        "slug": "2021-06-22-c3e8ab4c-c55c-453c-8f13-3a7abdf24041",
+        "status": "not_started",
+        "streams": {
+          "english": {
+            "embed_url": "https://player.twitch.tv/?channel=gwbps_en",
+            "raw_url": "https://www.twitch.tv/gwbps_en"
+          },
+          "official": {
+            "embed_url": "https://player.twitch.tv/?channel=gwbps_en",
+            "raw_url": "https://www.twitch.tv/gwbps_en"
+          },
+          "russian": {
+            "embed_url": "https://player.twitch.tv/?channel=gwbps_ru",
+            "raw_url": "https://www.twitch.tv/gwbps_ru"
+          }
+        },
+        "streams_list": [
+          {
+            "embed_url": "https://player.twitch.tv/?channel=gwbps_en",
+            "language": "en",
+            "main": true,
+            "official": true,
+            "raw_url": "https://www.twitch.tv/gwbps_en"
+          },
+          {
+            "embed_url": "https://player.twitch.tv/?channel=gwbps_ru",
+            "language": "ru",
+            "main": false,
+            "official": false,
+            "raw_url": "https://www.twitch.tv/gwbps_ru"
+          }
+        ],
+        "tournament_id": 6261,
+        "winner_id": null
+      },
+      {
+        "begin_at": "2021-06-23T14:45:00Z",
+        "detailed_stats": true,
+        "draw": false,
+        "end_at": null,
+        "forfeit": false,
+        "game_advantage": null,
+        "id": 598545,
+        "live": {
+          "opens_at": null,
+          "supported": false,
+          "url": null
+        },
+        "live_embed_url": "https://player.twitch.tv/?channel=gwbps_en",
+        "match_type": "best_of",
+        "modified_at": "2021-06-21T14:41:25Z",
+        "name": "Elimination Match: TBD vs TBD",
+        "number_of_games": 3,
+        "official_stream_url": "https://www.twitch.tv/gwbps_en",
+        "original_scheduled_at": "2021-06-23T14:45:00Z",
+        "rescheduled": false,
+        "scheduled_at": "2021-06-23T14:45:00Z",
+        "slug": "2021-06-23-80f5f02d-3b16-49b4-ae5f-f1d18d23dfa4",
+        "status": "not_started",
+        "streams": {
+          "english": {
+            "embed_url": "https://player.twitch.tv/?channel=gwbps_en",
+            "raw_url": "https://www.twitch.tv/gwbps_en"
+          },
+          "official": {
+            "embed_url": "https://player.twitch.tv/?channel=gwbps_en",
+            "raw_url": "https://www.twitch.tv/gwbps_en"
+          },
+          "russian": {
+            "embed_url": "https://player.twitch.tv/?channel=gwbps_ru",
+            "raw_url": "https://www.twitch.tv/gwbps_ru"
+          }
+        },
+        "streams_list": [
+          {
+            "embed_url": "https://player.twitch.tv/?channel=gwbps_ru",
+            "language": "ru",
+            "main": false,
+            "official": false,
+            "raw_url": "https://www.twitch.tv/gwbps_ru"
+          },
+          {
+            "embed_url": "https://player.twitch.tv/?channel=gwbps_en",
+            "language": "en",
+            "main": true,
+            "official": true,
+            "raw_url": "https://www.twitch.tv/gwbps_en"
+          }
+        ],
+        "tournament_id": 6261,
+        "winner_id": null
+      },
+      {
+        "begin_at": "2021-06-23T19:00:00Z",
+        "detailed_stats": true,
+        "draw": false,
+        "end_at": null,
+        "forfeit": false,
+        "game_advantage": null,
+        "id": 598546,
+        "live": {
+          "opens_at": null,
+          "supported": false,
+          "url": null
+        },
+        "live_embed_url": "https://player.twitch.tv/?channel=gwbps_en",
+        "match_type": "best_of",
+        "modified_at": "2021-06-21T14:41:46Z",
+        "name": "Decider Match: TBD vs TBD",
+        "number_of_games": 3,
+        "official_stream_url": "https://www.twitch.tv/gwbps_en",
+        "original_scheduled_at": "2021-06-23T19:00:00Z",
+        "rescheduled": false,
+        "scheduled_at": "2021-06-23T19:00:00Z",
+        "slug": "2021-06-23-794fc208-0df1-43b9-b847-55ad9c3c63bc",
+        "status": "not_started",
+        "streams": {
+          "english": {
+            "embed_url": "https://player.twitch.tv/?channel=gwbps_en",
+            "raw_url": "https://www.twitch.tv/gwbps_en"
+          },
+          "official": {
+            "embed_url": "https://player.twitch.tv/?channel=gwbps_en",
+            "raw_url": "https://www.twitch.tv/gwbps_en"
+          },
+          "russian": {
+            "embed_url": "https://player.twitch.tv/?channel=gwbps_ru",
+            "raw_url": "https://www.twitch.tv/gwbps_ru"
+          }
+        },
+        "streams_list": [
+          {
+            "embed_url": "https://player.twitch.tv/?channel=gwbps_ru",
+            "language": "ru",
+            "main": false,
+            "official": false,
+            "raw_url": "https://www.twitch.tv/gwbps_ru"
+          },
+          {
+            "embed_url": "https://player.twitch.tv/?channel=gwbps_en",
+            "language": "en",
+            "main": true,
+            "official": true,
+            "raw_url": "https://www.twitch.tv/gwbps_en"
+          }
+        ],
+        "tournament_id": 6261,
+        "winner_id": null
+      }
+    ],
+    "modified_at": "2021-06-22T14:22:00Z",
+    "name": "Group A",
+    "prizepool": null,
+    "serie": {
+      "begin_at": "2021-06-22T11:30:00Z",
+      "description": null,
+      "end_at": "2021-06-27T17:00:00Z",
+      "full_name": "2021",
+      "id": 3712,
+      "league_id": 4399,
+      "modified_at": "2021-06-21T14:35:06Z",
+      "name": null,
+      "season": null,
+      "slug": "cs-go-gamers-without-border-2021",
+      "tier": "a",
+      "winner_id": null,
+      "winner_type": null,
+      "year": 2021
+    },
+    "serie_id": 3712,
+    "slug": "cs-go-gamers-without-border-2021-group-a",
+    "teams": [
+      {
+        "acronym": null,
+        "id": 3218,
+        "image_url": "https://cdn.pandascore.co/images/team/image/3218/600px_ninjas_in_pyjamas_2021.png",
+        "location": "SE",
+        "modified_at": "2021-06-22T14:22:00Z",
+        "name": "NIP",
+        "slug": "nip"
+      },
+      {
+        "acronym": null,
+        "id": 3240,
+        "image_url": "https://cdn.pandascore.co/images/team/image/3240/MOUSE.png",
+        "location": "DE",
+        "modified_at": "2021-06-21T14:38:14Z",
+        "name": "mousesports",
+        "slug": "mousesports-cs-go"
+      },
+      {
+        "acronym": null,
+        "id": 3250,
+        "image_url": "https://cdn.pandascore.co/images/team/image/3250/600px_mibr_2018.png",
+        "location": "BR",
+        "modified_at": "2021-06-21T14:38:14Z",
+        "name": "MIBR",
+        "slug": "mibr"
+      },
+      {
+        "acronym": null,
+        "id": 3251,
+        "image_url": "https://cdn.pandascore.co/images/team/image/3251/ENCE_ESPORT.png",
+        "location": "FI",
+        "modified_at": "2021-06-21T14:38:13Z",
+        "name": "ENCE",
+        "slug": "ence"
+      }
+    ],
+    "videogame": {
+      "id": 3,
+      "name": "CS:GO",
+      "slug": "cs-go"
+    },
+    "winner_id": null,
+    "winner_type": "Team"
+  }
+]

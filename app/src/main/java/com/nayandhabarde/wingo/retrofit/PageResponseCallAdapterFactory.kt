@@ -45,8 +45,7 @@ class PageResponseCallAdapterFactory private  constructor(): CallAdapter.Factory
         }
 
         val typeOfPageResponse = getParameterUpperBound(0, responseType)
-        val rawTypeOfPageResponse = getRawType(typeOfPageResponse)
-        return BodyCallAdapter<Any>(rawTypeOfPageResponse)
+        return BodyCallAdapter<Any>(typeOfPageResponse)
     }
 
     private class BodyCallAdapter<T>(
