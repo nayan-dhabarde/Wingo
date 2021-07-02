@@ -7,6 +7,14 @@ plugins {
 }
 
 android {
+    signingConfigs {
+        debug {
+            storeFile file('C:\\Users\\Nayan\\.android\\debug.keystore')
+            storePassword 'android'
+            keyPassword 'android'
+            keyAlias 'androiddebugkey'
+        }
+    }
     compileSdk 30
     buildToolsVersion "30.0.3"
 
@@ -32,6 +40,7 @@ android {
             debuggable true
             buildConfigField "String", "BASE_URL", "\"https://api.pandascore.co/\""
             buildConfigField "String", "AUTH_TOKEN", "\"Bearer DiTglCYq9uRDJ-pTsxYR-xfGUatKiGZkvz-gfcXNlwP64ubAWH8/\""
+            signingConfig signingConfigs.debug
         }
     }
     compileOptions {
@@ -69,6 +78,7 @@ dependencies {
     //region testing
     testImplementation("com.squareup.okhttp3:mockwebserver:4.9.1")
     testImplementation "com.google.truth:truth:1.1.3"
+    testImplementation group: 'org.mockito', name: 'mockito-all', version: '1.10.19'
     //
 
     // region coroutines
