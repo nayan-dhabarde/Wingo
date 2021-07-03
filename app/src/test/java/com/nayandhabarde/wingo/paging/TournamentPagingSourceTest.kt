@@ -5,6 +5,7 @@ import com.google.common.truth.Truth.assertThat
 import com.nayandhabarde.wingo.model.PageResponse
 import com.nayandhabarde.wingo.model.Tournament
 import com.nayandhabarde.wingo.retrofit.ApiService
+import com.nayandhabarde.wingo.retrofit.response.PageResponseUtil
 import kotlinx.coroutines.CompletableDeferred
 import kotlinx.coroutines.runBlocking
 import org.junit.Before
@@ -15,6 +16,7 @@ import org.mockito.Mockito.mock
 class TournamentPagingSourceTest {
 
     private val tournamentFactory = TournamentFactory()
+    private val pageResponseUtil = PageResponseUtil()
     private val mockList = listOf(
         tournamentFactory.create(6253),
         tournamentFactory.create(6252),
@@ -25,7 +27,7 @@ class TournamentPagingSourceTest {
     @Test
     fun loadReturnsPageWhenOnSuccessLoad() = runBlocking {
         val pagingSource = TournamentPagingSource(service, 2)
-        `when`(service.getTournaments(1, 2)).thenReturn(getPageOneResponse())
+        `when`(service.getTournaments(1, 2)).thenReturn(pageResponseUtil.getPageOneResponse())
         val actual = pagingSource.load(PagingSource.LoadParams.Refresh(
             key = null,
             loadSize = 2,
@@ -34,16 +36,6 @@ class TournamentPagingSourceTest {
         val expected = PagingSource.LoadResult.Page(listOf(mockList[0], mockList[1]), null, 2)
         assertThat(actual)
             .isEqualTo(expected)
-    }
-
-    private fun getPageOneResponse(): CompletableDeferred<PageResponse<MutableList<Tournament>>> {
-        val deferred = CompletableDeferred<PageResponse<MutableList<Tournament>>>()
-        val firstResponse = mutableListOf(
-            tournamentFactory.create(6253),
-            tournamentFactory.create(6252)
-        )
-        deferred.complete(PageResponse(firstResponse, 3))
-        return deferred
     }
     
 
