@@ -13,6 +13,9 @@ import dagger.hilt.components.SingletonComponent
 import okhttp3.OkHttpClient
 import retrofit2.Retrofit
 import retrofit2.converter.gson.GsonConverterFactory
+import com.localebro.okhttpprofiler.OkHttpProfilerInterceptor
+import com.nayandhabarde.wingo.retrofit.AuthInterceptor
+
 
 @Module
 @InstallIn(SingletonComponent::class)
@@ -29,9 +32,18 @@ class NetworkModule {
     }
 
     @Provides
-    fun provideOkHttp(): OkHttpClient {
-        return OkHttpClient.Builder()
-            .build()
+    fun provideOkHttp(authInterceptor: AuthInterceptor): OkHttpClient {
+        val builder =  OkHttpClient.Builder()
+        builder.addInterceptor(authInterceptor)
+        if (BuildConfig.DEBUG) {
+            builder.addInterceptor(OkHttpProfilerInterceptor())
+        }
+        return builder.build()
+    }
+
+    @Provides
+    fun provideOkhttpInterceptor(): AuthInterceptor {
+        return AuthInterceptor()
     }
 
     @Provides

@@ -2,13 +2,9 @@ package com.nayandhabarde.wingo.paging
 
 import androidx.paging.PagingSource
 import com.google.common.truth.Truth.assertThat
-import com.nayandhabarde.wingo.model.PageResponse
-import com.nayandhabarde.wingo.model.Tournament
 import com.nayandhabarde.wingo.retrofit.ApiService
 import com.nayandhabarde.wingo.retrofit.response.PageResponseUtil
-import kotlinx.coroutines.CompletableDeferred
 import kotlinx.coroutines.runBlocking
-import org.junit.Before
 import org.junit.Test
 import org.mockito.Mockito.`when`
 import org.mockito.Mockito.mock
@@ -26,8 +22,8 @@ class TournamentPagingSourceTest {
 
     @Test
     fun loadReturnsPageWhenOnSuccessLoad() = runBlocking {
-        val pagingSource = TournamentPagingSource(service, 2)
-        `when`(service.getTournaments(1, 2)).thenReturn(pageResponseUtil.getPageOneResponse())
+        val pagingSource = LeaguePagingSource(service, 2)
+        `when`(service.getLeagues(1, 2)).thenReturn(pageResponseUtil.getPageOneResponse())
         val actual = pagingSource.load(PagingSource.LoadParams.Refresh(
             key = null,
             loadSize = 2,

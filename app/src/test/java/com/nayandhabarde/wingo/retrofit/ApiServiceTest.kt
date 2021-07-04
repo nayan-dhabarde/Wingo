@@ -5,7 +5,6 @@ import com.google.gson.GsonBuilder
 import com.nayandhabarde.wingo.model.Tournament
 import com.nayandhabarde.wingo.retrofit.response.MockResponseUtil
 import kotlinx.coroutines.runBlocking
-import okhttp3.mockwebserver.MockResponse
 import okhttp3.mockwebserver.MockWebServer
 import org.junit.Before
 import org.junit.Rule
@@ -36,7 +35,7 @@ class ApiServiceTest {
     @Test
     fun testTournamentResults() = runBlocking {
         server.enqueue(mockUtils.getTournamentsResponse())
-        val deferred = service.getTournaments(1, 10)
+        val deferred = service.getLeagues(1, 10)
         val tournaments: List<Tournament> = deferred.await().data
 
         val firstTournament = tournaments[0]

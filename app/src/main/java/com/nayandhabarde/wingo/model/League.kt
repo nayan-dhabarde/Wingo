@@ -7,7 +7,7 @@ import kotlinx.android.parcel.Parcelize
 @Parcelize
 data class League (
     val id: Long = Long.MIN_VALUE,
-    @SerializedName("image_url ")
+    @SerializedName("image_url")
     val imageUrl: String = "",
     @SerializedName("modified_at")
     val modifiedAt: String = "",
