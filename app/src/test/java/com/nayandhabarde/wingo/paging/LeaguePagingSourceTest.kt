@@ -9,14 +9,14 @@ import org.junit.Test
 import org.mockito.Mockito.`when`
 import org.mockito.Mockito.mock
 
-class TournamentPagingSourceTest {
+class LeaguePagingSourceTest {
 
-    private val tournamentFactory = TournamentFactory()
+    private val leagueFactory = LeagueFactory()
     private val pageResponseUtil = PageResponseUtil()
     private val mockList = listOf(
-        tournamentFactory.create(6253),
-        tournamentFactory.create(6252),
-        tournamentFactory.create(6266),
+        leagueFactory.create(6253),
+        leagueFactory.create(6252),
+        leagueFactory.create(6266),
     )
     private var service: ApiService = mock(ApiService::class.java)
 

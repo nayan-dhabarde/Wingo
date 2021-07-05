@@ -4,7 +4,7 @@ import androidx.paging.AsyncPagingDataDiffer
 import androidx.recyclerview.widget.ListUpdateCallback
 import com.google.common.truth.Truth
 import com.nayandhabarde.wingo.diffcallback.LeagueDiffCallback
-import com.nayandhabarde.wingo.paging.TournamentFactory
+import com.nayandhabarde.wingo.paging.LeagueFactory
 import com.nayandhabarde.wingo.repository.LeagueRepository
 import com.nayandhabarde.wingo.retrofit.response.PageResponseUtil
 import kotlinx.coroutines.flow.collectLatest
@@ -19,7 +19,7 @@ class HomeViewModelTest {
 
     private val repository = mock(LeagueRepository::class.java)
     private val pageResponseUtil = PageResponseUtil()
-    private val tournamentFactory = TournamentFactory()
+    private val tournamentFactory = LeagueFactory()
     private val coroutineDispatcher = TestCoroutineDispatcher()
 
     @Test

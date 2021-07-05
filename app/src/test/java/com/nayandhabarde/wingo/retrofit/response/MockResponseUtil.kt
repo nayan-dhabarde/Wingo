@@ -6,8 +6,8 @@ import okio.buffer
 import okio.source
 
 class MockResponseUtil {
-    fun getTournamentsResponse(): MockResponse {
-        return getResponseFor("tournaments.json",
+    fun getLeagueResponse(): MockResponse {
+        return getResponseFor("leagues.json",
             mapOf(WingoHeaders.HEADER_X_TOTAL.value to 1940.toString()))
     }
 
