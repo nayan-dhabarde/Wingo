@@ -3,4 +3,5 @@
     <color name="color_background">#000037</color>
     <color name="color_surface">#33335F</color>
     <color name="color_primary_variant">#010125</color>
+    <color name="subtitle_2_text_color">#FFFFFF</color>
 </resources>

@@ -16,8 +16,10 @@ class HomeActivity : AppCompatActivity() {
         binding = ActivityHomeBinding.inflate(layoutInflater)
         setContentView(binding.root)
         binding.apply {
-            supportFragmentManager.commit {
-                add(R.id.fragmentContainerView, LeagueFragment())
+            if(savedInstanceState == null) {
+                supportFragmentManager.commit {
+                    add(R.id.fragmentContainerView, LeagueFragment())
+                }
             }
         }
 

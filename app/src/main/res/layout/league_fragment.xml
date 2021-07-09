@@ -6,5 +6,7 @@
         android:id="@+id/tournamentRecyclerView"
         android:layout_width="match_parent"
         android:layout_height="match_parent"
+        android:layout_marginStart="@dimen/recyclerview_horizontal_margin"
+        android:layout_marginEnd="16dp"
         />
 </androidx.constraintlayout.widget.ConstraintLayout>

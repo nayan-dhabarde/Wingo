@@ -7,6 +7,7 @@ import android.view.ViewGroup
 import androidx.fragment.app.Fragment
 import androidx.fragment.app.viewModels
 import androidx.lifecycle.lifecycleScope
+import androidx.recyclerview.widget.DividerItemDecoration
 import androidx.recyclerview.widget.LinearLayoutManager
 import com.nayandhabarde.wingo.R
 import com.nayandhabarde.wingo.databinding.LeagueFragmentBinding
@@ -38,6 +39,7 @@ class LeagueFragment: Fragment(R.layout.league_fragment) {
         binding?.apply {
             val adapter = LeagueAdapter(LeagueDiffCallback())
             tournamentRecyclerView.layoutManager = LinearLayoutManager(context)
+            tournamentRecyclerView.addItemDecoration(DividerItemDecoration(context, DividerItemDecoration.VERTICAL))
             tournamentRecyclerView.adapter = adapter
             lifecycleScope.launch {
                 viewModel.fetchDataFromRepo().collectLatest {
