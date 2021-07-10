@@ -18,4 +18,10 @@ class WingoDateTimeFormatterTest {
         val output = wingoDateTimeFormatter.formatToMonthDateOfMonth("2021-07-10T06:31:30Z")
         assertThat(output).isEqualTo("Jul 10")
     }
+
+    @Test
+    fun `test transform start and end date to month date of month range returns correct`() {
+        val output = wingoDateTimeFormatter.transformStartAndEndDateToMonthDateOfMonthRange("2021-07-10T06:31:30Z", "2021-10-10T06:31:30Z")
+        assertThat(output).isEqualTo("Jul 10 - Oct 10")
+    }
 }

@@ -5,6 +5,7 @@ import android.view.LayoutInflater
 import android.view.View
 import android.view.ViewGroup
 import androidx.fragment.app.Fragment
+import androidx.fragment.app.activityViewModels
 import androidx.fragment.app.viewModels
 import androidx.lifecycle.lifecycleScope
 import androidx.recyclerview.widget.DividerItemDecoration
@@ -17,13 +18,16 @@ import com.nayandhabarde.wingo.viewmodel.TournamentViewModel
 import dagger.hilt.android.AndroidEntryPoint
 import kotlinx.coroutines.flow.collectLatest
 import kotlinx.coroutines.launch
+import javax.inject.Inject
 
 @AndroidEntryPoint
 class TournamentFragment: Fragment(R.layout.tournament_fragment) {
     private var _binding: TournamentFragmentBinding? = null
     private val binding get() = _binding
 
-    private val viewModel: TournamentViewModel by viewModels()
+    @Inject
+    lateinit var adapter: TournamentAdapter
+    private val viewModel: TournamentViewModel by activityViewModels()
 
     override fun onCreateView(
         inflater: LayoutInflater,
@@ -37,7 +41,6 @@ class TournamentFragment: Fragment(R.layout.tournament_fragment) {
     override fun onViewCreated(view: View, savedInstanceState: Bundle?) {
         super.onViewCreated(view, savedInstanceState)
         binding?.apply {
-            val adapter = TournamentAdapter(TournamentDiffCallback())
             tournamentRecyclerView.layoutManager = LinearLayoutManager(context)
             tournamentRecyclerView.addItemDecoration(DividerItemDecoration(context, DividerItemDecoration.VERTICAL))
             tournamentRecyclerView.adapter = adapter

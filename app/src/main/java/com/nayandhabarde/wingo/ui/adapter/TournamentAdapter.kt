@@ -9,15 +9,20 @@ import coil.load
 import com.nayandhabarde.wingo.databinding.TournamentViewBinding
 import com.nayandhabarde.wingo.model.Tournament
 import com.nayandhabarde.wingo.ui.viewholder.TournamentViewHolder
+import com.nayandhabarde.wingo.util.WingoDateTimeFormatter
+import javax.inject.Inject
 
-class TournamentAdapter(diffCallback: DiffUtil.ItemCallback<Tournament>)
+class TournamentAdapter @Inject constructor(
+    diffCallback: DiffUtil.ItemCallback<Tournament>,
+    private val wingoDateTimeFormatter: WingoDateTimeFormatter
+)
     : PagingDataAdapter<Tournament, TournamentViewHolder>(diffCallback) {
     override fun onBindViewHolder(holder: TournamentViewHolder, position: Int) {
         val model = getItem(position)
         holder.itemBinding.apply {
             if(model != null) {
                 tournamentNameTextView.text = model.name
-                tournamentDateTextView.text = "Jun 29th - Jul 3rd"
+                tournamentDateTextView.text = wingoDateTimeFormatter.transformStartAndEndDateToMonthDateOfMonthRange(model.beginAt, model.endAT)
                 tournamentImageView.load(model.league.imageUrl)
 
                 teamsRecyclerView.layoutManager = LinearLayoutManager(teamsRecyclerView.context, LinearLayoutManager.HORIZONTAL, false)
