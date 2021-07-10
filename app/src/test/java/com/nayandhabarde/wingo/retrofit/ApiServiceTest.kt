@@ -2,7 +2,6 @@ package com.nayandhabarde.wingo.retrofit
 
 import com.google.common.truth.Truth.assertThat
 import com.google.gson.GsonBuilder
-import com.nayandhabarde.wingo.model.League
 import com.nayandhabarde.wingo.model.Tournament
 import com.nayandhabarde.wingo.retrofit.response.MockResponseUtil
 import kotlinx.coroutines.runBlocking
@@ -35,12 +34,13 @@ class ApiServiceTest {
 
     @Test
     fun testTournamentResults() = runBlocking {
-        server.enqueue(mockUtils.getLeagueResponse())
+        server.enqueue(mockUtils.getTournamentsResponse())
         val deferred = service.getLeagues(1, 10)
-        val leagues: List<League> = deferred.await().data
+        val tournaments: List<Tournament> = deferred.await().data
 
-        val firstLeague = leagues[0]
-        assertThat(firstLeague.id).isEqualTo(4607)
+        val firstTournament = tournaments[0]
+        assertThat(firstTournament.id).isEqualTo(6253)
+        assertThat(firstTournament.league.name).isEqualTo("DreamHack Open")
     }
 
 
