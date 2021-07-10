@@ -1,5 +1,7 @@
 # Wingo 🎮 (work-in-progress 🔧️⛏)
 
+Wingo gives you all the updates of current and upcoming Counter Strike tournaments
+
  * Entirely written in [Kotlin](https://kotlinlang.org/).
  * Uses [Kotlin Coroutines](https://kotlinlang.org/docs/reference/coroutines/coroutines-guide.html) throughout.
  * Uses [Hilt](https://dagger.dev/hilt/) for dependency injection
