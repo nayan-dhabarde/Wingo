@@ -21,7 +21,7 @@ class TournamentAdapter @Inject constructor(
         val model = getItem(position)
         holder.itemBinding.apply {
             if(model != null) {
-                tournamentNameTextView.text = model.name
+                tournamentNameTextView.text = "${model.league.name} ${model.name}"
                 tournamentDateTextView.text = wingoDateTimeFormatter.transformStartAndEndDateToMonthDateOfMonthRange(model.beginAt, model.endAT)
                 tournamentImageView.load(model.league.imageUrl)
 

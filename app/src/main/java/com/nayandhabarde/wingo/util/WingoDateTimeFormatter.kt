@@ -25,4 +25,8 @@ class WingoDateTimeFormatter @Inject constructor(
         val endDate = serverDateFormat.parse(endDateString)
         return "${monthDayOfMonthFormat.format(startDate)} - ${monthDayOfMonthFormat.format(endDate)}"
     }
+
+    fun getCurrentMonthDateServerFormatted(): String {
+        return serverDateFormat.format(Date())
+    }
 }
