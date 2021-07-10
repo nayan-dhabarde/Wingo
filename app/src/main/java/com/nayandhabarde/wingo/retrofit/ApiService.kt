@@ -10,9 +10,9 @@ import retrofit2.http.Query
 
 interface ApiService {
 
-    @GET("/csgo/leagues")
-    fun getLeagues(
+    @GET("/csgo/tournaments")
+    fun getTournaments(
         @Query("page[number]") page: Int,
         @Query("page[size]") pageSize: Int,
-        @Query("sort") sort: String = "modified_at"): Deferred<PageResponse<MutableList<League>>>
+        @Query("sort") sort: String = "modified_at"): Deferred<PageResponse<MutableList<Tournament>>>
 }

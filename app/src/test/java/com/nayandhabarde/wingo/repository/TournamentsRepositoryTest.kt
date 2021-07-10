@@ -4,7 +4,7 @@ import androidx.paging.*
 import androidx.recyclerview.widget.ListUpdateCallback
 import com.google.common.truth.Truth.assertThat
 import com.nayandhabarde.wingo.constants.PageSize
-import com.nayandhabarde.wingo.diffcallback.LeagueDiffCallback
+import com.nayandhabarde.wingo.diffcallback.TournamentDiffCallback
 import com.nayandhabarde.wingo.paging.TournamentFactory
 import com.nayandhabarde.wingo.retrofit.ApiService
 import com.nayandhabarde.wingo.retrofit.response.PageResponseUtil
@@ -19,7 +19,7 @@ import org.mockito.Mockito.mock
 class TournamentsRepositoryTest {
 
     private val service = mock(ApiService::class.java)
-    private val repository = LeagueRepository(service)
+    private val repository = TournamentRepository(service)
     private val pageResponseUtil = PageResponseUtil()
     private val tournamentFactory = TournamentFactory()
     private val coroutineDispatcher = TestCoroutineDispatcher()
@@ -31,7 +31,7 @@ class TournamentsRepositoryTest {
         `when`(service.getLeagues(1, PageSize.TOURNAMENTS.value)).thenReturn(pageResponseUtil.getPageOneResponse())
         // A little hack as we cannot get data directly from the pagingData
         val differ = AsyncPagingDataDiffer(
-            LeagueDiffCallback(),
+            TournamentDiffCallback(),
             noopListUpdateCallback,
             coroutineDispatcher,
             coroutineDispatcher

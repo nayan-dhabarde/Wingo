@@ -6,19 +6,19 @@ import androidx.paging.PagingData
 import com.nayandhabarde.wingo.constants.PageSize
 import com.nayandhabarde.wingo.model.League
 import com.nayandhabarde.wingo.model.Tournament
-import com.nayandhabarde.wingo.paging.LeaguePagingSource
+import com.nayandhabarde.wingo.paging.TournamentPagingSource
 import com.nayandhabarde.wingo.retrofit.ApiService
 import kotlinx.coroutines.flow.Flow
 import javax.inject.Inject
 
-class LeagueRepository @Inject constructor(val apiService: ApiService) {
+class TournamentRepository @Inject constructor(val apiService: ApiService) {
 
-    fun fetchLeague(): Flow<PagingData<League>> {
-        val pageSize = PageSize.LEAGUE.value
+    fun fetchLeague(): Flow<PagingData<Tournament>> {
+        val pageSize = PageSize.TOURNAMENTS.value
         return Pager(
             PagingConfig(pageSize)
         ) {
-            LeaguePagingSource(apiService, pageSize)
+            TournamentPagingSource(apiService, pageSize)
         }.flow
     }
 

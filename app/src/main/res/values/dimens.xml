@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <dimen name="dimen_league_image">64dp</dimen>
+    <dimen name="dimen_tournament_image">64dp</dimen>
     <dimen name="recyclerview_horizontal_margin">16dp</dimen>
-    <dimen name="league_view_vertical_margin">24dp</dimen>
-    <dimen name="league_component_margin_start">16dp</dimen>
+    <dimen name="tournament_view_vertical_margin">24dp</dimen>
+    <dimen name="tournament_component_margin_start">16dp</dimen>
     <dimen name="caption_text_size">10sp</dimen>
     <dimen name="list_team_image_dimension">24dp</dimen>
 </resources>

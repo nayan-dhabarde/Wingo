@@ -4,7 +4,7 @@ import androidx.appcompat.app.AppCompatActivity
 import android.os.Bundle
 import androidx.fragment.app.commit
 import com.nayandhabarde.wingo.databinding.ActivityHomeBinding
-import com.nayandhabarde.wingo.ui.LeagueFragment
+import com.nayandhabarde.wingo.ui.TournamentFragment
 import dagger.hilt.android.AndroidEntryPoint
 
 @AndroidEntryPoint
@@ -18,7 +18,7 @@ class HomeActivity : AppCompatActivity() {
         binding.apply {
             if(savedInstanceState == null) {
                 supportFragmentManager.commit {
-                    add(R.id.fragmentContainerView, LeagueFragment())
+                    add(R.id.fragmentContainerView, TournamentFragment())
                 }
             }
         }

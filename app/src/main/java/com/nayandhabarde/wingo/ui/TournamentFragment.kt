@@ -10,34 +10,34 @@ import androidx.lifecycle.lifecycleScope
 import androidx.recyclerview.widget.DividerItemDecoration
 import androidx.recyclerview.widget.LinearLayoutManager
 import com.nayandhabarde.wingo.R
-import com.nayandhabarde.wingo.databinding.LeagueFragmentBinding
-import com.nayandhabarde.wingo.diffcallback.LeagueDiffCallback
-import com.nayandhabarde.wingo.ui.adapter.LeagueAdapter
-import com.nayandhabarde.wingo.viewmodel.LeagueViewModel
+import com.nayandhabarde.wingo.databinding.TournamentFragmentBinding
+import com.nayandhabarde.wingo.diffcallback.TournamentDiffCallback
+import com.nayandhabarde.wingo.ui.adapter.TournamentAdapter
+import com.nayandhabarde.wingo.viewmodel.TournamentViewModel
 import dagger.hilt.android.AndroidEntryPoint
 import kotlinx.coroutines.flow.collectLatest
 import kotlinx.coroutines.launch
 
 @AndroidEntryPoint
-class LeagueFragment: Fragment(R.layout.league_fragment) {
-    private var _binding: LeagueFragmentBinding? = null
+class TournamentFragment: Fragment(R.layout.tournament_fragment) {
+    private var _binding: TournamentFragmentBinding? = null
     private val binding get() = _binding
 
-    private val viewModel: LeagueViewModel by viewModels()
+    private val viewModel: TournamentViewModel by viewModels()
 
     override fun onCreateView(
         inflater: LayoutInflater,
         container: ViewGroup?,
         savedInstanceState: Bundle?
     ): View? {
-        _binding = LeagueFragmentBinding.inflate(inflater, container, false)
+        _binding = TournamentFragmentBinding.inflate(inflater, container, false)
         return binding?.root
     }
 
     override fun onViewCreated(view: View, savedInstanceState: Bundle?) {
         super.onViewCreated(view, savedInstanceState)
         binding?.apply {
-            val adapter = LeagueAdapter(LeagueDiffCallback())
+            val adapter = TournamentAdapter(TournamentDiffCallback())
             tournamentRecyclerView.layoutManager = LinearLayoutManager(context)
             tournamentRecyclerView.addItemDecoration(DividerItemDecoration(context, DividerItemDecoration.VERTICAL))
             tournamentRecyclerView.adapter = adapter
