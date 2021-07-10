@@ -35,7 +35,7 @@ class ApiServiceTest {
     @Test
     fun testTournamentResults() = runBlocking {
         server.enqueue(mockUtils.getTournamentsResponse())
-        val deferred = service.getLeagues(1, 10)
+        val deferred = service.getTournaments(1, 10)
         val tournaments: List<Tournament> = deferred.await().data
 
         val firstTournament = tournaments[0]

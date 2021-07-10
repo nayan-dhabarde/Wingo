@@ -28,7 +28,7 @@ class TournamentsRepositoryTest {
 
     @Test
     fun fetchTournamentsReturnsCorrectFlow() = runBlockingTest(coroutineDispatcher) {
-        `when`(service.getLeagues(1, PageSize.TOURNAMENTS.value)).thenReturn(pageResponseUtil.getPageOneResponse())
+        `when`(service.getTournaments(1, PageSize.TOURNAMENTS.value)).thenReturn(pageResponseUtil.getPageOneResponse())
         // A little hack as we cannot get data directly from the pagingData
         val differ = AsyncPagingDataDiffer(
             TournamentDiffCallback(),

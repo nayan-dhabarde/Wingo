@@ -23,7 +23,7 @@ class TournamentPagingSourceTest {
     @Test
     fun loadReturnsPageWhenOnSuccessLoad() = runBlocking {
         val pagingSource = TournamentPagingSource(service, 2)
-        `when`(service.getLeagues(1, 2)).thenReturn(pageResponseUtil.getPageOneResponse())
+        `when`(service.getTournaments(1, 2)).thenReturn(pageResponseUtil.getPageOneResponse())
         val actual = pagingSource.load(PagingSource.LoadParams.Refresh(
             key = null,
             loadSize = 2,
