@@ -4,6 +4,7 @@ import android.view.LayoutInflater
 import android.view.ViewGroup
 import androidx.paging.PagingDataAdapter
 import androidx.recyclerview.widget.DiffUtil
+import androidx.recyclerview.widget.LinearLayoutManager
 import coil.load
 import com.nayandhabarde.wingo.databinding.TournamentViewBinding
 import com.nayandhabarde.wingo.model.Tournament
@@ -19,6 +20,10 @@ class TournamentAdapter(diffCallback: DiffUtil.ItemCallback<Tournament>)
                 tournamentDateTextView.text = "Jun 29th - Jul 3rd"
                 tournamentImageView.load(model.league.imageUrl)
 
+                teamsRecyclerView.layoutManager = LinearLayoutManager(teamsRecyclerView.context, LinearLayoutManager.HORIZONTAL, false)
+                val adapter = TeamAdapter()
+                teamsRecyclerView.adapter = adapter
+                adapter.submitList(model.teams)
             }
         }
     }
