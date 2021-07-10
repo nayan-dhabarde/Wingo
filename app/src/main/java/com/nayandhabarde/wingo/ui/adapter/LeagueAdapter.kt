@@ -18,6 +18,7 @@ class LeagueAdapter(diffCallback: DiffUtil.ItemCallback<League>)
                 leagueNameTextView.text = model.name
                 leagueDateTextView.text = "Jun 29th - Jul 3rd"
                 leagueImageView.load(model.imageUrl)
+
             }
         }
     }

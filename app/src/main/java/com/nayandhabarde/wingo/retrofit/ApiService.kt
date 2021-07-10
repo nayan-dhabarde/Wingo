@@ -13,5 +13,6 @@ interface ApiService {
     @GET("/csgo/leagues")
     fun getLeagues(
         @Query("page[number]") page: Int,
-        @Query("page[size]") pageSize: Int): Deferred<PageResponse<MutableList<League>>>
+        @Query("page[size]") pageSize: Int,
+        @Query("sort") sort: String = "modified_at"): Deferred<PageResponse<MutableList<League>>>
 }

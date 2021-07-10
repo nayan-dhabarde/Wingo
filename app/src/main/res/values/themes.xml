@@ -10,9 +10,13 @@
         <item name="fontFamily">@font/sora_regular</item>
         <item name="colorSurface">@color/color_surface</item>
         <item name="textAppearanceSubtitle2">@style/TextAppearanceSubtitle2</item>
+        <item name="textAppearanceCaption">@style/TextAppearanceCaption</item>
         <!-- Customize your theme here. -->
     </style>
     <style name="TextAppearanceSubtitle2" parent="TextAppearance.MaterialComponents.Subtitle2">
         <item name="android:textColor">@color/subtitle_2_text_color</item>
+    </style>
+    <style name="TextAppearanceCaption" parent="TextAppearance.MaterialComponents.Caption">
+        <item name="android:textSize">@dimen/caption_text_size</item>
     </style>
 </resources>
