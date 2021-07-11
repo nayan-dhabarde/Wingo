@@ -37,7 +37,7 @@ class TournamentsRepositoryTest {
             coroutineDispatcher
         )
         val job  = launch {
-            repository.fetchLeague().collectLatest {
+            repository.fetchTournaments().collectLatest {
                 differ.submitData(it)
             }
         }

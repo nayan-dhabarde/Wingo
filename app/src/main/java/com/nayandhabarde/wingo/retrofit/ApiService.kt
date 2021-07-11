@@ -14,5 +14,6 @@ interface ApiService {
     fun getTournaments(
         @Query("page[number]") page: Int,
         @Query("page[size]") pageSize: Int,
-        @Query("sort") sort: String = "modified_at"): Deferred<PageResponse<MutableList<Tournament>>>
+        @Query("range[begin_at]") date: String,
+        @Query("sort") sort: String = "begin_at"): Deferred<PageResponse<MutableList<Tournament>>>
 }

@@ -6,13 +6,11 @@ import android.view.View
 import android.view.ViewGroup
 import androidx.fragment.app.Fragment
 import androidx.fragment.app.activityViewModels
-import androidx.fragment.app.viewModels
 import androidx.lifecycle.lifecycleScope
 import androidx.recyclerview.widget.DividerItemDecoration
 import androidx.recyclerview.widget.LinearLayoutManager
 import com.nayandhabarde.wingo.R
 import com.nayandhabarde.wingo.databinding.TournamentFragmentBinding
-import com.nayandhabarde.wingo.diffcallback.TournamentDiffCallback
 import com.nayandhabarde.wingo.ui.adapter.TournamentAdapter
 import com.nayandhabarde.wingo.viewmodel.TournamentViewModel
 import dagger.hilt.android.AndroidEntryPoint
@@ -45,7 +43,7 @@ class TournamentFragment: Fragment(R.layout.tournament_fragment) {
             tournamentRecyclerView.addItemDecoration(DividerItemDecoration(context, DividerItemDecoration.VERTICAL))
             tournamentRecyclerView.adapter = adapter
             lifecycleScope.launch {
-                viewModel.fetchDataFromRepo().collectLatest {
+                viewModel.tournaments.collectLatest {
                     adapter.submitData(it)
                 }
             }

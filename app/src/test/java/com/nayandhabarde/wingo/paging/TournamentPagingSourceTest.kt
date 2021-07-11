@@ -22,7 +22,12 @@ class TournamentPagingSourceTest {
 
     @Test
     fun loadReturnsPageWhenOnSuccessLoad() = runBlocking {
-        val pagingSource = TournamentPagingSource(service, 2)
+        val pagingSource = TournamentPagingSource(
+            service,
+            2,
+            wingoDateTimeFormatter.getCurrentMonthDateServerFormatted(),
+            wingoDateTimeFormatter.getCurrentMonthDatePlusNextYearServerFormatted()
+        )
         `when`(service.getTournaments(1, 2)).thenReturn(pageResponseUtil.getPageOneResponse())
         val actual = pagingSource.load(PagingSource.LoadParams.Refresh(
             key = null,

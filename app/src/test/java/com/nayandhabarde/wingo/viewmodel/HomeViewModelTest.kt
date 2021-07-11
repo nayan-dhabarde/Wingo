@@ -24,7 +24,7 @@ class HomeViewModelTest {
 
     @Test
     fun fetchDataFromRepoReturnsCorrectFlow() = runBlockingTest(coroutineDispatcher) {
-        `when`(repository.fetchLeague()).thenReturn(pageResponseUtil.getPageOneResponseFlow())
+        `when`(repository.fetchTournaments()).thenReturn(pageResponseUtil.getPageOneResponseFlow())
         // A little hack as we cannot get data directly from the pagingData
         val differ = AsyncPagingDataDiffer(
             TournamentDiffCallback(),
@@ -33,7 +33,7 @@ class HomeViewModelTest {
             coroutineDispatcher
         )
         val job  = launch {
-            repository.fetchLeague().collectLatest {
+            repository.fetchTournaments().collectLatest {
                 differ.submitData(it)
             }
         }
