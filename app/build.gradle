@@ -14,12 +14,6 @@ android {
             keyPassword 'android'
             keyAlias 'androiddebugkey'
         }
-        release {
-            storeFile file(String.valueOf(System.getenv("RELEASE_KEY_STORE")))
-            storePassword System.getenv("KEY_STORE_PASSWORD")
-            keyPassword System.getenv("KEY_ALIAS_PASSWORD")
-            keyAlias System.getenv("KEY_ALIAS")
-        }
     }
     compileSdk 30
     buildToolsVersion "30.0.3"
@@ -40,7 +34,6 @@ android {
             proguardFiles getDefaultProguardFile('proguard-android-optimize.txt'), 'proguard-rules.pro'
             buildConfigField "String", "BASE_URL", "\"${System.getenv("PRODUCTION_URL")}\""
             buildConfigField "String", "AUTH_TOKEN", "\"Bearer ${System.getenv("API_KEY")}\""
-            signingConfig signingConfigs.release
         }
         development {
             minifyEnabled false
