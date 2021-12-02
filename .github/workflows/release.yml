@@ -1,0 +1,40 @@
+name: Android CI
+
+on:
+  push:
+    branches: [ master ]
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      # 1
+      - name: Checkout code
+        uses: actions/checkout@v2
+      #2
+      - name: Generate Release App bundle
+        run: ./gradlew buildRelease
+        env:
+          PRODUCTION_URL: ${{ secrets.PRODUCTION_URL }}
+          API_KEY: ${{ secrets.API_KEY }}
+      #3
+      - name: Sign APK
+        uses: r0adkll/sign-android-release@v1
+        id: sign_app
+        with:
+          releaseDirectory: app/build/outputs/bundle/release
+          signingKeyBase64: ${{ secrets.RELEASE_KEY_STORE }}
+          alias: ${{ secrets.KEY_ALIAS }}
+          keyStorePassword: ${{ secrets.KEY_STORE_PASSWORD }}
+          keyPassword: ${{ secrets.KEY_ALIAS_PASSWORD }}
+      - name: Deploy to Play Store (BETA)
+        id: deploy
+        uses: r0adkll/upload-google-play@v1
+        with:
+          serviceAccountJsonPlainText: ${ { secrets.SERVICE_ACCOUNT } }
+          packageName: com.nayandhabarde.wingo
+          releaseFile: app/build/outputs/bundle/release/app-release.aab
+          track: production
+          whatsNewDirectory: whatsnew/
+
+
