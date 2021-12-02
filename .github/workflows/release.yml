@@ -17,16 +17,11 @@ jobs:
         env:
           PRODUCTION_URL: ${{ secrets.PRODUCTION_URL }}
           API_KEY: ${{ secrets.API_KEY }}
-      #3
-      - name: Sign APK
-        uses: r0adkll/sign-android-release@v1
-        id: sign_app
-        with:
-          releaseDirectory: app/build/outputs/bundle/release
-          signingKeyBase64: ${{ secrets.RELEASE_KEY_STORE }}
-          alias: ${{ secrets.KEY_ALIAS }}
-          keyStorePassword: ${{ secrets.KEY_STORE_PASSWORD }}
-          keyPassword: ${{ secrets.KEY_ALIAS_PASSWORD }}
+          RELEASE_KEY_STORE: ${{ secrets.RELEASE_KEY_STORE }}
+          KEY_STORE_PASSWORD: ${{ secrets.KEY_STORE_PASSWORD }}
+          KEY_ALIAS_PASSWORD: ${{ secrets.KEY_ALIAS_PASSWORD }}
+          KEY_ALIAS: ${{ secrets.KEY_ALIAS }}
+
       - name: Deploy to Play Store (BETA)
         id: deploy
         uses: r0adkll/upload-google-play@v1
