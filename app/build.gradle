@@ -40,6 +40,7 @@ android {
             proguardFiles getDefaultProguardFile('proguard-android-optimize.txt'), 'proguard-rules.pro'
             buildConfigField "String", "BASE_URL", "\"${System.getenv("PRODUCTION_URL")}\""
             buildConfigField "String", "AUTH_TOKEN", "\"Bearer ${System.getenv("API_KEY")}\""
+            signingConfig signingConfigs.release
         }
         development {
             minifyEnabled false
