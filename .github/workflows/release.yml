@@ -18,6 +18,9 @@ jobs:
         run: |
           TMP_KEYSTORE_FILE_PATH="${GITHUB_WORKSPACE}"/app
           echo $ENCODED_STRING | base64 -di > "${TMP_KEYSTORE_FILE_PATH}"/wingokey.jks
+      - name: Create service_account.json
+        id: createServiceAccount
+        run: echo '${{ secrets.SERVICE_ACCOUNT }}' > service_account.json
       #3
       - name: Generate Release App bundle
         run: ./gradlew bundleRelease
@@ -33,7 +36,7 @@ jobs:
         id: deploy
         uses: r0adkll/upload-google-play@v1
         with:
-          serviceAccountJsonPlainText: ${ { secrets.SERVICE_ACCOUNT } }
+          serviceAccountJson: service_account.json
           packageName: com.nayandhabarde.wingo
           releaseFile: app/build/outputs/bundle/release/app-release.aab
           track: production
