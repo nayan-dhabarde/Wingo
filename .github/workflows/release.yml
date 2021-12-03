@@ -16,7 +16,7 @@ jobs:
         id: decode_keystore
         uses: timheuer/base64-to-file@v1
         with:
-          fileName: 'wingokey.jks'
+          fileName: 'keystore/wingokey.jks'
           encodedString: ${{ secrets.RELEASE_KEY_STORE }}
       #3
       - name: Generate Release App bundle
