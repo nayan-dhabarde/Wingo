@@ -18,7 +18,7 @@ jobs:
         run: |
           TMP_KEYSTORE_FILE_PATH="${RUNNER_TEMP}"
           echo $ENCODED_STRING | base64 -di > "${TMP_KEYSTORE_FILE_PATH}"/wingokey.jks
-          echo $TMP_KEY_STORE_FILE_PATH
+          echo "${TMP_KEY_STORE_FILE_PATH}"
       #3
       - name: Generate Release App bundle
         run: ./gradlew bundleRelease
