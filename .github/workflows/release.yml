@@ -19,7 +19,7 @@ jobs:
           API_KEY: ${{ secrets.API_KEY }}
           RELEASE_KEY_STORE: ${{ secrets.RELEASE_KEY_STORE }}
           KEY_STORE_PASSWORD: ${{ secrets.KEY_STORE_PASSWORD }}
-          KEY_ALIAS_PASSWORD: ${{ secrets.KEY_ALIAS_PASSWORD }}
+          KEY_ALIAS_PASSWORD: ${{ secrets.KEY_PASSWORD }}
           KEY_ALIAS: ${{ secrets.KEY_ALIAS }}
 
       - name: Deploy to Play Store
