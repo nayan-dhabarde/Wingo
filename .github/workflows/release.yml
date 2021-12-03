@@ -37,6 +37,6 @@ jobs:
           packageName: com.nayandhabarde.wingo
           releaseFile: app/build/outputs/bundle/release/app-release.aab
           track: production
-          whatsNewDirectory: production/whatsnew
+          whatsNewDirectory: production
 
 
