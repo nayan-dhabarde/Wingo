@@ -16,7 +16,7 @@ jobs:
         env:
           ENCODED_STRING: ${{ secrets.RELEASE_KEY_STORE }}
         run: |
-          TMP_KEYSTORE_FILE_PATH="${GITHUB_WORKSPACE}"
+          TMP_KEYSTORE_FILE_PATH="${GITHUB_WORKSPACE}"/app
           echo $ENCODED_STRING | base64 -di > "${TMP_KEYSTORE_FILE_PATH}"/wingokey.jks
       #3
       - name: Generate Release App bundle
