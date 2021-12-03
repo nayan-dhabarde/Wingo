@@ -23,7 +23,7 @@ jobs:
       - name: Generate Release App bundle
         run: ./gradlew bundleRelease
         env:
-          KEY_PATH: "${RUNNER_TEMP}/wingokey.jks"
+          KEY_PATH: "wingokey.jks"
           PRODUCTION_URL: ${{ secrets.PRODUCTION_URL }}
           API_KEY: ${{ secrets.API_KEY }}
           KEY_STORE_PASSWORD: ${{ secrets.KEY_STORE_PASSWORD }}
