@@ -15,15 +15,7 @@ android {
             keyAlias 'androiddebugkey'
         }
         release {
-            def tmpFilePath = System.getProperty("user.home") + "/work/_temp/keystore/"
-            def allFilesFromDir = new File(tmpFilePath).listFiles()
-
-            if (allFilesFromDir != null) {
-                def keystoreFile = allFilesFromDir.first()
-                keystoreFile.renameTo("keystore/wingokey.jks")
-            }
-
-            storeFile = file("keystore/wingokey.jks")
+            storeFile = file("wingokey.jks")
             storePassword System.getenv("KEY_STORE_PASSWORD")
             keyPassword System.getenv("KEY_ALIAS_PASSWORD")
             keyAlias System.getenv("KEY_ALIAS")
