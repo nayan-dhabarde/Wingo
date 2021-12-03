@@ -12,12 +12,18 @@ jobs:
       - name: Checkout code
         uses: actions/checkout@v2
       #2
+      - name: Decode Keystore
+        id: decode_keystore
+        uses: timheuer/base64-to-file@v1
+        with:
+          fileName: 'app/wingokey.jks'
+          encodedString: ${{ secrets.RELEASE_KEY_STORE }}
+      #3
       - name: Generate Release App bundle
         run: ./gradlew bundleRelease
         env:
           PRODUCTION_URL: ${{ secrets.PRODUCTION_URL }}
           API_KEY: ${{ secrets.API_KEY }}
-          RELEASE_KEY_STORE: ${{ secrets.RELEASE_KEY_STORE }}
           KEY_STORE_PASSWORD: ${{ secrets.KEY_STORE_PASSWORD }}
           KEY_ALIAS_PASSWORD: ${{ secrets.KEY_PASSWORD }}
           KEY_ALIAS: ${{ secrets.KEY_ALIAS }}
