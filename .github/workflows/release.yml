@@ -16,11 +16,8 @@ jobs:
         env:
           ENCODED_STRING: ${{ secrets.RELEASE_KEY_STORE }}
         run: |
-          TMP_KEYSTORE_FILE_PATH="${RUNNER_TEMP}"
+          TMP_KEYSTORE_FILE_PATH="${GITHUB_WORKSPACE}"
           echo $ENCODED_STRING | base64 -di > "${TMP_KEYSTORE_FILE_PATH}"/wingokey.jks
-      #2
-      - name: Echo path
-        run: echo "${RUNNER_TEMP}"
       #3
       - name: Generate Release App bundle
         run: ./gradlew bundleRelease
