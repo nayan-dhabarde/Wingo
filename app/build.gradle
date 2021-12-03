@@ -15,7 +15,7 @@ android {
             keyAlias 'androiddebugkey'
         }
         release {
-            storeFile file("app/wingokey.jks")
+            storeFile file("wingokey.jks")
             storePassword System.getenv("KEY_STORE_PASSWORD")
             keyPassword System.getenv("KEY_ALIAS_PASSWORD")
             keyAlias System.getenv("KEY_ALIAS")
