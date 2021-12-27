@@ -22,15 +22,15 @@ jobs:
         id: createServiceAccount
         run: echo '${{ secrets.SERVICE_ACCOUNT }}' > service_account.json
       #3
-      - name: Generate Release App bundle
-        run: ./gradlew bundleRelease
-        env:
-          KEY_PATH: "wingokey.jks"
-          PRODUCTION_URL: ${{ secrets.PRODUCTION_URL }}
-          API_KEY: ${{ secrets.API_KEY }}
-          KEY_STORE_PASSWORD: ${{ secrets.KEY_STORE_PASSWORD }}
-          KEY_ALIAS_PASSWORD: ${{ secrets.KEY_PASSWORD }}
-          KEY_ALIAS: ${{ secrets.KEY_ALIAS }}
+      - uses: r0adkll/sign-android-release@v1
+        name: Sign app APK
+        id: sign_app
+        with:
+          releaseDirectory: app/build/outputs/bundle/release/app-release.aab
+          signingKeyBase64: ${{ secrets.RELEASE_KEY_STORE }}
+          alias: ${{ secrets.KEY_ALIAS }}
+          keyStorePassword: ${{ secrets.KEY_STORE_PASSWORD }}
+          keyPassword: ${{ secrets.KEY_PASSWORD }}
 
       - name: Deploy to Play Store
         id: deploy
@@ -38,7 +38,7 @@ jobs:
         with:
           serviceAccountJson: service_account.json
           packageName: com.nayandhabarde.wingo
-          releaseFile: app/build/outputs/bundle/release/app-release.aab
+          releaseFile: ${{steps.sign_app.outputs.signedReleaseFile}}
           track: production
           whatsNewDirectory: production
 
