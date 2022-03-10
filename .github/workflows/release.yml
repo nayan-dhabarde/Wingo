@@ -13,7 +13,7 @@ jobs:
         uses: actions/checkout@v2
       #2
       - name: Build App bundle
-        run: ./gradlew assembleRelease
+        run: ./gradlew bundleRelease
       - name: Decode Keystore
         env:
           ENCODED_STRING: ${{ secrets.RELEASE_KEY_STORE }}
