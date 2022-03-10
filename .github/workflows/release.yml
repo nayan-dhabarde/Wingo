@@ -12,6 +12,8 @@ jobs:
       - name: Checkout code
         uses: actions/checkout@v2
       #2
+      - name: Build App bundle
+        run: ./gradlew assembleRelease
       - name: Decode Keystore
         env:
           ENCODED_STRING: ${{ secrets.RELEASE_KEY_STORE }}
@@ -26,7 +28,7 @@ jobs:
         name: Sign app APK
         id: sign_app
         with:
-          releaseDirectory: /app/build/outputs/bundle/release/app-release.aab
+          releaseDirectory: app/build/outputs/bundle/release/app-release.aab
           signingKeyBase64: ${{ secrets.RELEASE_KEY_STORE }}
           alias: ${{ secrets.KEY_ALIAS }}
           keyStorePassword: ${{ secrets.KEY_STORE_PASSWORD }}
