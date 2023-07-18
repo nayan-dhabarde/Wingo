@@ -1,0 +1,16 @@
+name: Android CI
+
+on:
+  pull_request:
+    branches:
+      - 'build-feature/**'
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+
+    steps:
+    name: Git Sensei
+    uses: shivendrasoni/git-sensei-action@V0.1.0
+
+
